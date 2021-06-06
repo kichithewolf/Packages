@@ -1,0 +1,83 @@
+{
+    "eng": {
+        "No Good": [ "No Good" ],
+        "Decent": [ "Decent" ],
+        "Pretty Good": [ "Pretty Good" ],
+        "Very Good": [ "Very Good" ],
+        "Fantastic": [ "Fantastic" ],
+        "Best": [ "Best" ],
+        "Hyper trained!": [ "Hyper trained!" ]
+    },
+    "jpn": {
+        "No Good": [ "ダメかも" ],
+        "Decent": [ "まあまあ" ],
+        "Pretty Good": [ "かなりいい" ],
+        "Very Good": [ "すごぐいい" ],
+        "Fantastic": [ "すばらしい" ],
+        "Best": [ "さいこう", "⑮", "さ⑤" ],
+        "Hyper trained!": [ "きたえた!" ]
+    },
+    "fra": {
+        "No Good": [ "Pas top ..." ],
+        "Decent": [ "Passable ..." ],
+        "Pretty Good": [ "Bon !" ],
+        "Very Good": [ "Très bon !" ],
+        "Fantastic": [ "Fantastique !" ],
+        "Best": [ "Exceptionnel !" ],
+        "Hyper trained!": [ "Au top !" ]
+    },
+    "ita": {
+        "No Good": [ "Mediocre" ],
+        "Decent": [ "Sufficiente" ],
+        "Pretty Good": [ "Normale" ],
+        "Very Good": [ "Notevole" ],
+        "Fantastic": [ "Eccellente" ],
+        "Best": [ "Stellare" ],
+        "Hyper trained!": [ "Al top" ]
+    },
+    "deu": {
+        "No Good": [ "Schlecht" ],
+        "Decent": [ "Nicht übel" ],
+        "Pretty Good": [ "Gut" ],
+        "Very Good": [ "Sehr gut" ],
+        "Fantastic": [ "Fantastisch" ],
+        "Best": [ "Sensationell" ],
+        "Hyper trained!": [ "Maximiert" ]
+    },
+    "spa": {
+        "No Good": [ "Cojea un poco" ],
+        "Decent": [ "No está mal" ],
+        "Pretty Good": [ "Notable" ],
+        "Very Good": [ "Genial" ],
+        "Fantastic": [ "Espectacular" ],
+        "Best": [ "Inmejorable" ],
+        "Hyper trained!": [ "¡Al máximo!" ]
+    },
+    "kor": {
+        "No Good": [ "별 로 인 듯" ],
+        "Decent": [ "적 당 하 다" ],
+        "Pretty Good": [ "상 당 이 좋 다", "史 豆 司 江 口" ],
+        "Very Good": [ "굉 장 이 좋 다", "含 向 弗 耋", "含 向 可 耋 目", "含 可 可 書 口" ],
+        "Fantastic": [ "훌 륭 하 다", "畫 同 0 可", "書 同 0 可", "哲 昭 史 叮", "哲 昭 可 可", "唐 昭 可 可", "吳 舀 司 烤 h", "含 句 可 奎 口" ],
+        "Best": [ "최 고", "쇠 ㅁ !", "夾 |" ],
+        "Hyper trained!": [ "단 련 되 었 다 !", "日 臾 司 烈 君", "貝 田 司 烈 和", "豆 田 句 烈 和" ]
+    },
+    "chi_sim": {
+        "No Good": [ "也 许 不 行" ],
+        "Decent": [ "一 般 般", "一 航 航" ],
+        "Pretty Good": [ "相 当 好" ],
+        "Very Good": [ "非 常 好" ],
+        "Fantastic": [ "了 不 起" ],
+        "Best": [ "最 棒" ],
+        "Hyper trained!": [ "锻 炼 了 !" ]
+    },
+    "chi_tra": {
+        "No Good": [ "不 怎 麼 樣", "不 怡 麼 樣" ],
+        "Decent": [ "普 普 通 通", "春 普 通 通", "日 普 通 通" ],
+        "Pretty Good": [ "相 當 好" ],
+        "Very Good": [ "非 常 好" ],
+        "Fantastic": [ "了 不 起" ],
+        "Best": [ "太 完 美 了 ! ", "2 夫 史", "R 七 早", "2 仁 2 夫 七", "2 大 早", "2 七 早 哉", "2 大", "2 夷 早 哉", "E 大 史", "2 七 目", "天 宏 美 予", "2 旱 一 [", "R 大" ],
+        "Hyper trained!": [ "完 成 鍛 鍊 了 !" ]
+    }
+}
