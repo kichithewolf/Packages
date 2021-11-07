@@ -1104,7 +1104,8 @@
             "lugia"
         ],
         "Sprite": [
-            "lugia"
+            "lugia",
+            "lugia-shadow"
         ]
     },
     "lunala": {
