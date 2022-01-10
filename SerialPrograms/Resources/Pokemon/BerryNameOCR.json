@@ -1,0 +1,1775 @@
+{
+    "eng": {
+        "cheri-berry": [
+            "Cheri Berry"
+        ],
+        "chesto-berry": [
+            "Chesto Berry"
+        ],
+        "pecha-berry": [
+            "Pecha Berry"
+        ],
+        "rawst-berry": [
+            "Rawst Berry"
+        ],
+        "aspear-berry": [
+            "Aspear Berry"
+        ],
+        "leppa-berry": [
+            "Leppa Berry"
+        ],
+        "oran-berry": [
+            "Oran Berry"
+        ],
+        "persim-berry": [
+            "Persim Berry"
+        ],
+        "lum-berry": [
+            "Lum Berry"
+        ],
+        "sitrus-berry": [
+            "Sitrus Berry"
+        ],
+        "figy-berry": [
+            "Figy Berry"
+        ],
+        "wiki-berry": [
+            "Wiki Berry"
+        ],
+        "mago-berry": [
+            "Mago Berry"
+        ],
+        "aguav-berry": [
+            "Aguav Berry"
+        ],
+        "iapapa-berry": [
+            "Iapapa Berry"
+        ],
+        "razz-berry": [
+            "Razz Berry"
+        ],
+        "bluk-berry": [
+            "Bluk Berry"
+        ],
+        "nanab-berry": [
+            "Nanab Berry"
+        ],
+        "wepear-berry": [
+            "Wepear Berry"
+        ],
+        "pinap-berry": [
+            "Pinap Berry"
+        ],
+        "pomeg-berry": [
+            "Pomeg Berry"
+        ],
+        "kelpsy-berry": [
+            "Kelpsy Berry"
+        ],
+        "qualot-berry": [
+            "Qualot Berry"
+        ],
+        "hondew-berry": [
+            "Hondew Berry"
+        ],
+        "grepa-berry": [
+            "Grepa Berry"
+        ],
+        "tamato-berry": [
+            "Tamato Berry"
+        ],
+        "cornn-berry": [
+            "Cornn Berry"
+        ],
+        "magost-berry": [
+            "Magost Berry"
+        ],
+        "rabuta-berry": [
+            "Rabuta Berry"
+        ],
+        "nomel-berry": [
+            "Nomel Berry"
+        ],
+        "spelon-berry": [
+            "Spelon Berry"
+        ],
+        "pamtre-berry": [
+            "Pamtre Berry"
+        ],
+        "watmel-berry": [
+            "Watmel Berry"
+        ],
+        "durin-berry": [
+            "Durin Berry"
+        ],
+        "belue-berry": [
+            "Belue Berry"
+        ],
+        "occa-berry": [
+            "Occa Berry"
+        ],
+        "passho-berry": [
+            "Passho Berry"
+        ],
+        "wacan-berry": [
+            "Wacan Berry"
+        ],
+        "rindo-berry": [
+            "Rindo Berry"
+        ],
+        "yache-berry": [
+            "Yache Berry"
+        ],
+        "chople-berry": [
+            "Chople Berry"
+        ],
+        "kebia-berry": [
+            "Kebia Berry"
+        ],
+        "shuca-berry": [
+            "Shuca Berry"
+        ],
+        "coba-berry": [
+            "Coba Berry"
+        ],
+        "payapa-berry": [
+            "Payapa Berry"
+        ],
+        "tanga-berry": [
+            "Tanga Berry"
+        ],
+        "charti-berry": [
+            "Charti Berry"
+        ],
+        "kasib-berry": [
+            "Kasib Berry"
+        ],
+        "haban-berry": [
+            "Haban Berry"
+        ],
+        "colbur-berry": [
+            "Colbur Berry"
+        ],
+        "babiri-berry": [
+            "Babiri Berry"
+        ],
+        "chilan-berry": [
+            "Chilan Berry"
+        ],
+        "liechi-berry": [
+            "Liechi Berry"
+        ],
+        "ganlon-berry": [
+            "Ganlon Berry"
+        ],
+        "salac-berry": [
+            "Salac Berry"
+        ],
+        "petaya-berry": [
+            "Petaya Berry"
+        ],
+        "apicot-berry": [
+            "Apicot Berry"
+        ],
+        "lansat-berry": [
+            "Lansat Berry"
+        ],
+        "starf-berry": [
+            "Starf Berry"
+        ],
+        "enigma-berry": [
+            "Enigma Berry"
+        ],
+        "micle-berry": [
+            "Micle Berry"
+        ],
+        "custap-berry": [
+            "Custap Berry"
+        ],
+        "jaboca-berry": [
+            "Jaboca Berry"
+        ],
+        "rowap-berry": [
+            "Rowap Berry"
+        ],
+        "roseli-berry": [
+            "Roseli Berry"
+        ]
+    },
+    "jpn": {
+        "cheri-berry": [
+            "クラボのみ"
+        ],
+        "chesto-berry": [
+            "カゴのみ"
+        ],
+        "pecha-berry": [
+            "モモンのみ"
+        ],
+        "rawst-berry": [
+            "チーゴのみ"
+        ],
+        "aspear-berry": [
+            "ナナシのみ"
+        ],
+        "leppa-berry": [
+            "ヒメリのみ"
+        ],
+        "oran-berry": [
+            "オレンのみ"
+        ],
+        "persim-berry": [
+            "キーのみ"
+        ],
+        "lum-berry": [
+            "ラムのみ"
+        ],
+        "sitrus-berry": [
+            "オボンのみ"
+        ],
+        "figy-berry": [
+            "フィラのみ"
+        ],
+        "wiki-berry": [
+            "ウイのみ"
+        ],
+        "mago-berry": [
+            "マゴのみ"
+        ],
+        "aguav-berry": [
+            "バンジのみ"
+        ],
+        "iapapa-berry": [
+            "イアのみ"
+        ],
+        "razz-berry": [
+            "ズリのみ"
+        ],
+        "bluk-berry": [
+            "ブリーのみ"
+        ],
+        "nanab-berry": [
+            "ナナのみ"
+        ],
+        "wepear-berry": [
+            "セシナのみ"
+        ],
+        "pinap-berry": [
+            "パイルのみ"
+        ],
+        "pomeg-berry": [
+            "ザロクのみ"
+        ],
+        "kelpsy-berry": [
+            "ネコブのみ"
+        ],
+        "qualot-berry": [
+            "タポルのみ"
+        ],
+        "hondew-berry": [
+            "ロメのみ"
+        ],
+        "grepa-berry": [
+            "ウブのみ"
+        ],
+        "tamato-berry": [
+            "マトマのみ"
+        ],
+        "cornn-berry": [
+            "モコシのみ"
+        ],
+        "magost-berry": [
+            "ゴスのみ"
+        ],
+        "rabuta-berry": [
+            "ラブタのみ"
+        ],
+        "nomel-berry": [
+            "ノメルのみ"
+        ],
+        "spelon-berry": [
+            "ノワキのみ"
+        ],
+        "pamtre-berry": [
+            "シーヤのみ"
+        ],
+        "watmel-berry": [
+            "カイスのみ"
+        ],
+        "durin-berry": [
+            "ドリのみ"
+        ],
+        "belue-berry": [
+            "ベリブのみ"
+        ],
+        "occa-berry": [
+            "オッカのみ"
+        ],
+        "passho-berry": [
+            "イトケのみ"
+        ],
+        "wacan-berry": [
+            "ソクノのみ"
+        ],
+        "rindo-berry": [
+            "リンドのみ"
+        ],
+        "yache-berry": [
+            "ヤチェのみ"
+        ],
+        "chople-berry": [
+            "ヨプのみ"
+        ],
+        "kebia-berry": [
+            "ビアーのみ"
+        ],
+        "shuca-berry": [
+            "シュカのみ"
+        ],
+        "coba-berry": [
+            "バコウのみ"
+        ],
+        "payapa-berry": [
+            "ウタンのみ"
+        ],
+        "tanga-berry": [
+            "タンガのみ"
+        ],
+        "charti-berry": [
+            "ヨロギのみ"
+        ],
+        "kasib-berry": [
+            "カシブのみ"
+        ],
+        "haban-berry": [
+            "ハバンのみ"
+        ],
+        "colbur-berry": [
+            "ナモのみ"
+        ],
+        "babiri-berry": [
+            "リリバのみ"
+        ],
+        "chilan-berry": [
+            "ホズのみ"
+        ],
+        "liechi-berry": [
+            "チイラのみ"
+        ],
+        "ganlon-berry": [
+            "リュガのみ"
+        ],
+        "salac-berry": [
+            "カムラのみ"
+        ],
+        "petaya-berry": [
+            "ヤタピのみ"
+        ],
+        "apicot-berry": [
+            "ズアのみ"
+        ],
+        "lansat-berry": [
+            "サンのみ"
+        ],
+        "starf-berry": [
+            "スターのみ"
+        ],
+        "enigma-berry": [
+            "ナゾのみ"
+        ],
+        "micle-berry": [
+            "ミクルのみ"
+        ],
+        "custap-berry": [
+            "イバンのみ"
+        ],
+        "jaboca-berry": [
+            "ジャポのみ"
+        ],
+        "rowap-berry": [
+            "レンブのみ"
+        ],
+        "roseli-berry": [
+            "ロゼルのみ"
+        ]
+    },
+    "fra": {
+        "cheri-berry": [
+            "Baie Ceriz"
+        ],
+        "chesto-berry": [
+            "Baie Maron"
+        ],
+        "pecha-berry": [
+            "Baie Pêcha"
+        ],
+        "rawst-berry": [
+            "Baie Fraive"
+        ],
+        "aspear-berry": [
+            "Baie Willia"
+        ],
+        "leppa-berry": [
+            "Baie Mepo"
+        ],
+        "oran-berry": [
+            "Baie Oran"
+        ],
+        "persim-berry": [
+            "Baie Kika"
+        ],
+        "lum-berry": [
+            "Baie Prine"
+        ],
+        "sitrus-berry": [
+            "Baie Sitrus"
+        ],
+        "figy-berry": [
+            "Baie Figuy"
+        ],
+        "wiki-berry": [
+            "Baie Wiki"
+        ],
+        "mago-berry": [
+            "Baie Mago"
+        ],
+        "aguav-berry": [
+            "Baie Gowav"
+        ],
+        "iapapa-berry": [
+            "Baie Papaya"
+        ],
+        "razz-berry": [
+            "Baie Framby"
+        ],
+        "bluk-berry": [
+            "Baie Remu"
+        ],
+        "nanab-berry": [
+            "Baie Nanab"
+        ],
+        "wepear-berry": [
+            "Baie Repoi"
+        ],
+        "pinap-berry": [
+            "Baie Nanana"
+        ],
+        "pomeg-berry": [
+            "Baie Grena"
+        ],
+        "kelpsy-berry": [
+            "Baie Alga"
+        ],
+        "qualot-berry": [
+            "Baie Qualot"
+        ],
+        "hondew-berry": [
+            "Baie Lonme"
+        ],
+        "grepa-berry": [
+            "Baie Résin"
+        ],
+        "tamato-berry": [
+            "Baie Tamato"
+        ],
+        "cornn-berry": [
+            "Baie Siam"
+        ],
+        "magost-berry": [
+            "Baie Mangou"
+        ],
+        "rabuta-berry": [
+            "Baie Rabuta"
+        ],
+        "nomel-berry": [
+            "Baie Tronci"
+        ],
+        "spelon-berry": [
+            "Baie Kiwan"
+        ],
+        "pamtre-berry": [
+            "Baie Palma"
+        ],
+        "watmel-berry": [
+            "Baie Stekpa"
+        ],
+        "durin-berry": [
+            "Baie Durin"
+        ],
+        "belue-berry": [
+            "Baie Myrte"
+        ],
+        "occa-berry": [
+            "Baie Chocco"
+        ],
+        "passho-berry": [
+            "Baie Pocpoc"
+        ],
+        "wacan-berry": [
+            "Baie Parma"
+        ],
+        "rindo-berry": [
+            "Baie Ratam"
+        ],
+        "yache-berry": [
+            "Baie Nanone"
+        ],
+        "chople-berry": [
+            "Baie Pomroz"
+        ],
+        "kebia-berry": [
+            "Baie Kébia"
+        ],
+        "shuca-berry": [
+            "Baie Jouca"
+        ],
+        "coba-berry": [
+            "Baie Cobaba"
+        ],
+        "payapa-berry": [
+            "Baie Yapap"
+        ],
+        "tanga-berry": [
+            "Baie Panga"
+        ],
+        "charti-berry": [
+            "Baie Charti"
+        ],
+        "kasib-berry": [
+            "Baie Sédra"
+        ],
+        "haban-berry": [
+            "Baie Fraigo"
+        ],
+        "colbur-berry": [
+            "Baie Lampou"
+        ],
+        "babiri-berry": [
+            "Baie Babiri"
+        ],
+        "chilan-berry": [
+            "Baie Zalis"
+        ],
+        "liechi-berry": [
+            "Baie Lichii"
+        ],
+        "ganlon-berry": [
+            "Baie Lingan"
+        ],
+        "salac-berry": [
+            "Baie Sailak"
+        ],
+        "petaya-berry": [
+            "Baie Pitaye"
+        ],
+        "apicot-berry": [
+            "Baie Abriko"
+        ],
+        "lansat-berry": [
+            "Baie Lansat"
+        ],
+        "starf-berry": [
+            "Baie Frista"
+        ],
+        "enigma-berry": [
+            "Baie Enigma"
+        ],
+        "micle-berry": [
+            "Baie Micle"
+        ],
+        "custap-berry": [
+            "Baie Chérim"
+        ],
+        "jaboca-berry": [
+            "Baie Jaboca"
+        ],
+        "rowap-berry": [
+            "Baie Pommo"
+        ],
+        "roseli-berry": [
+            "Baie Selro"
+        ]
+    },
+    "ita": {
+        "cheri-berry": [
+            "Baccaliegia"
+        ],
+        "chesto-berry": [
+            "Baccastagna"
+        ],
+        "pecha-berry": [
+            "Baccapesca"
+        ],
+        "rawst-berry": [
+            "Baccafrago"
+        ],
+        "aspear-berry": [
+            "Baccaperina"
+        ],
+        "leppa-berry": [
+            "Baccamela"
+        ],
+        "oran-berry": [
+            "Baccarancia"
+        ],
+        "persim-berry": [
+            "Baccaki"
+        ],
+        "lum-berry": [
+            "Baccaprugna"
+        ],
+        "sitrus-berry": [
+            "Baccacedro"
+        ],
+        "figy-berry": [
+            "Baccafico"
+        ],
+        "wiki-berry": [
+            "Baccakiwi"
+        ],
+        "mago-berry": [
+            "Baccamango"
+        ],
+        "aguav-berry": [
+            "Baccaguava"
+        ],
+        "iapapa-berry": [
+            "Baccapaia"
+        ],
+        "razz-berry": [
+            "Baccalampon"
+        ],
+        "bluk-berry": [
+            "Baccamora"
+        ],
+        "nanab-berry": [
+            "Baccabana"
+        ],
+        "wepear-berry": [
+            "Baccapera"
+        ],
+        "pinap-berry": [
+            "Baccananas"
+        ],
+        "pomeg-berry": [
+            "Baccagrana"
+        ],
+        "kelpsy-berry": [
+            "Baccalga"
+        ],
+        "qualot-berry": [
+            "Baccaloquat"
+        ],
+        "hondew-berry": [
+            "Baccamelon"
+        ],
+        "grepa-berry": [
+            "Baccauva"
+        ],
+        "tamato-berry": [
+            "Baccamodoro"
+        ],
+        "cornn-berry": [
+            "Baccavena"
+        ],
+        "magost-berry": [
+            "Baccagostan"
+        ],
+        "rabuta-berry": [
+            "Baccambutan"
+        ],
+        "nomel-berry": [
+            "Baccalemon"
+        ],
+        "spelon-berry": [
+            "Baccamelos"
+        ],
+        "pamtre-berry": [
+            "Baccapalma"
+        ],
+        "watmel-berry": [
+            "Baccacomero"
+        ],
+        "durin-berry": [
+            "Baccadurian"
+        ],
+        "belue-berry": [
+            "Baccartillo"
+        ],
+        "occa-berry": [
+            "Baccacao"
+        ],
+        "passho-berry": [
+            "Baccapasflo"
+        ],
+        "wacan-berry": [
+            "Baccaparmen"
+        ],
+        "rindo-berry": [
+            "Baccarindo"
+        ],
+        "yache-berry": [
+            "Baccamoya"
+        ],
+        "chople-berry": [
+            "Baccarosmel"
+        ],
+        "kebia-berry": [
+            "Baccakebia"
+        ],
+        "shuca-berry": [
+            "Baccanaca"
+        ],
+        "coba-berry": [
+            "Baccababa"
+        ],
+        "payapa-berry": [
+            "Baccapayapa"
+        ],
+        "tanga-berry": [
+            "Baccaitan"
+        ],
+        "charti-berry": [
+            "Baccaciofo"
+        ],
+        "kasib-berry": [
+            "Baccacitrus"
+        ],
+        "haban-berry": [
+            "Baccahaban"
+        ],
+        "colbur-berry": [
+            "Baccaxan"
+        ],
+        "babiri-berry": [
+            "Baccababiri"
+        ],
+        "chilan-berry": [
+            "Baccacinlan"
+        ],
+        "liechi-berry": [
+            "Baccalici"
+        ],
+        "ganlon-berry": [
+            "Baccalongan"
+        ],
+        "salac-berry": [
+            "Baccasalak"
+        ],
+        "petaya-berry": [
+            "Baccapitaya"
+        ],
+        "apicot-berry": [
+            "Baccacocca"
+        ],
+        "lansat-berry": [
+            "Baccalangsa"
+        ],
+        "starf-berry": [
+            "Baccambola"
+        ],
+        "enigma-berry": [
+            "Baccaenigma"
+        ],
+        "micle-berry": [
+            "Baccaracolo"
+        ],
+        "custap-berry": [
+            "Baccacrela"
+        ],
+        "jaboca-berry": [
+            "Baccajaba"
+        ],
+        "rowap-berry": [
+            "Baccaroam"
+        ],
+        "roseli-berry": [
+            "Baccarcadè"
+        ]
+    },
+    "deu": {
+        "cheri-berry": [
+            "Amrenabeere"
+        ],
+        "chesto-berry": [
+            "Maronbeere"
+        ],
+        "pecha-berry": [
+            "Pirsifbeere"
+        ],
+        "rawst-berry": [
+            "Fragiabeere"
+        ],
+        "aspear-berry": [
+            "Wilbirbeere"
+        ],
+        "leppa-berry": [
+            "Jonagobeere"
+        ],
+        "oran-berry": [
+            "Sinelbeere"
+        ],
+        "persim-berry": [
+            "Persimbeere"
+        ],
+        "lum-berry": [
+            "Prunusbeere"
+        ],
+        "sitrus-berry": [
+            "Tsitrubeere"
+        ],
+        "figy-berry": [
+            "Giefebeere"
+        ],
+        "wiki-berry": [
+            "Wikibeere"
+        ],
+        "mago-berry": [
+            "Magobeere"
+        ],
+        "aguav-berry": [
+            "Gauvebeere"
+        ],
+        "iapapa-berry": [
+            "Yapabeere"
+        ],
+        "razz-berry": [
+            "Himmihbeere"
+        ],
+        "bluk-berry": [
+            "Morbbeere"
+        ],
+        "nanab-berry": [
+            "Nanabbeere"
+        ],
+        "wepear-berry": [
+            "Nirbebeere"
+        ],
+        "pinap-berry": [
+            "Sananabeere"
+        ],
+        "pomeg-berry": [
+            "Granabeere"
+        ],
+        "kelpsy-berry": [
+            "Setangbeere"
+        ],
+        "qualot-berry": [
+            "Qualotbeere"
+        ],
+        "hondew-berry": [
+            "Honmelbeere"
+        ],
+        "grepa-berry": [
+            "Labrusbeere"
+        ],
+        "tamato-berry": [
+            "Tamotbeere"
+        ],
+        "cornn-berry": [
+            "Saimbeere"
+        ],
+        "magost-berry": [
+            "Magostbeere"
+        ],
+        "rabuta-berry": [
+            "Rabutabeere"
+        ],
+        "nomel-berry": [
+            "Tronzibeere"
+        ],
+        "spelon-berry": [
+            "Kiwanbeere"
+        ],
+        "pamtre-berry": [
+            "Pallmbeere"
+        ],
+        "watmel-berry": [
+            "Wasmelbeere"
+        ],
+        "durin-berry": [
+            "Durinbeere"
+        ],
+        "belue-berry": [
+            "Myrtilbeere"
+        ],
+        "occa-berry": [
+            "Koakobeere"
+        ],
+        "passho-berry": [
+            "Foepasbeere"
+        ],
+        "wacan-berry": [
+            "Kerzalbeere"
+        ],
+        "rindo-berry": [
+            "Grindobeere"
+        ],
+        "yache-berry": [
+            "Kiroyabeere"
+        ],
+        "chople-berry": [
+            "Rospelbeere"
+        ],
+        "kebia-berry": [
+            "Grarzbeere"
+        ],
+        "shuca-berry": [
+            "Schukebeere"
+        ],
+        "coba-berry": [
+            "Kobabeere"
+        ],
+        "payapa-berry": [
+            "Pyapabeere"
+        ],
+        "tanga-berry": [
+            "Tanigabeere"
+        ],
+        "charti-berry": [
+            "Chiaribeere"
+        ],
+        "kasib-berry": [
+            "Zitarzbeere"
+        ],
+        "haban-berry": [
+            "Terirobeere"
+        ],
+        "colbur-berry": [
+            "Burleobeere"
+        ],
+        "babiri-berry": [
+            "Babiribeere"
+        ],
+        "chilan-berry": [
+            "Latchibeere"
+        ],
+        "liechi-berry": [
+            "Lydzibeere"
+        ],
+        "ganlon-berry": [
+            "Linganbeere"
+        ],
+        "salac-berry": [
+            "Salkabeere"
+        ],
+        "petaya-berry": [
+            "Tahaybeere"
+        ],
+        "apicot-berry": [
+            "Apikobeere"
+        ],
+        "lansat-berry": [
+            "Lansatbeere"
+        ],
+        "starf-berry": [
+            "Krambobeere"
+        ],
+        "enigma-berry": [
+            "Enigmabeere"
+        ],
+        "micle-berry": [
+            "Wunfrubeere"
+        ],
+        "custap-berry": [
+            "Eipfelbeere"
+        ],
+        "jaboca-berry": [
+            "Jabocabeere"
+        ],
+        "rowap-berry": [
+            "Roselbeere"
+        ],
+        "roseli-berry": [
+            "Hibisbeere"
+        ]
+    },
+    "spa": {
+        "cheri-berry": [
+            "Baya Zreza"
+        ],
+        "chesto-berry": [
+            "Baya Atania"
+        ],
+        "pecha-berry": [
+            "Baya Meloc"
+        ],
+        "rawst-berry": [
+            "Baya Safre"
+        ],
+        "aspear-berry": [
+            "Baya Perasi"
+        ],
+        "leppa-berry": [
+            "Baya Zanama"
+        ],
+        "oran-berry": [
+            "Baya Aranja"
+        ],
+        "persim-berry": [
+            "Baya Caquic"
+        ],
+        "lum-berry": [
+            "Baya Ziuela"
+        ],
+        "sitrus-berry": [
+            "Baya Zidra"
+        ],
+        "figy-berry": [
+            "Baya Higog"
+        ],
+        "wiki-berry": [
+            "Baya Wiki"
+        ],
+        "mago-berry": [
+            "Baya Ango"
+        ],
+        "aguav-berry": [
+            "Baya Guaya"
+        ],
+        "iapapa-berry": [
+            "Baya Pabaya"
+        ],
+        "razz-berry": [
+            "Baya Frambu"
+        ],
+        "bluk-berry": [
+            "Baya Oram"
+        ],
+        "nanab-berry": [
+            "Baya Latano"
+        ],
+        "wepear-berry": [
+            "Baya Peragu"
+        ],
+        "pinap-berry": [
+            "Baya Pinia"
+        ],
+        "pomeg-berry": [
+            "Baya Grana"
+        ],
+        "kelpsy-berry": [
+            "Baya Algama"
+        ],
+        "qualot-berry": [
+            "Baya Ispero"
+        ],
+        "hondew-berry": [
+            "Baya Meluce"
+        ],
+        "grepa-berry": [
+            "Baya Uvav"
+        ],
+        "tamato-berry": [
+            "Baya Tamate"
+        ],
+        "cornn-berry": [
+            "Baya Mais"
+        ],
+        "magost-berry": [
+            "Baya Aostan"
+        ],
+        "rabuta-berry": [
+            "Baya Rautan"
+        ],
+        "nomel-berry": [
+            "Baya Monli"
+        ],
+        "spelon-berry": [
+            "Baya Wikano"
+        ],
+        "pamtre-berry": [
+            "Baya Plama"
+        ],
+        "watmel-berry": [
+            "Baya Sambia"
+        ],
+        "durin-berry": [
+            "Baya Rudion"
+        ],
+        "belue-berry": [
+            "Baya Andano"
+        ],
+        "occa-berry": [
+            "Baya Caoca"
+        ],
+        "passho-berry": [
+            "Baya Pasio"
+        ],
+        "wacan-berry": [
+            "Baya Gualot"
+        ],
+        "rindo-berry": [
+            "Baya Tamar"
+        ],
+        "yache-berry": [
+            "Baya Rimoya"
+        ],
+        "chople-berry": [
+            "Baya Pomaro"
+        ],
+        "kebia-berry": [
+            "Baya Kebia"
+        ],
+        "shuca-berry": [
+            "Baya Acardo"
+        ],
+        "coba-berry": [
+            "Baya Kouba"
+        ],
+        "payapa-berry": [
+            "Baya Payapa"
+        ],
+        "tanga-berry": [
+            "Baya Yecana"
+        ],
+        "charti-berry": [
+            "Baya Alcho"
+        ],
+        "kasib-berry": [
+            "Baya Drasi"
+        ],
+        "haban-berry": [
+            "Baya Anjiro"
+        ],
+        "colbur-berry": [
+            "Baya Dillo"
+        ],
+        "babiri-berry": [
+            "Baya Baribá"
+        ],
+        "chilan-berry": [
+            "Baya Chilan"
+        ],
+        "liechi-berry": [
+            "Baya Lichi"
+        ],
+        "ganlon-berry": [
+            "Baya Gonlan"
+        ],
+        "salac-berry": [
+            "Baya Aslac"
+        ],
+        "petaya-berry": [
+            "Baya Yapati"
+        ],
+        "apicot-berry": [
+            "Baya Aricoc"
+        ],
+        "lansat-berry": [
+            "Baya Zonlan"
+        ],
+        "starf-berry": [
+            "Baya Arabol"
+        ],
+        "enigma-berry": [
+            "Baya Enigma"
+        ],
+        "micle-berry": [
+            "Baya Lagro"
+        ],
+        "custap-berry": [
+            "Baya Chiri"
+        ],
+        "jaboca-berry": [
+            "Baya Jaboca"
+        ],
+        "rowap-berry": [
+            "Baya Magua"
+        ],
+        "roseli-berry": [
+            "Baya Hibis"
+        ]
+    },
+    "kor": {
+        "cheri-berry": [
+            "버치열매"
+        ],
+        "chesto-berry": [
+            "유루열매"
+        ],
+        "pecha-berry": [
+            "복슝열매"
+        ],
+        "rawst-berry": [
+            "복분열매"
+        ],
+        "aspear-berry": [
+            "배리열매"
+        ],
+        "leppa-berry": [
+            "과사열매"
+        ],
+        "oran-berry": [
+            "오랭열매"
+        ],
+        "persim-berry": [
+            "시몬열매"
+        ],
+        "lum-berry": [
+            "리샘열매"
+        ],
+        "sitrus-berry": [
+            "자뭉열매"
+        ],
+        "figy-berry": [
+            "무화열매"
+        ],
+        "wiki-berry": [
+            "위키열매"
+        ],
+        "mago-berry": [
+            "마고열매"
+        ],
+        "aguav-berry": [
+            "아바열매"
+        ],
+        "iapapa-berry": [
+            "파야열매"
+        ],
+        "razz-berry": [
+            "라즈열매"
+        ],
+        "bluk-berry": [
+            "블리열매"
+        ],
+        "nanab-berry": [
+            "나나열매"
+        ],
+        "wepear-berry": [
+            "서배열매"
+        ],
+        "pinap-berry": [
+            "파인열매"
+        ],
+        "pomeg-berry": [
+            "유석열매"
+        ],
+        "kelpsy-berry": [
+            "시마열매"
+        ],
+        "qualot-berry": [
+            "파비열매"
+        ],
+        "hondew-berry": [
+            "로매열매"
+        ],
+        "grepa-berry": [
+            "또뽀열매"
+        ],
+        "tamato-berry": [
+            "토망열매"
+        ],
+        "cornn-berry": [
+            "수숙열매"
+        ],
+        "magost-berry": [
+            "고스티열매"
+        ],
+        "rabuta-berry": [
+            "라부탐열매"
+        ],
+        "nomel-berry": [
+            "노멜열매"
+        ],
+        "spelon-berry": [
+            "메호키열매"
+        ],
+        "pamtre-berry": [
+            "자야열매"
+        ],
+        "watmel-berry": [
+            "슈박열매"
+        ],
+        "durin-berry": [
+            "두리열매"
+        ],
+        "belue-berry": [
+            "루베열매"
+        ],
+        "occa-berry": [
+            "오카열매"
+        ],
+        "passho-berry": [
+            "꼬시개열매"
+        ],
+        "wacan-berry": [
+            "초나열매"
+        ],
+        "rindo-berry": [
+            "린드열매"
+        ],
+        "yache-berry": [
+            "플카열매"
+        ],
+        "chople-berry": [
+            "로플열매"
+        ],
+        "kebia-berry": [
+            "으름열매"
+        ],
+        "shuca-berry": [
+            "슈캐열매"
+        ],
+        "coba-berry": [
+            "바코열매"
+        ],
+        "payapa-berry": [
+            "야파열매"
+        ],
+        "tanga-berry": [
+            "리체열매"
+        ],
+        "charti-berry": [
+            "루미열매"
+        ],
+        "kasib-berry": [
+            "수불열매"
+        ],
+        "haban-berry": [
+            "하반열매"
+        ],
+        "colbur-berry": [
+            "마코열매"
+        ],
+        "babiri-berry": [
+            "바리비열매"
+        ],
+        "chilan-berry": [
+            "카리열매"
+        ],
+        "liechi-berry": [
+            "치리열매"
+        ],
+        "ganlon-berry": [
+            "용아열매"
+        ],
+        "salac-berry": [
+            "캄라열매"
+        ],
+        "petaya-berry": [
+            "야타비열매"
+        ],
+        "apicot-berry": [
+            "규살열매"
+        ],
+        "lansat-berry": [
+            "랑사열매"
+        ],
+        "starf-berry": [
+            "스타열매"
+        ],
+        "enigma-berry": [
+            "의문열매"
+        ],
+        "micle-berry": [
+            "미클열매"
+        ],
+        "custap-berry": [
+            "애슈열매"
+        ],
+        "jaboca-berry": [
+            "자보열매"
+        ],
+        "rowap-berry": [
+            "애터열매"
+        ],
+        "roseli-berry": [
+            "로셀열매"
+        ]
+    },
+    "chi_sim": {
+        "cheri-berry": [
+            "樱子果"
+        ],
+        "chesto-berry": [
+            "零余果"
+        ],
+        "pecha-berry": [
+            "桃桃果"
+        ],
+        "rawst-berry": [
+            "莓莓果"
+        ],
+        "aspear-berry": [
+            "利木果"
+        ],
+        "leppa-berry": [
+            "苹野果"
+        ],
+        "oran-berry": [
+            "橙橙果"
+        ],
+        "persim-berry": [
+            "柿仔果"
+        ],
+        "lum-berry": [
+            "木子果"
+        ],
+        "sitrus-berry": [
+            "文柚果"
+        ],
+        "figy-berry": [
+            "勿花果"
+        ],
+        "wiki-berry": [
+            "异奇果"
+        ],
+        "mago-berry": [
+            "芒芒果"
+        ],
+        "aguav-berry": [
+            "乐芭果"
+        ],
+        "iapapa-berry": [
+            "芭亚果"
+        ],
+        "razz-berry": [
+            "蔓莓果"
+        ],
+        "bluk-berry": [
+            "墨莓果"
+        ],
+        "nanab-berry": [
+            "蕉香果"
+        ],
+        "wepear-berry": [
+            "西梨果"
+        ],
+        "pinap-berry": [
+            "凰梨果"
+        ],
+        "pomeg-berry": [
+            "榴石果"
+        ],
+        "kelpsy-berry": [
+            "藻根果"
+        ],
+        "qualot-berry": [
+            "比巴果"
+        ],
+        "hondew-berry": [
+            "哈密果"
+        ],
+        "grepa-berry": [
+            "萄葡果"
+        ],
+        "tamato-berry": [
+            "茄番果"
+        ],
+        "cornn-berry": [
+            "玉黍果"
+        ],
+        "magost-berry": [
+            "岳竹果"
+        ],
+        "rabuta-berry": [
+            "茸丹果"
+        ],
+        "nomel-berry": [
+            "檬柠果"
+        ],
+        "spelon-berry": [
+            "刺角果"
+        ],
+        "pamtre-berry": [
+            "椰木果"
+        ],
+        "watmel-berry": [
+            "瓜西果"
+        ],
+        "durin-berry": [
+            "金枕果"
+        ],
+        "belue-berry": [
+            "靛莓果"
+        ],
+        "occa-berry": [
+            "巧可果"
+        ],
+        "passho-berry": [
+            "千香果"
+        ],
+        "wacan-berry": [
+            "烛木果"
+        ],
+        "rindo-berry": [
+            "罗子果"
+        ],
+        "yache-berry": [
+            "番荔果"
+        ],
+        "chople-berry": [
+            "莲蒲果"
+        ],
+        "kebia-berry": [
+            "通通果"
+        ],
+        "shuca-berry": [
+            "腰木果"
+        ],
+        "coba-berry": [
+            "棱瓜果"
+        ],
+        "payapa-berry": [
+            "福禄果"
+        ],
+        "tanga-berry": [
+            "扁樱果"
+        ],
+        "charti-berry": [
+            "草蚕果"
+        ],
+        "kasib-berry": [
+            "佛柑果"
+        ],
+        "haban-berry": [
+            "莓榴果"
+        ],
+        "colbur-berry": [
+            "刺耳果"
+        ],
+        "babiri-berry": [
+            "霹霹果"
+        ],
+        "chilan-berry": [
+            "灯浆果"
+        ],
+        "liechi-berry": [
+            "枝荔果"
+        ],
+        "ganlon-berry": [
+            "龙睛果"
+        ],
+        "salac-berry": [
+            "沙鳞果"
+        ],
+        "petaya-berry": [
+            "龙火果"
+        ],
+        "apicot-berry": [
+            "杏仔果"
+        ],
+        "lansat-berry": [
+            "兰萨果"
+        ],
+        "starf-berry": [
+            "星桃果"
+        ],
+        "enigma-berry": [
+            "谜芝果"
+        ],
+        "micle-berry": [
+            "奇秘果"
+        ],
+        "custap-berry": [
+            "释陀果"
+        ],
+        "jaboca-berry": [
+            "嘉珍果"
+        ],
+        "rowap-berry": [
+            "雾莲果"
+        ],
+        "roseli-berry": [
+            "洛玫果"
+        ]
+    },
+    "chi_tra": {
+        "cheri-berry": [
+            "櫻子果"
+        ],
+        "chesto-berry": [
+            "零餘果"
+        ],
+        "pecha-berry": [
+            "桃桃果"
+        ],
+        "rawst-berry": [
+            "莓莓果"
+        ],
+        "aspear-berry": [
+            "利木果"
+        ],
+        "leppa-berry": [
+            "蘋野果"
+        ],
+        "oran-berry": [
+            "橙橙果"
+        ],
+        "persim-berry": [
+            "柿仔果"
+        ],
+        "lum-berry": [
+            "木子果"
+        ],
+        "sitrus-berry": [
+            "文柚果"
+        ],
+        "figy-berry": [
+            "勿花果"
+        ],
+        "wiki-berry": [
+            "異奇果"
+        ],
+        "mago-berry": [
+            "芒芒果"
+        ],
+        "aguav-berry": [
+            "樂芭果"
+        ],
+        "iapapa-berry": [
+            "芭亞果"
+        ],
+        "razz-berry": [
+            "蔓莓果"
+        ],
+        "bluk-berry": [
+            "墨莓果"
+        ],
+        "nanab-berry": [
+            "蕉香果"
+        ],
+        "wepear-berry": [
+            "西梨果"
+        ],
+        "pinap-berry": [
+            "凰梨果"
+        ],
+        "pomeg-berry": [
+            "榴石果"
+        ],
+        "kelpsy-berry": [
+            "藻根果"
+        ],
+        "qualot-berry": [
+            "比巴果"
+        ],
+        "hondew-berry": [
+            "哈密果"
+        ],
+        "grepa-berry": [
+            "萄葡果"
+        ],
+        "tamato-berry": [
+            "茄番果"
+        ],
+        "cornn-berry": [
+            "玉黍果"
+        ],
+        "magost-berry": [
+            "岳竹果"
+        ],
+        "rabuta-berry": [
+            "茸丹果"
+        ],
+        "nomel-berry": [
+            "檬檸果"
+        ],
+        "spelon-berry": [
+            "刺角果"
+        ],
+        "pamtre-berry": [
+            "椰木果"
+        ],
+        "watmel-berry": [
+            "瓜西果"
+        ],
+        "durin-berry": [
+            "金枕果"
+        ],
+        "belue-berry": [
+            "靛莓果"
+        ],
+        "occa-berry": [
+            "巧可果"
+        ],
+        "passho-berry": [
+            "千香果"
+        ],
+        "wacan-berry": [
+            "燭木果"
+        ],
+        "rindo-berry": [
+            "羅子果"
+        ],
+        "yache-berry": [
+            "番荔果"
+        ],
+        "chople-berry": [
+            "蓮蒲果"
+        ],
+        "kebia-berry": [
+            "通通果"
+        ],
+        "shuca-berry": [
+            "腰木果"
+        ],
+        "coba-berry": [
+            "棱瓜果"
+        ],
+        "payapa-berry": [
+            "福祿果"
+        ],
+        "tanga-berry": [
+            "扁櫻果"
+        ],
+        "charti-berry": [
+            "草蠶果"
+        ],
+        "kasib-berry": [
+            "佛柑果"
+        ],
+        "haban-berry": [
+            "莓榴果"
+        ],
+        "colbur-berry": [
+            "刺耳果"
+        ],
+        "babiri-berry": [
+            "霹霹果"
+        ],
+        "chilan-berry": [
+            "姑娘果"
+        ],
+        "liechi-berry": [
+            "枝荔果"
+        ],
+        "ganlon-berry": [
+            "龍睛果"
+        ],
+        "salac-berry": [
+            "沙鱗果"
+        ],
+        "petaya-berry": [
+            "龍火果"
+        ],
+        "apicot-berry": [
+            "杏仔果"
+        ],
+        "lansat-berry": [
+            "蘭薩果"
+        ],
+        "starf-berry": [
+            "星桃果"
+        ],
+        "enigma-berry": [
+            "謎芝果"
+        ],
+        "micle-berry": [
+            "奇秘果"
+        ],
+        "custap-berry": [
+            "釋陀果"
+        ],
+        "jaboca-berry": [
+            "嘉珍果"
+        ],
+        "rowap-berry": [
+            "霧蓮果"
+        ],
+        "roseli-berry": [
+            "洛玫果"
+        ]
+    }
+}

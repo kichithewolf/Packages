@@ -1,0 +1,396 @@
+{
+    "maxSpriteHeight": 222,
+    "maxSpriteWidth": 219,
+    "spriteLocations": {
+        "cheri-berry": {
+            "top": 18,
+            "left": 11,
+            "width": 197,
+            "height": 186
+        },
+        "chesto-berry": {
+            "top": 8,
+            "left": 231,
+            "width": 195,
+            "height": 206
+        },
+        "pecha-berry": {
+            "top": 15,
+            "left": 448,
+            "width": 199,
+            "height": 192
+        },
+        "rawst-berry": {
+            "top": 16,
+            "left": 676,
+            "width": 181,
+            "height": 189
+        },
+        "aspear-berry": {
+            "top": 0,
+            "left": 893,
+            "width": 184,
+            "height": 221
+        },
+        "leppa-berry": {
+            "top": 0,
+            "left": 1127,
+            "width": 155,
+            "height": 221
+        },
+        "oran-berry": {
+            "top": 28,
+            "left": 1333,
+            "width": 180,
+            "height": 165
+        },
+        "persim-berry": {
+            "top": 23,
+            "left": 1552,
+            "width": 180,
+            "height": 176
+        },
+        "lum-berry": {
+            "top": 28,
+            "left": 1779,
+            "width": 164,
+            "height": 165
+        },
+        "sitrus-berry": {
+            "top": 238,
+            "left": 25,
+            "width": 168,
+            "height": 189
+        },
+        "figy-berry": {
+            "top": 224,
+            "left": 230,
+            "width": 196,
+            "height": 218
+        },
+        "wiki-berry": {
+            "top": 241,
+            "left": 450,
+            "width": 194,
+            "height": 183
+        },
+        "mago-berry": {
+            "top": 250,
+            "left": 688,
+            "width": 156,
+            "height": 165
+        },
+        "aguav-berry": {
+            "top": 239,
+            "left": 906,
+            "width": 158,
+            "height": 187
+        },
+        "iapapa-berry": {
+            "top": 222,
+            "left": 1106,
+            "width": 196,
+            "height": 222
+        },
+        "razz-berry": {
+            "top": 245,
+            "left": 1334,
+            "width": 178,
+            "height": 176
+        },
+        "bluk-berry": {
+            "top": 238,
+            "left": 1551,
+            "width": 183,
+            "height": 189
+        },
+        "nanab-berry": {
+            "top": 238,
+            "left": 1766,
+            "width": 190,
+            "height": 189
+        },
+        "wepear-berry": {
+            "top": 454,
+            "left": 14,
+            "width": 191,
+            "height": 202
+        },
+        "pinap-berry": {
+            "top": 460,
+            "left": 237,
+            "width": 183,
+            "height": 190
+        },
+        "pomeg-berry": {
+            "top": 458,
+            "left": 463,
+            "width": 168,
+            "height": 194
+        },
+        "kelpsy-berry": {
+            "top": 458,
+            "left": 677,
+            "width": 179,
+            "height": 194
+        },
+        "qualot-berry": {
+            "top": 473,
+            "left": 903,
+            "width": 164,
+            "height": 164
+        },
+        "hondew-berry": {
+            "top": 461,
+            "left": 1116,
+            "width": 176,
+            "height": 188
+        },
+        "grepa-berry": {
+            "top": 447,
+            "left": 1336,
+            "width": 174,
+            "height": 215
+        },
+        "tamato-berry": {
+            "top": 463,
+            "left": 1555,
+            "width": 174,
+            "height": 184
+        },
+        "cornn-berry": {
+            "top": 461,
+            "left": 1765,
+            "width": 192,
+            "height": 188
+        },
+        "magost-berry": {
+            "top": 685,
+            "left": 29,
+            "width": 161,
+            "height": 184
+        },
+        "rabuta-berry": {
+            "top": 679,
+            "left": 228,
+            "width": 200,
+            "height": 195
+        },
+        "nomel-berry": {
+            "top": 687,
+            "left": 458,
+            "width": 179,
+            "height": 179
+        },
+        "spelon-berry": {
+            "top": 682,
+            "left": 677,
+            "width": 179,
+            "height": 189
+        },
+        "pamtre-berry": {
+            "top": 676,
+            "left": 898,
+            "width": 175,
+            "height": 201
+        },
+        "watmel-berry": {
+            "top": 682,
+            "left": 1110,
+            "width": 189,
+            "height": 189
+        },
+        "durin-berry": {
+            "top": 672,
+            "left": 1314,
+            "width": 219,
+            "height": 209
+        },
+        "belue-berry": {
+            "top": 683,
+            "left": 1556,
+            "width": 172,
+            "height": 188
+        },
+        "occa-berry": {
+            "top": 692,
+            "left": 1764,
+            "width": 194,
+            "height": 170
+        },
+        "passho-berry": {
+            "top": 901,
+            "left": 4,
+            "width": 210,
+            "height": 196
+        },
+        "wacan-berry": {
+            "top": 913,
+            "left": 233,
+            "width": 191,
+            "height": 171
+        },
+        "rindo-berry": {
+            "top": 905,
+            "left": 447,
+            "width": 201,
+            "height": 188
+        },
+        "yache-berry": {
+            "top": 901,
+            "left": 667,
+            "width": 198,
+            "height": 196
+        },
+        "chople-berry": {
+            "top": 901,
+            "left": 896,
+            "width": 178,
+            "height": 195
+        },
+        "kebia-berry": {
+            "top": 902,
+            "left": 1126,
+            "width": 156,
+            "height": 193
+        },
+        "shuca-berry": {
+            "top": 903,
+            "left": 1340,
+            "width": 166,
+            "height": 191
+        },
+        "coba-berry": {
+            "top": 914,
+            "left": 1563,
+            "width": 158,
+            "height": 170
+        },
+        "payapa-berry": {
+            "top": 895,
+            "left": 1765,
+            "width": 193,
+            "height": 208
+        },
+        "tanga-berry": {
+            "top": 1128,
+            "left": 8,
+            "width": 203,
+            "height": 186
+        },
+        "charti-berry": {
+            "top": 1142,
+            "left": 247,
+            "width": 162,
+            "height": 158
+        },
+        "kasib-berry": {
+            "top": 1118,
+            "left": 450,
+            "width": 194,
+            "height": 206
+        },
+        "haban-berry": {
+            "top": 1121,
+            "left": 685,
+            "width": 163,
+            "height": 199
+        },
+        "colbur-berry": {
+            "top": 1129,
+            "left": 888,
+            "width": 195,
+            "height": 184
+        },
+        "babiri-berry": {
+            "top": 1132,
+            "left": 1115,
+            "width": 178,
+            "height": 177
+        },
+        "chilan-berry": {
+            "top": 1126,
+            "left": 1341,
+            "width": 165,
+            "height": 190
+        },
+        "liechi-berry": {
+            "top": 1133,
+            "left": 1550,
+            "width": 185,
+            "height": 176
+        },
+        "ganlon-berry": {
+            "top": 1138,
+            "left": 1777,
+            "width": 168,
+            "height": 166
+        },
+        "salac-berry": {
+            "top": 1343,
+            "left": 1,
+            "width": 217,
+            "height": 200
+        },
+        "petaya-berry": {
+            "top": 1346,
+            "left": 235,
+            "width": 187,
+            "height": 193
+        },
+        "apicot-berry": {
+            "top": 1359,
+            "left": 467,
+            "width": 160,
+            "height": 168
+        },
+        "lansat-berry": {
+            "top": 1336,
+            "left": 665,
+            "width": 202,
+            "height": 214
+        },
+        "starf-berry": {
+            "top": 1358,
+            "left": 895,
+            "width": 181,
+            "height": 170
+        },
+        "enigma-berry": {
+            "top": 1357,
+            "left": 1110,
+            "width": 189,
+            "height": 172
+        },
+        "micle-berry": {
+            "top": 1370,
+            "left": 1342,
+            "width": 162,
+            "height": 145
+        },
+        "custap-berry": {
+            "top": 1356,
+            "left": 1546,
+            "width": 192,
+            "height": 174
+        },
+        "jaboca-berry": {
+            "top": 1342,
+            "left": 1766,
+            "width": 190,
+            "height": 201
+        },
+        "rowap-berry": {
+            "top": 1560,
+            "left": 12,
+            "width": 194,
+            "height": 210
+        },
+        "roseli-berry": {
+            "top": 1578,
+            "left": 243,
+            "width": 170,
+            "height": 173
+        }
+    }
+}
