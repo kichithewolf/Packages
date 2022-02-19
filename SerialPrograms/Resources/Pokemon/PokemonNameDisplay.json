@@ -9876,5 +9876,82 @@
         "kor": "버드렉스",
         "chi_sim": "蕾冠王",
         "chi_tra": "蕾冠王"
+    },
+    "wyrdeer": {
+        "eng": "Wyrdeer",
+        "jpn": "アヤシシ",
+        "spa": "Wyrdeer",
+        "fra": "Cerbyllin",
+        "deu": "Damythir",
+        "ita": "Wyrdeer",
+        "kor": "신비록",
+        "chi_sim": "诡角鹿",
+        "chi_tra": "詭角鹿"
+    },
+    "kleavor": {
+        "eng": "Kleavor",
+        "jpn": "バサギリ",
+        "spa": "Kleavor",
+        "fra": "Hachécateur",
+        "deu": "Axantor",
+        "ita": "Kleavor",
+        "kor": "사마자르",
+        "chi_sim": "劈斧螳螂",
+        "chi_tra": "劈斧螳螂"
+    },
+    "ursaluna": {
+        "eng": "Ursaluna",
+        "jpn": "ガチグマ",
+        "spa": "Ursaluna",
+        "fra": "Ursaking",
+        "deu": "Ursaluna",
+        "ita": "Ursaluna",
+        "kor": "다투곰",
+        "chi_sim": "月月熊",
+        "chi_tra": "月月熊"
+    },
+    "basculegion": {
+        "eng": "Basculegion",
+        "jpn": "イダイトウ",
+        "spa": "Basculegion",
+        "fra": "Paragruel",
+        "deu": "Salmagnis",
+        "ita": "Basculegion",
+        "kor": "대쓰여너",
+        "chi_sim": "幽尾玄鱼",
+        "chi_tra": "幽尾玄魚"
+    },
+    "sneasler": {
+        "eng": "Sneasler",
+        "jpn": "オオニューラ",
+        "spa": "Sneasler",
+        "fra": "Farfurex",
+        "deu": "Snieboss",
+        "ita": "Sneasler",
+        "kor": "포푸니크",
+        "chi_sim": "大狃拉",
+        "chi_tra": "大狃拉"
+    },
+    "overqwil": {
+        "eng": "Overqwil",
+        "jpn": "ハリーマン",
+        "spa": "Overqwil",
+        "fra": "Qwilpik",
+        "deu": "Myriador",
+        "ita": "Overqwil",
+        "kor": "장침바루",
+        "chi_sim": "万针鱼",
+        "chi_tra": "萬針魚"
+    },
+    "enamorus": {
+        "eng": "Enamorus",
+        "jpn": "ラブトロス",
+        "spa": "Enamorus",
+        "fra": "Amovénus",
+        "deu": "Cupidos",
+        "ita": "Enamorus",
+        "kor": "러브로스",
+        "chi_sim": "眷恋云",
+        "chi_tra": "眷戀雲"
     }
 }

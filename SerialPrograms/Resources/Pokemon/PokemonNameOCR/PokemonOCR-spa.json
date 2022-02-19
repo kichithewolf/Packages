@@ -137,6 +137,9 @@
     "barraskewda": [
         "Barraskewda"
     ],
+    "basculegion": [
+        "Basculegion"
+    ],
     "basculin": [
         "Basculin"
     ],
@@ -704,6 +707,9 @@
     "empoleon": [
         "Empoleon"
     ],
+    "enamorus": [
+        "Enamorus"
+    ],
     "entei": [
         "Entei"
     ],
@@ -1178,6 +1184,9 @@
     "klang": [
         "Klang"
     ],
+    "kleavor": [
+        "Kleavor"
+    ],
     "klefki": [
         "Klefki"
     ],
@@ -1643,6 +1652,9 @@
     "oshawott": [
         "Oshawott"
     ],
+    "overqwil": [
+        "Overqwil"
+    ],
     "pachirisu": [
         "Pachirisu"
     ],
@@ -1782,8 +1794,7 @@
         "Porygon"
     ],
     "porygon-z": [
-        "Porygon-Z",
-        "p0ryg0n7"
+        "Porygon-Z"
     ],
     "porygon2": [
         "Porygon2"
@@ -2161,6 +2172,9 @@
     "sneasel": [
         "Sneasel"
     ],
+    "sneasler": [
+        "Sneasler"
+    ],
     "snivy": [
         "Snivy"
     ],
@@ -2476,6 +2490,9 @@
     "unown": [
         "Unown"
     ],
+    "ursaluna": [
+        "Ursaluna"
+    ],
     "ursaring": [
         "Ursaring"
     ],
@@ -2625,6 +2642,9 @@
     ],
     "wynaut": [
         "Wynaut"
+    ],
+    "wyrdeer": [
+        "Wyrdeer"
     ],
     "xatu": [
         "Xatu"
