@@ -1,0 +1,782 @@
+{
+    "spriteHeight": 128,
+    "spriteWidth": 128,
+    "spriteLocations": {
+        "rowlet": {
+            "top": 0,
+            "left": 0
+        },
+        "dartrix": {
+            "top": 0,
+            "left": 128
+        },
+        "decidueye-hisuian": {
+            "top": 0,
+            "left": 256
+        },
+        "cyndaquil": {
+            "top": 0,
+            "left": 384
+        },
+        "quilava": {
+            "top": 0,
+            "left": 512
+        },
+        "typhlosion-hisuian": {
+            "top": 0,
+            "left": 640
+        },
+        "oshawott": {
+            "top": 0,
+            "left": 768
+        },
+        "dewott": {
+            "top": 0,
+            "left": 896
+        },
+        "samurott-hisuian": {
+            "top": 0,
+            "left": 1024
+        },
+        "bidoof": {
+            "top": 0,
+            "left": 1152
+        },
+        "bibarel": {
+            "top": 0,
+            "left": 1280
+        },
+        "starly": {
+            "top": 0,
+            "left": 1408
+        },
+        "staravia": {
+            "top": 0,
+            "left": 1536
+        },
+        "staraptor": {
+            "top": 0,
+            "left": 1664
+        },
+        "shinx": {
+            "top": 0,
+            "left": 1792
+        },
+        "luxio": {
+            "top": 128,
+            "left": 0
+        },
+        "luxray": {
+            "top": 128,
+            "left": 128
+        },
+        "wurmple": {
+            "top": 128,
+            "left": 256
+        },
+        "silcoon": {
+            "top": 128,
+            "left": 384
+        },
+        "beautifly": {
+            "top": 128,
+            "left": 512
+        },
+        "cascoon": {
+            "top": 128,
+            "left": 640
+        },
+        "dustox": {
+            "top": 128,
+            "left": 768
+        },
+        "ponyta": {
+            "top": 128,
+            "left": 896
+        },
+        "rapidash": {
+            "top": 128,
+            "left": 1024
+        },
+        "zubat": {
+            "top": 256,
+            "left": 384
+        },
+        "golbat": {
+            "top": 256,
+            "left": 512
+        },
+        "crobat": {
+            "top": 256,
+            "left": 640
+        },
+        "drifloon": {
+            "top": 256,
+            "left": 768
+        },
+        "drifblim": {
+            "top": 256,
+            "left": 896
+        },
+        "kricketot": {
+            "top": 256,
+            "left": 1024
+        },
+        "kricketune": {
+            "top": 256,
+            "left": 1152
+        },
+        "buizel": {
+            "top": 256,
+            "left": 1280
+        },
+        "floatzel": {
+            "top": 256,
+            "left": 1408
+        },
+        "geodude": {
+            "top": 384,
+            "left": 0
+        },
+        "graveler": {
+            "top": 384,
+            "left": 128
+        },
+        "golem": {
+            "top": 384,
+            "left": 256
+        },
+        "stantler": {
+            "top": 384,
+            "left": 384
+        },
+        "wyrdeer": {
+            "top": 384,
+            "left": 512
+        },
+        "munchlax": {
+            "top": 384,
+            "left": 640
+        },
+        "snorlax": {
+            "top": 384,
+            "left": 768
+        },
+        "paras": {
+            "top": 384,
+            "left": 896
+        },
+        "parasect": {
+            "top": 384,
+            "left": 1024
+        },
+        "pichu": {
+            "top": 384,
+            "left": 1152
+        },
+        "pikachu": {
+            "top": 384,
+            "left": 1280
+        },
+        "raichu": {
+            "top": 384,
+            "left": 1408
+        },
+        "abra": {
+            "top": 384,
+            "left": 1536
+        },
+        "kadabra": {
+            "top": 384,
+            "left": 1664
+        },
+        "alakazam": {
+            "top": 384,
+            "left": 1792
+        },
+        "chimchar": {
+            "top": 512,
+            "left": 0
+        },
+        "monferno": {
+            "top": 512,
+            "left": 128
+        },
+        "infernape": {
+            "top": 512,
+            "left": 256
+        },
+        "buneary": {
+            "top": 512,
+            "left": 384
+        },
+        "lopunny": {
+            "top": 512,
+            "left": 512
+        },
+        "psyduck": {
+            "top": 512,
+            "left": 896
+        },
+        "golduck": {
+            "top": 512,
+            "left": 1024
+        },
+        "scyther": {
+            "top": 512,
+            "left": 1408
+        },
+        "kleavor": {
+            "top": 512,
+            "left": 1536
+        },
+        "heracross": {
+            "top": 512,
+            "left": 1792
+        },
+        "mime-jr": {
+            "top": 640,
+            "left": 0
+        },
+        "mr-mime": {
+            "top": 640,
+            "left": 128
+        },
+        "aipom": {
+            "top": 640,
+            "left": 256
+        },
+        "ambipom": {
+            "top": 640,
+            "left": 384
+        },
+        "magikarp": {
+            "top": 640,
+            "left": 512
+        },
+        "gyarados": {
+            "top": 640,
+            "left": 640
+        },
+        "shellos-east-sea": {
+            "top": 640,
+            "left": 768
+        },
+        "shellos": {
+            "top": 640,
+            "left": 896
+        },
+        "gastrodon-east-sea": {
+            "top": 640,
+            "left": 1024
+        },
+        "gastrodon": {
+            "top": 640,
+            "left": 1152
+        },
+        "qwilfish-hisuian": {
+            "top": 640,
+            "left": 1280
+        },
+        "overqwil": {
+            "top": 640,
+            "left": 1408
+        },
+        "happiny": {
+            "top": 640,
+            "left": 1536
+        },
+        "chansey": {
+            "top": 640,
+            "left": 1664
+        },
+        "blissey": {
+            "top": 640,
+            "left": 1792
+        },
+        "budew": {
+            "top": 768,
+            "left": 0
+        },
+        "roselia": {
+            "top": 768,
+            "left": 128
+        },
+        "roserade": {
+            "top": 768,
+            "left": 256
+        },
+        "carnivine": {
+            "top": 768,
+            "left": 384
+        },
+        "petilil": {
+            "top": 768,
+            "left": 512
+        },
+        "lilligant-hisuian": {
+            "top": 768,
+            "left": 640
+        },
+        "tangela": {
+            "top": 768,
+            "left": 768
+        },
+        "tangrowth": {
+            "top": 768,
+            "left": 896
+        },
+        "croagunk": {
+            "top": 768,
+            "left": 1280
+        },
+        "toxicroak": {
+            "top": 768,
+            "left": 1408
+        },
+        "ralts": {
+            "top": 768,
+            "left": 1536
+        },
+        "kirlia": {
+            "top": 768,
+            "left": 1664
+        },
+        "gardevoir": {
+            "top": 768,
+            "left": 1792
+        },
+        "gallade": {
+            "top": 896,
+            "left": 0
+        },
+        "yanma": {
+            "top": 896,
+            "left": 128
+        },
+        "yanmega": {
+            "top": 896,
+            "left": 256
+        },
+        "hippopotas": {
+            "top": 896,
+            "left": 384
+        },
+        "hippowdon": {
+            "top": 896,
+            "left": 512
+        },
+        "pachirisu": {
+            "top": 896,
+            "left": 640
+        },
+        "stunky": {
+            "top": 896,
+            "left": 768
+        },
+        "skuntank": {
+            "top": 896,
+            "left": 896
+        },
+        "teddiursa": {
+            "top": 896,
+            "left": 1024
+        },
+        "ursaring": {
+            "top": 896,
+            "left": 1152
+        },
+        "ursaluna": {
+            "top": 896,
+            "left": 1280
+        },
+        "goomy": {
+            "top": 896,
+            "left": 1408
+        },
+        "sliggoo-hisuian": {
+            "top": 896,
+            "left": 1536
+        },
+        "goodra-hisuian": {
+            "top": 896,
+            "left": 1664
+        },
+        "onix": {
+            "top": 896,
+            "left": 1792
+        },
+        "steelix": {
+            "top": 1024,
+            "left": 0
+        },
+        "rhyhorn": {
+            "top": 1024,
+            "left": 128
+        },
+        "rhydon": {
+            "top": 1024,
+            "left": 256
+        },
+        "rhyperior": {
+            "top": 1024,
+            "left": 384
+        },
+        "bonsly": {
+            "top": 1024,
+            "left": 512
+        },
+        "sudowoodo": {
+            "top": 1024,
+            "left": 640
+        },
+        "lickitung": {
+            "top": 1024,
+            "left": 768
+        },
+        "lickilicky": {
+            "top": 1024,
+            "left": 896
+        },
+        "togepi": {
+            "top": 1024,
+            "left": 1024
+        },
+        "togetic": {
+            "top": 1024,
+            "left": 1152
+        },
+        "togekiss": {
+            "top": 1024,
+            "left": 1280
+        },
+        "turtwig": {
+            "top": 1024,
+            "left": 1408
+        },
+        "grotle": {
+            "top": 1024,
+            "left": 1536
+        },
+        "torterra": {
+            "top": 1024,
+            "left": 1664
+        },
+        "gastly": {
+            "top": 1152,
+            "left": 256
+        },
+        "haunter": {
+            "top": 1152,
+            "left": 384
+        },
+        "gengar": {
+            "top": 1152,
+            "left": 512
+        },
+        "spiritomb": {
+            "top": 1152,
+            "left": 640
+        },
+        "murkrow": {
+            "top": 1152,
+            "left": 768
+        },
+        "honchkrow": {
+            "top": 1152,
+            "left": 896
+        },
+        "unown-a": {
+            "top": 1152,
+            "left": 1024
+        },
+        "spheal": {
+            "top": 1152,
+            "left": 1152
+        },
+        "sealeo": {
+            "top": 1152,
+            "left": 1280
+        },
+        "walrein": {
+            "top": 1152,
+            "left": 1408
+        },
+        "skorupi": {
+            "top": 1152,
+            "left": 1792
+        },
+        "drapion": {
+            "top": 1280,
+            "left": 0
+        },
+        "growlithe-hisuian": {
+            "top": 1280,
+            "left": 128
+        },
+        "arcanine-hisuian": {
+            "top": 1280,
+            "left": 256
+        },
+        "glameow": {
+            "top": 1280,
+            "left": 384
+        },
+        "purugly": {
+            "top": 1280,
+            "left": 512
+        },
+        "machop": {
+            "top": 1280,
+            "left": 640
+        },
+        "machoke": {
+            "top": 1280,
+            "left": 768
+        },
+        "machamp": {
+            "top": 1280,
+            "left": 896
+        },
+        "chatot": {
+            "top": 1280,
+            "left": 1024
+        },
+        "duskull": {
+            "top": 1280,
+            "left": 1152
+        },
+        "dusclops": {
+            "top": 1280,
+            "left": 1280
+        },
+        "dusknoir": {
+            "top": 1280,
+            "left": 1408
+        },
+        "piplup": {
+            "top": 1280,
+            "left": 1536
+        },
+        "prinplup": {
+            "top": 1280,
+            "left": 1664
+        },
+        "empoleon": {
+            "top": 1280,
+            "left": 1792
+        },
+        "mantyke": {
+            "top": 1408,
+            "left": 0
+        },
+        "mantine": {
+            "top": 1408,
+            "left": 128
+        },
+        "basculin-hisuian": {
+            "top": 1408,
+            "left": 256
+        },
+        "basculegion": {
+            "top": 1408,
+            "left": 384
+        },
+        "vulpix": {
+            "top": 1408,
+            "left": 512
+        },
+        "ninetales": {
+            "top": 1408,
+            "left": 640
+        },
+        "tentacool": {
+            "top": 1408,
+            "left": 768
+        },
+        "tentacruel": {
+            "top": 1408,
+            "left": 896
+        },
+        "finneon": {
+            "top": 1408,
+            "left": 1024
+        },
+        "lumineon": {
+            "top": 1408,
+            "left": 1152
+        },
+        "magby": {
+            "top": 1408,
+            "left": 1280
+        },
+        "magmar": {
+            "top": 1408,
+            "left": 1408
+        },
+        "magmortar": {
+            "top": 1408,
+            "left": 1536
+        },
+        "bronzor": {
+            "top": 1536,
+            "left": 128
+        },
+        "bronzong": {
+            "top": 1536,
+            "left": 256
+        },
+        "elekid": {
+            "top": 1536,
+            "left": 384
+        },
+        "electabuzz": {
+            "top": 1536,
+            "left": 512
+        },
+        "electivire": {
+            "top": 1536,
+            "left": 640
+        },
+        "gligar": {
+            "top": 1536,
+            "left": 768
+        },
+        "gliscor": {
+            "top": 1536,
+            "left": 896
+        },
+        "gible": {
+            "top": 1536,
+            "left": 1024
+        },
+        "gabite": {
+            "top": 1536,
+            "left": 1152
+        },
+        "garchomp": {
+            "top": 1536,
+            "left": 1280
+        },
+        "nosepass": {
+            "top": 1536,
+            "left": 1408
+        },
+        "probopass": {
+            "top": 1536,
+            "left": 1536
+        },
+        "voltorb-hisuian": {
+            "top": 1536,
+            "left": 1664
+        },
+        "electrode-hisuian": {
+            "top": 1536,
+            "left": 1792
+        },
+        "rotom": {
+            "top": 1664,
+            "left": 0
+        },
+        "chingling": {
+            "top": 1664,
+            "left": 128
+        },
+        "chimecho": {
+            "top": 1664,
+            "left": 256
+        },
+        "misdreavus": {
+            "top": 1664,
+            "left": 384
+        },
+        "mismagius": {
+            "top": 1664,
+            "left": 512
+        },
+        "cleffa": {
+            "top": 1664,
+            "left": 640
+        },
+        "clefairy": {
+            "top": 1664,
+            "left": 768
+        },
+        "clefable": {
+            "top": 1664,
+            "left": 896
+        },
+        "sneasel-hisuian": {
+            "top": 1664,
+            "left": 1024
+        },
+        "sneasler": {
+            "top": 1664,
+            "left": 1152
+        },
+        "snorunt": {
+            "top": 1664,
+            "left": 1408
+        },
+        "glalie": {
+            "top": 1664,
+            "left": 1536
+        },
+        "froslass": {
+            "top": 1664,
+            "left": 1664
+        },
+        "swinub": {
+            "top": 1792,
+            "left": 384
+        },
+        "piloswine": {
+            "top": 1792,
+            "left": 512
+        },
+        "mamoswine": {
+            "top": 1792,
+            "left": 640
+        },
+        "bergmite": {
+            "top": 1792,
+            "left": 768
+        },
+        "avalugg-hisuian": {
+            "top": 1792,
+            "left": 896
+        },
+        "snover": {
+            "top": 1792,
+            "left": 1024
+        },
+        "abomasnow": {
+            "top": 1792,
+            "left": 1152
+        },
+        "zorua-hisuian": {
+            "top": 1792,
+            "left": 1280
+        },
+        "zoroark-hisuian": {
+            "top": 1792,
+            "left": 1408
+        },
+        "rufflet": {
+            "top": 1792,
+            "left": 1536
+        },
+        "braviary-hisuian": {
+            "top": 1792,
+            "left": 1664
+        },
+        "riolu": {
+            "top": 1792,
+            "left": 1792
+        },
+        "lucario": {
+            "top": 1920,
+            "left": 0
+        }
+    }
+}
