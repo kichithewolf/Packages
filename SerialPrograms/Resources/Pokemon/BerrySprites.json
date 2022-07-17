@@ -1,6 +1,6 @@
 {
-    "maxSpriteHeight": 222,
-    "maxSpriteWidth": 219,
+    "spriteHeight": 222,
+    "spriteWidth": 219,
     "spriteLocations": {
         "cheri-berry": {
             "top": 18,
