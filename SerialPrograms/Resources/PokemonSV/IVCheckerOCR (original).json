@@ -1,9 +1,9 @@
 {
     "eng": {
-        "No Good": [ "No Good" ],
+        "No Good": [ "No good" ],
         "Decent": [ "Decent" ],
-        "Pretty Good": [ "Pretty Good" ],
-        "Very Good": [ "Very Good" ],
+        "Pretty Good": [ "Pretty good" ],
+        "Very Good": [ "Very good" ],
         "Fantastic": [ "Fantastic" ],
         "Best": [ "Best" ],
         "Hyper trained!": [ "Hyper trained!" ]
@@ -12,14 +12,14 @@
         "No Good": [ "ダメかも" ],
         "Decent": [ "まあまあ" ],
         "Pretty Good": [ "かなりいい" ],
-        "Very Good": [ "すごぐいい" ],
+        "Very Good": [ "すごくいい" ],
         "Fantastic": [ "すばらしい" ],
         "Best": [ "さいこう" ],
-        "Hyper trained!": [ "きたえた!" ]
+        "Hyper trained!": [ "きたえた！" ]
     },
     "fra": {
-        "No Good": [ "Pas top ..." ],
-        "Decent": [ "Passable ..." ],
+        "No Good": [ "Médiocre..." ],
+        "Decent": [ "Passable..." ],
         "Pretty Good": [ "Bon !" ],
         "Very Good": [ "Très bon !" ],
         "Fantastic": [ "Fantastique !" ],
@@ -55,29 +55,29 @@
     },
     "kor": {
         "No Good": [ "별로인 듯" ],
-        "Decent": [ "적 당 하 다" ],
-        "Pretty Good": [ "상당이 좋다" ],
-        "Very Good": [ "굉장이 좋다" ],
-        "Fantastic": [ "훌 륭 하 다" ],
-        "Best": [ "최 고" ],
-        "Hyper trained!": [ "단 련 되 었 다 !" ]
+        "Decent": [ "적당하다" ],
+        "Pretty Good": [ "상당히 좋다" ],
+        "Very Good": [ "굉장히 좋다" ],
+        "Fantastic": [ "훌륭하다" ],
+        "Best": [ "최고" ],
+        "Hyper trained!": [ "단련되었다!" ]
     },
     "chi_sim": {
-        "No Good": [ "也 许 不 行" ],
-        "Decent": [ "一 般 般" ],
-        "Pretty Good": [ "相 当 好" ],
-        "Very Good": [ "非 常 好" ],
-        "Fantastic": [ "了 不 起" ],
-        "Best": [ "最 棒" ],
-        "Hyper trained!": [ "锻 炼 了 !" ]
+        "No Good": [ "也许不行" ],
+        "Decent": [ "一般般" ],
+        "Pretty Good": [ "相当好" ],
+        "Very Good": [ "非常好" ],
+        "Fantastic": [ "了不起" ],
+        "Best": [ "最棒" ],
+        "Hyper trained!": [ "锻炼了！" ]
     },
     "chi_tra": {
-        "No Good": [ "不 怎 麼 樣" ],
-        "Decent": [ "普 普 通 通" ],
-        "Pretty Good": [ "相 當 好" ],
-        "Very Good": [ "非 常 好" ],
-        "Fantastic": [ "了 不 起" ],
-        "Best": [ "太 完 美 了 ! " ],
-        "Hyper trained!": [ "完 成 鍛 鍊 了 !" ]
+        "No Good": [ "不怎麼樣" ],
+        "Decent": [ "普普通通" ],
+        "Pretty Good": [ "相當好" ],
+        "Very Good": [ "非常好" ],
+        "Fantastic": [ "了不起" ],
+        "Best": [ "太完美了！" ],
+        "Hyper trained!": [ "完成鍛鍊了！" ]
     }
 }
