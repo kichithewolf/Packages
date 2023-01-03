@@ -1,0 +1,266 @@
+{
+    "spriteHeight": 160,
+    "spriteWidth": 160,
+    "spriteLocations": {
+        "potion": {
+            "top": 0,
+            "left": 0
+        },
+        "fresh-water": {
+            "top": 0,
+            "left": 160
+        },
+        "soda-pop": {
+            "top": 0,
+            "left": 320
+        },
+        "super-potion": {
+            "top": 0,
+            "left": 480
+        },
+        "lemonade": {
+            "top": 0,
+            "left": 640
+        },
+        "moomoo-milk": {
+            "top": 0,
+            "left": 800
+        },
+        "hyper-potion": {
+            "top": 0,
+            "left": 960
+        },
+        "poke-ball": {
+            "top": 0,
+            "left": 1120
+        },
+        "great-ball": {
+            "top": 0,
+            "left": 1280
+        },
+        "ultra-ball": {
+            "top": 0,
+            "left": 1440
+        },
+        "premier-ball": {
+            "top": 160,
+            "left": 0
+        },
+        "heal-ball": {
+            "top": 160,
+            "left": 160
+        },
+        "net-ball": {
+            "top": 160,
+            "left": 320
+        },
+        "nest-ball": {
+            "top": 160,
+            "left": 480
+        },
+        "repeat-ball": {
+            "top": 160,
+            "left": 640
+        },
+        "dive-ball": {
+            "top": 160,
+            "left": 800
+        },
+        "luxury-ball": {
+            "top": 160,
+            "left": 960
+        },
+        "quick-ball": {
+            "top": 160,
+            "left": 1120
+        },
+        "dusk-ball": {
+            "top": 160,
+            "left": 1280
+        },
+        "timer-ball": {
+            "top": 160,
+            "left": 1440
+        },
+        "fried-fillet": {
+            "top": 320,
+            "left": 0
+        },
+        "herbed-sausage": {
+            "top": 320,
+            "left": 160
+        },
+        "horseradish": {
+            "top": 320,
+            "left": 320
+        },
+        "curry-powder": {
+            "top": 320,
+            "left": 480
+        },
+        "klawf-stick": {
+            "top": 320,
+            "left": 640
+        },
+        "health-feather": {
+            "top": 320,
+            "left": 800
+        },
+        "muscle-feather": {
+            "top": 320,
+            "left": 960
+        },
+        "resist-feather": {
+            "top": 320,
+            "left": 1120
+        },
+        "genius-feather": {
+            "top": 320,
+            "left": 1280
+        },
+        "clever-feather": {
+            "top": 320,
+            "left": 1440
+        },
+        "swift-feather": {
+            "top": 480,
+            "left": 0
+        },
+        "pomeg-berry": {
+            "top": 480,
+            "left": 160
+        },
+        "kelpsy-berry": {
+            "top": 480,
+            "left": 320
+        },
+        "hondew-berry": {
+            "top": 480,
+            "left": 480
+        },
+        "grepa-berry": {
+            "top": 480,
+            "left": 640
+        },
+        "qualot-berry": {
+            "top": 480,
+            "left": 800
+        },
+        "tamato-berry": {
+            "top": 480,
+            "left": 960
+        },
+        "hp-up": {
+            "top": 480,
+            "left": 1120
+        },
+        "protein": {
+            "top": 480,
+            "left": 1280
+        },
+        "iron": {
+            "top": 480,
+            "left": 1440
+        },
+        "carbos": {
+            "top": 640,
+            "left": 0
+        },
+        "calcium": {
+            "top": 640,
+            "left": 160
+        },
+        "zinc": {
+            "top": 640,
+            "left": 320
+        },
+        "pp-up": {
+            "top": 640,
+            "left": 480
+        },
+        "pp-max": {
+            "top": 640,
+            "left": 640
+        },
+        "sun-stone": {
+            "top": 640,
+            "left": 800
+        },
+        "moon-stone": {
+            "top": 640,
+            "left": 960
+        },
+        "shiny-stone": {
+            "top": 640,
+            "left": 1120
+        },
+        "dusk-stone": {
+            "top": 640,
+            "left": 1280
+        },
+        "dawn-stone": {
+            "top": 640,
+            "left": 1440
+        },
+        "kings-rock": {
+            "top": 800,
+            "left": 0
+        },
+        "metal-coat": {
+            "top": 800,
+            "left": 160
+        },
+        "razor-claw": {
+            "top": 800,
+            "left": 320
+        },
+        "cracked-pot": {
+            "top": 800,
+            "left": 480
+        },
+        "chipped-pot": {
+            "top": 800,
+            "left": 640
+        },
+        "bottle-cap": {
+            "top": 800,
+            "left": 800
+        },
+        "gold-bottle-cap": {
+            "top": 800,
+            "left": 960
+        },
+        "fast-ball": {
+            "top": 800,
+            "left": 1120
+        },
+        "level-ball": {
+            "top": 800,
+            "left": 1280
+        },
+        "lure-ball": {
+            "top": 800,
+            "left": 1440
+        },
+        "heavy-ball": {
+            "top": 960,
+            "left": 0
+        },
+        "love-ball": {
+            "top": 960,
+            "left": 160
+        },
+        "friend-ball": {
+            "top": 960,
+            "left": 320
+        },
+        "moon-ball": {
+            "top": 960,
+            "left": 480
+        },
+        "dream-ball": {
+            "top": 960,
+            "left": 640
+        }
+    }
+}
