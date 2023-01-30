@@ -10812,7 +10812,7 @@
         "chi_sim": "仆刀将军",
         "chi_tra": "仆斬將軍"
      },
-     "greattusk":{
+     "great-tusk":{
         "eng": "Great Tusk",
         "jpn": "イダイナキバ",
         "spa": "Colmilargo",
@@ -10823,7 +10823,7 @@
         "chi_sim": "雄伟牙",
         "chi_tra": "雄偉牙"
      },
-     "screamtail":{
+     "scream-tail":{
         "eng": "Scream Tail",
         "jpn": "サケブシッポ",
         "spa": "Colagrito",
@@ -10834,7 +10834,7 @@
         "chi_sim": "吼叫尾",
         "chi_tra": "吼叫尾"
      },
-     "brutebonnet":{
+     "brute-bonnet":{
         "eng": "Brute Bonnet",
         "jpn": "アラブルタケ",
         "spa": "Furioseta",
@@ -10845,7 +10845,7 @@
         "chi_sim": "猛恶菇",
         "chi_tra": "猛惡菇"
      },
-     "fluttermane":{
+     "flutter-mane":{
         "eng": "Flutter Mane",
         "jpn": "ハバタクカミ",
         "spa": "Melenaleteo",
@@ -10856,7 +10856,7 @@
         "chi_sim": "振翼发",
         "chi_tra": "振翼髮"
      },
-     "slitherwing":{
+     "slither-wing":{
         "eng": "Slither Wing",
         "jpn": "チヲハウハネ",
         "spa": "Reptalada",
@@ -10867,7 +10867,7 @@
         "chi_sim": "爬地翅",
         "chi_tra": "爬地翅"
      },
-     "sandyshocks":{
+     "sandy-shocks":{
         "eng": "Sandy Shocks",
         "jpn": "スナノケガワ",
         "spa": "Pelarena",
@@ -10878,7 +10878,7 @@
         "chi_sim": "沙铁皮",
         "chi_tra": "沙鐵皮"
      },
-     "irontreads":{
+     "iron-treads":{
         "eng": "Iron Treads",
         "jpn": "テツノワダチ",
         "spa": "Ferrodada",
@@ -10889,7 +10889,7 @@
         "chi_sim": "铁辙迹",
         "chi_tra": "鐵轍跡"
      },
-     "ironbundle":{
+     "iron-bundle":{
         "eng": "Iron Bundle",
         "jpn": "テツノツツミ",
         "spa": "Ferrosaco",
@@ -10900,7 +10900,7 @@
         "chi_sim": "铁包袱",
         "chi_tra": "鐵包袱"
      },
-     "ironhands":{
+     "iron-hands":{
         "eng": "Iron Hands",
         "jpn": "テツノカイナ",
         "spa": "Ferropalmas",
@@ -10911,7 +10911,7 @@
         "chi_sim": "铁臂膀",
         "chi_tra": "鐵臂膀"
      },
-     "ironjugulis":{
+     "iron-jugulis":{
         "eng": "Iron Jugulis",
         "jpn": "テツノコウベ",
         "spa": "Ferrocuello",
@@ -10922,7 +10922,7 @@
         "chi_sim": "铁脖颈",
         "chi_tra": "鐵脖頸"
      },
-     "ironmoth":{
+     "iron-moth":{
         "eng": "Iron Moth",
         "jpn": "テツノドクガ",
         "spa": "Ferropolilla",
@@ -10933,7 +10933,7 @@
         "chi_sim": "铁毒蛾",
         "chi_tra": "鐵毒蛾"
      },
-     "ironthorns":{
+     "iron-thorns":{
         "eng": "Iron Thorns",
         "jpn": "テツノイバラ",
         "spa": "Ferropúas",
@@ -11043,7 +11043,7 @@
         "chi_sim": "古玉鱼",
         "chi_tra": "古玉魚"
      },
-     "roaringmoon":{
+     "roaring-moon":{
         "eng": "Roaring Moon",
         "jpn": "トドロクツキ",
         "spa": "Bramaluna",
@@ -11054,7 +11054,7 @@
         "chi_sim": "轰鸣月",
         "chi_tra": "轟鳴月"
      },
-     "ironvaliant":{
+     "iron-valiant":{
         "eng": "Iron Valiant",
         "jpn": "テツノブジン",
         "spa": "Ferropaladín",
