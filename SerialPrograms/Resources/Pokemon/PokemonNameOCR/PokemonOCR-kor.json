@@ -47,6 +47,9 @@
     "ampharos": [
         "전룡"
     ],
+    "annihilape": [
+        "저승갓숭"
+    ],
     "anorith": [
         "아노딥스"
     ],
@@ -62,6 +65,9 @@
     "arbok": [
         "아보크"
     ],
+    "arboliva": [
+        "올리르바"
+    ],
     "arcanine": [
         "윈디"
     ],
@@ -74,6 +80,9 @@
     "archeops": [
         "아케오스"
     ],
+    "arctibax": [
+        "드니꽁"
+    ],
     "arctovish": [
         "어치르돈"
     ],
@@ -85,6 +94,9 @@
     ],
     "armaldo": [
         "아말도"
+    ],
+    "armarouge": [
+        "카디나르마"
     ],
     "aromatisse": [
         "프레프티르"
@@ -146,6 +158,9 @@
     "bastiodon": [
         "바리톱스"
     ],
+    "baxcalibur": [
+        "드닐레이브"
+    ],
     "bayleef": [
         "베이리프"
     ],
@@ -159,12 +174,13 @@
         "독침붕"
     ],
     "beheeyem": [
-        "벰크",
-        "베",
-        "크"
+        "벰크"
     ],
     "beldum": [
         "메탕"
+    ],
+    "bellibolt": [
+        "찌리배리"
     ],
     "bellossom": [
         "아르코"
@@ -214,6 +230,9 @@
     "boltund": [
         "펄스멍"
     ],
+    "bombirdier": [
+        "떨구새"
+    ],
     "bonsly": [
         "꼬지지"
     ],
@@ -225,6 +244,12 @@
     ],
     "braixen": [
         "테르나"
+    ],
+    "brambleghast": [
+        "공푸리"
+    ],
+    "bramblin": [
+        "그푸리"
     ],
     "braviary": [
         "워글"
@@ -240,6 +265,9 @@
     ],
     "bronzor": [
         "동미러"
+    ],
+    "brute-bonnet": [
+        "사나운버섯"
     ],
     "bruxish": [
         "치갈기"
@@ -280,6 +308,9 @@
     "camerupt": [
         "폭타"
     ],
+    "capsakid": [
+        "캡싸이"
+    ],
     "carbink": [
         "멜리시"
     ],
@@ -313,11 +344,23 @@
     "centiskorch": [
         "다태우지네"
     ],
+    "ceruledge": [
+        "파라블레이즈"
+    ],
+    "cetitan": [
+        "우락고래"
+    ],
+    "cetoddle": [
+        "터벅고래"
+    ],
     "chandelure": [
         "샹델라"
     ],
     "chansey": [
         "럭키"
+    ],
+    "charcadet": [
+        "카르본"
     ],
     "charizard": [
         "리자몽"
@@ -348,6 +391,12 @@
     ],
     "chewtle": [
         "깨물부기"
+    ],
+    "chi-yu": [
+        "위유이"
+    ],
+    "chien-pao": [
+        "파오젠"
     ],
     "chikorita": [
         "치코리타"
@@ -386,16 +435,10 @@
         "픽시"
     ],
     "clefairy": [
-        "삐삐",
-        "bt",
-        "빼",
-        "tt"
+        "삐삐"
     ],
     "cleffa": [
-        "삐",
-        "bh",
-        "빼",
-        "th"
+        "삐"
     ],
     "clobbopus": [
         "때때무노"
@@ -475,6 +518,9 @@
     "crobat": [
         "크로뱃"
     ],
+    "crocalor": [
+        "악뜨거"
+    ],
     "croconaw": [
         "엘리게이"
     ],
@@ -499,8 +545,14 @@
     "cutiefly": [
         "에블리"
     ],
+    "cyclizar": [
+        "모토마"
+    ],
     "cyndaquil": [
         "브케인"
+    ],
+    "dachsbun": [
+        "바우첼"
     ],
     "darkrai": [
         "다크라이"
@@ -571,6 +623,12 @@
     "doduo": [
         "두두"
     ],
+    "dolliv": [
+        "올리뇨"
+    ],
+    "dondozo": [
+        "어써러셔"
+    ],
     "donphan": [
         "코리갑"
     ],
@@ -639,6 +697,9 @@
     ],
     "ducklett": [
         "꼬지보리"
+    ],
+    "dudunsparce": [
+        "노고고치"
     ],
     "dugtrio": [
         "닥트리오"
@@ -724,6 +785,9 @@
     "escavalier": [
         "슈바르고"
     ],
+    "espathra": [
+        "클레스퍼트라"
+    ],
     "espeon": [
         "에브이"
     ],
@@ -751,6 +815,9 @@
     "farfetch-d": [
         "파오리"
     ],
+    "farigiraf": [
+        "키키링"
+    ],
     "fearow": [
         "깨비드릴조"
     ],
@@ -769,6 +836,12 @@
     "ferrothorn": [
         "너트령"
     ],
+    "fidough": [
+        "쫀도기"
+    ],
+    "finizen": [
+        "맨돌핀"
+    ],
     "finneon": [
         "형광어"
     ],
@@ -777,6 +850,9 @@
     ],
     "flabebe": [
         "플라베베"
+    ],
+    "flamigo": [
+        "꼬이밍고"
     ],
     "flapple": [
         "애프룡"
@@ -790,14 +866,23 @@
     "fletchling": [
         "화살꼬빈"
     ],
+    "flittle": [
+        "하느라기"
+    ],
     "floatzel": [
         "플로젤"
     ],
     "floette": [
         "플라엣테"
     ],
+    "floragato": [
+        "나로테"
+    ],
     "florges": [
         "플라제스"
+    ],
+    "flutter-mane": [
+        "날개치는머리"
     ],
     "flygon": [
         "플라이곤"
@@ -814,6 +899,9 @@
     "fraxure": [
         "액슨도"
     ],
+    "frigibax": [
+        "드니차"
+    ],
     "frillish": [
         "탱그릴"
     ],
@@ -828,6 +916,9 @@
     ],
     "frosmoth": [
         "모스노우"
+    ],
+    "fuecoco": [
+        "뜨아거"
     ],
     "furfrou": [
         "트리미앙"
@@ -853,6 +944,9 @@
     "gardevoir": [
         "가디안"
     ],
+    "garganacl": [
+        "콜로솔트"
+    ],
     "gastly": [
         "고오스"
     ],
@@ -863,18 +957,22 @@
         "게노세크트"
     ],
     "gengar": [
-        "팬텀",
-        "팸",
-        "팬"
+        "팬텀"
     ],
     "geodude": [
         "꼬마돌"
+    ],
+    "gholdengo": [
+        "타부자고"
     ],
     "gible": [
         "딥상어동"
     ],
     "gigalith": [
         "기가이어스"
+    ],
+    "gimmighoul": [
+        "모으령"
     ],
     "girafarig": [
         "키링키"
@@ -896,6 +994,12 @@
     ],
     "gligar": [
         "글라이거"
+    ],
+    "glimmet": [
+        "초롱순"
+    ],
+    "glimmora": [
+        "킬라플로르"
     ],
     "gliscor": [
         "글라이온"
@@ -951,6 +1055,9 @@
     "gourgeist": [
         "펌킨인"
     ],
+    "grafaiai": [
+        "태깅구르"
+    ],
     "granbull": [
         "그랑블루"
     ],
@@ -959,6 +1066,12 @@
     ],
     "graveler": [
         "데구리"
+    ],
+    "great-tusk": [
+        "위대한엄니"
+    ],
+    "greavard": [
+        "망망이"
     ],
     "greedent": [
         "요씽리스"
@@ -1095,6 +1208,9 @@
     "houndour": [
         "델빌"
     ],
+    "houndstone": [
+        "묘두기"
+    ],
     "huntail": [
         "헌테일"
     ],
@@ -1128,6 +1244,27 @@
     "inteleon": [
         "인텔리레온"
     ],
+    "iron-bundle": [
+        "무쇠보따리"
+    ],
+    "iron-hands": [
+        "무쇠손"
+    ],
+    "iron-jugulis": [
+        "무쇠머리"
+    ],
+    "iron-moth": [
+        "무쇠독나방"
+    ],
+    "iron-thorns": [
+        "무쇠가시"
+    ],
+    "iron-treads": [
+        "무쇠바퀴"
+    ],
+    "iron-valiant": [
+        "무쇠무인"
+    ],
     "ivysaur": [
         "이상해풀"
     ],
@@ -1156,9 +1293,7 @@
         "루주라"
     ],
     "kabuto": [
-        "투구",
-        "트그tt",
-        "트그ᅮᅮ"
+        "투구"
     ],
     "kabutops": [
         "투구푸스"
@@ -1184,6 +1319,12 @@
     "keldeo": [
         "케르디오"
     ],
+    "kilowattrel": [
+        "찌리비크"
+    ],
+    "kingambit": [
+        "대도각참"
+    ],
     "kingdra": [
         "킹드라"
     ],
@@ -1195,6 +1336,9 @@
     ],
     "klang": [
         "기기어르"
+    ],
+    "klawf": [
+        "절벼게"
     ],
     "kleavor": [
         "사마자르"
@@ -1216,6 +1360,9 @@
     ],
     "kommo-o": [
         "짜랑고우거"
+    ],
+    "koraidon": [
+        "코라이돈"
     ],
     "krabby": [
         "크랩"
@@ -1274,6 +1421,9 @@
     "leavanny": [
         "모아머"
     ],
+    "lechonk": [
+        "맛보돈"
+    ],
     "ledian": [
         "레디안"
     ],
@@ -1309,6 +1459,9 @@
     ],
     "litwick": [
         "불켜미"
+    ],
+    "lokix": [
+        "엑스레그"
     ],
     "lombre": [
         "로토스"
@@ -1354,6 +1507,9 @@
     ],
     "lycanroc": [
         "루가루암"
+    ],
+    "mabosstiff": [
+        "마피티프"
     ],
     "machamp": [
         "괴력몬"
@@ -1439,8 +1595,14 @@
     "marshtomp": [
         "늪짱이"
     ],
+    "maschiff": [
+        "오라티프"
+    ],
     "masquerain": [
         "비나방"
+    ],
+    "maushold": [
+        "파밀리쥐"
     ],
     "mawile": [
         "입치트"
@@ -1462,6 +1624,9 @@
     ],
     "meltan": [
         "멜탄"
+    ],
+    "meowscarada": [
+        "마스카나"
     ],
     "meowstic": [
         "냐오닉스"
@@ -1520,6 +1685,9 @@
     "minun": [
         "마이농"
     ],
+    "miraidon": [
+        "미라이돈"
+    ],
     "misdreavus": [
         "무우마"
     ],
@@ -1573,6 +1741,12 @@
     ],
     "musharna": [
         "몽얌나"
+    ],
+    "nacli": [
+        "베베솔트"
+    ],
+    "naclstack": [
+        "스태솔트"
     ],
     "naganadel": [
         "아고용"
@@ -1634,6 +1808,9 @@
     "nuzleaf": [
         "잎새코"
     ],
+    "nymble": [
+        "콩알뚜기"
+    ],
     "obstagoon": [
         "가로막구리"
     ],
@@ -1642,6 +1819,9 @@
     ],
     "oddish": [
         "뚜벅쵸"
+    ],
+    "oinkologne": [
+        "퍼퓨돈"
     ],
     "omanyte": [
         "암나이트"
@@ -1661,6 +1841,9 @@
     "oricorio": [
         "춤추새"
     ],
+    "orthworm": [
+        "꿈트렁"
+    ],
     "oshawott": [
         "수댕이"
     ],
@@ -1669,6 +1852,9 @@
     ],
     "pachirisu": [
         "파치리스"
+    ],
+    "palafin": [
+        "돌핀맨"
     ],
     "palkia": [
         "펄기아"
@@ -1705,6 +1891,15 @@
     ],
     "patrat": [
         "보르쥐"
+    ],
+    "pawmi": [
+        "빠모"
+    ],
+    "pawmo": [
+        "빠모트"
+    ],
+    "pawmot": [
+        "빠르모트"
     ],
     "pawniard": [
         "자망칼"
@@ -1845,8 +2040,16 @@
         "해무기"
     ],
     "quagsire": [
-        "누오",
-        "느무7"
+        "누오"
+    ],
+    "quaquaval": [
+        "웨이니발"
+    ],
+    "quaxly": [
+        "꾸왁스"
+    ],
+    "quaxwell": [
+        "아꾸왁"
     ],
     "quilava": [
         "마그케인"
@@ -1859,6 +2062,9 @@
     ],
     "raboot": [
         "래비풋"
+    ],
+    "rabsca": [
+        "베라카스"
     ],
     "raichu": [
         "라이츄"
@@ -1905,6 +2111,9 @@
     "relicanth": [
         "시라칸"
     ],
+    "rellor": [
+        "구르데"
+    ],
     "remoraid": [
         "총어"
     ],
@@ -1913,6 +2122,9 @@
     ],
     "reuniclus": [
         "란쿨루스"
+    ],
+    "revavroom": [
+        "부르르룸"
     ],
     "rhydon": [
         "코뿌리"
@@ -1931,6 +2143,9 @@
     ],
     "riolu": [
         "리오르"
+    ],
+    "roaring-moon": [
+        "고동치는달"
     ],
     "rockruff": [
         "암멍이"
@@ -1989,6 +2204,9 @@
     "sandslash": [
         "고지"
     ],
+    "sandy-shocks": [
+        "모래털가죽"
+    ],
     "sandygast": [
         "모래꿍"
     ],
@@ -2013,11 +2231,17 @@
     "scorbunny": [
         "염버니"
     ],
+    "scovillain": [
+        "스코빌런"
+    ],
     "scrafty": [
         "곤율거니"
     ],
     "scraggy": [
         "곤율랭"
+    ],
+    "scream-tail": [
+        "우렁찬꼬리"
     ],
     "scyther": [
         "스라크"
@@ -2065,8 +2289,7 @@
         "껍질몬"
     ],
     "shelgon": [
-        "쉘곤",
-        "쉐르느"
+        "쉘곤"
     ],
     "shellder": [
         "셀러"
@@ -2088,6 +2311,9 @@
     ],
     "shinx": [
         "꼬링크"
+    ],
+    "shroodle": [
+        "땃쭈르"
     ],
     "shroomish": [
         "버섯꼬"
@@ -2131,6 +2357,9 @@
     "skarmory": [
         "무장조"
     ],
+    "skeledirge": [
+        "라우드본"
+    ],
     "skiddo": [
         "메이클"
     ],
@@ -2161,6 +2390,9 @@
     "sliggoo": [
         "미끄네일"
     ],
+    "slither-wing": [
+        "땅을기는날개"
+    ],
     "slowbro": [
         "야도란"
     ],
@@ -2178,6 +2410,9 @@
     ],
     "smeargle": [
         "루브도"
+    ],
+    "smoliv": [
+        "미니브"
     ],
     "smoochum": [
         "뽀뽀라"
@@ -2230,6 +2465,9 @@
     "spheal": [
         "대굴레오"
     ],
+    "spidops": [
+        "트래피더"
+    ],
     "spinarak": [
         "페이검"
     ],
@@ -2242,8 +2480,14 @@
     "spoink": [
         "피그점프"
     ],
+    "sprigatito": [
+        "나오하"
+    ],
     "spritzee": [
         "슈쁘"
+    ],
+    "squawkabilly": [
+        "시비꼬"
     ],
     "squirtle": [
         "꼬부기"
@@ -2335,11 +2579,17 @@
     "sylveon": [
         "님피아"
     ],
+    "tadbulb": [
+        "빈나두"
+    ],
     "taillow": [
         "테일로"
     ],
     "talonflame": [
         "파이어로"
+    ],
+    "tandemaus": [
+        "두리쥐"
     ],
     "tangela": [
         "덩쿠리"
@@ -2358,6 +2608,12 @@
     ],
     "tapu-lele": [
         "카푸나비나"
+    ],
+    "tarountula": [
+        "타랜툴라"
+    ],
+    "tatsugiri": [
+        "싸리용"
     ],
     "tauros": [
         "켄타로스"
@@ -2392,8 +2648,26 @@
     "timburr": [
         "으랏차"
     ],
+    "ting-lu": [
+        "딩루"
+    ],
+    "tinkatink": [
+        "어리짱"
+    ],
+    "tinkaton": [
+        "두드리짱"
+    ],
+    "tinkatuff": [
+        "벼리짱"
+    ],
     "tirtouga": [
         "프로토가"
+    ],
+    "toedscool": [
+        "들눈해"
+    ],
+    "toedscruel": [
+        "육파리"
     ],
     "togedemaru": [
         "토게데마루"
@@ -2527,6 +2801,12 @@
     "vaporeon": [
         "샤미드"
     ],
+    "varoom": [
+        "부르롱"
+    ],
+    "veluza": [
+        "가비루사"
+    ],
     "venipede": [
         "마디네"
     ],
@@ -2599,6 +2879,9 @@
     "watchog": [
         "보르그"
     ],
+    "wattrel": [
+        "찌리비"
+    ],
     "weavile": [
         "포푸니라"
     ],
@@ -2615,8 +2898,7 @@
         "엘풍"
     ],
     "whirlipede": [
-        "휠구",
-        "회그르7"
+        "휠구"
     ],
     "whiscash": [
         "메깅"
@@ -2627,6 +2909,9 @@
     "wigglytuff": [
         "푸크린"
     ],
+    "wiglett": [
+        "바다그다"
+    ],
     "wimpod": [
         "꼬시레"
     ],
@@ -2635,6 +2920,9 @@
     ],
     "wishiwashi": [
         "약어리"
+    ],
+    "wo-chien": [
+        "총지엔"
     ],
     "wobbuffet": [
         "마자용"
@@ -2650,6 +2938,9 @@
     ],
     "wormadam": [
         "도롱마담"
+    ],
+    "wugtrio": [
+        "바닥트리오"
     ],
     "wurmple": [
         "개무소"

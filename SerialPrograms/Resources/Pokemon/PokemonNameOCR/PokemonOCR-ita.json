@@ -47,6 +47,9 @@
     "ampharos": [
         "Ampharos"
     ],
+    "annihilape": [
+        "Annihilape"
+    ],
     "anorith": [
         "Anorith"
     ],
@@ -62,6 +65,9 @@
     "arbok": [
         "Arbok"
     ],
+    "arboliva": [
+        "Arboliva"
+    ],
     "arcanine": [
         "Arcanine"
     ],
@@ -74,6 +80,9 @@
     "archeops": [
         "Archeops"
     ],
+    "arctibax": [
+        "Arctibax"
+    ],
     "arctovish": [
         "Arctovish"
     ],
@@ -85,6 +94,9 @@
     ],
     "armaldo": [
         "Armaldo"
+    ],
+    "armarouge": [
+        "Armarouge"
     ],
     "aromatisse": [
         "Aromatisse"
@@ -146,6 +158,9 @@
     "bastiodon": [
         "Bastiodon"
     ],
+    "baxcalibur": [
+        "Baxcalibur"
+    ],
     "bayleef": [
         "Bayleef"
     ],
@@ -163,6 +178,9 @@
     ],
     "beldum": [
         "Beldum"
+    ],
+    "bellibolt": [
+        "Bellibolt"
     ],
     "bellossom": [
         "Bellossom"
@@ -212,6 +230,9 @@
     "boltund": [
         "Boltund"
     ],
+    "bombirdier": [
+        "Bombirdier"
+    ],
     "bonsly": [
         "Bonsly"
     ],
@@ -223,6 +244,12 @@
     ],
     "braixen": [
         "Braixen"
+    ],
+    "brambleghast": [
+        "Brambleghast"
+    ],
+    "bramblin": [
+        "Bramblin"
     ],
     "braviary": [
         "Braviary"
@@ -238,6 +265,9 @@
     ],
     "bronzor": [
         "Bronzor"
+    ],
+    "brute-bonnet": [
+        "Fungofurioso"
     ],
     "bruxish": [
         "Bruxish"
@@ -278,6 +308,9 @@
     "camerupt": [
         "Camerupt"
     ],
+    "capsakid": [
+        "Capsakid"
+    ],
     "carbink": [
         "Carbink"
     ],
@@ -311,11 +344,23 @@
     "centiskorch": [
         "Centiskorch"
     ],
+    "ceruledge": [
+        "Ceruledge"
+    ],
+    "cetitan": [
+        "Cetitan"
+    ],
+    "cetoddle": [
+        "Cetoddle"
+    ],
     "chandelure": [
         "Chandelure"
     ],
     "chansey": [
         "Chansey"
+    ],
+    "charcadet": [
+        "Charcadet"
     ],
     "charizard": [
         "Charizard"
@@ -346,6 +391,12 @@
     ],
     "chewtle": [
         "Chewtle"
+    ],
+    "chi-yu": [
+        "Chi-Yu"
+    ],
+    "chien-pao": [
+        "Chien-Pao"
     ],
     "chikorita": [
         "Chikorita"
@@ -467,6 +518,9 @@
     "crobat": [
         "Crobat"
     ],
+    "crocalor": [
+        "Crocalor"
+    ],
     "croconaw": [
         "Croconaw"
     ],
@@ -491,8 +545,14 @@
     "cutiefly": [
         "Cutiefly"
     ],
+    "cyclizar": [
+        "Cyclizar"
+    ],
     "cyndaquil": [
         "Cyndaquil"
+    ],
+    "dachsbun": [
+        "Dachsbun"
     ],
     "darkrai": [
         "Darkrai"
@@ -563,6 +623,12 @@
     "doduo": [
         "Doduo"
     ],
+    "dolliv": [
+        "Dolliv"
+    ],
+    "dondozo": [
+        "Dondozo"
+    ],
     "donphan": [
         "Donphan"
     ],
@@ -631,6 +697,9 @@
     ],
     "ducklett": [
         "Ducklett"
+    ],
+    "dudunsparce": [
+        "Dudunsparce"
     ],
     "dugtrio": [
         "Dugtrio"
@@ -716,6 +785,9 @@
     "escavalier": [
         "Escavalier"
     ],
+    "espathra": [
+        "Espathra"
+    ],
     "espeon": [
         "Espeon"
     ],
@@ -743,6 +815,9 @@
     "farfetch-d": [
         "Farfetch’d"
     ],
+    "farigiraf": [
+        "Farigiraf"
+    ],
     "fearow": [
         "Fearow"
     ],
@@ -761,6 +836,12 @@
     "ferrothorn": [
         "Ferrothorn"
     ],
+    "fidough": [
+        "Fidough"
+    ],
+    "finizen": [
+        "Finizen"
+    ],
     "finneon": [
         "Finneon"
     ],
@@ -769,6 +850,9 @@
     ],
     "flabebe": [
         "Flabébé"
+    ],
+    "flamigo": [
+        "Flamigo"
     ],
     "flapple": [
         "Flapple"
@@ -782,14 +866,23 @@
     "fletchling": [
         "Fletchling"
     ],
+    "flittle": [
+        "Flittle"
+    ],
     "floatzel": [
         "Floatzel"
     ],
     "floette": [
         "Floette"
     ],
+    "floragato": [
+        "Floragato"
+    ],
     "florges": [
         "Florges"
+    ],
+    "flutter-mane": [
+        "Crinealato"
     ],
     "flygon": [
         "Flygon"
@@ -806,6 +899,9 @@
     "fraxure": [
         "Fraxure"
     ],
+    "frigibax": [
+        "Frigibax"
+    ],
     "frillish": [
         "Frillish"
     ],
@@ -820,6 +916,9 @@
     ],
     "frosmoth": [
         "Frosmoth"
+    ],
+    "fuecoco": [
+        "Fuecoco"
     ],
     "furfrou": [
         "Furfrou"
@@ -845,6 +944,9 @@
     "gardevoir": [
         "Gardevoir"
     ],
+    "garganacl": [
+        "Garganacl"
+    ],
     "gastly": [
         "Gastly"
     ],
@@ -860,11 +962,17 @@
     "geodude": [
         "Geodude"
     ],
+    "gholdengo": [
+        "Gholdengo"
+    ],
     "gible": [
         "Gible"
     ],
     "gigalith": [
         "Gigalith"
+    ],
+    "gimmighoul": [
+        "Gimmighoul"
     ],
     "girafarig": [
         "Girafarig"
@@ -886,6 +994,12 @@
     ],
     "gligar": [
         "Gligar"
+    ],
+    "glimmet": [
+        "Glimmet"
+    ],
+    "glimmora": [
+        "Glimmora"
     ],
     "gliscor": [
         "Gliscor"
@@ -941,6 +1055,9 @@
     "gourgeist": [
         "Gourgeist"
     ],
+    "grafaiai": [
+        "Grafaiai"
+    ],
     "granbull": [
         "Granbull"
     ],
@@ -949,6 +1066,12 @@
     ],
     "graveler": [
         "Graveler"
+    ],
+    "great-tusk": [
+        "Grandizanne"
+    ],
+    "greavard": [
+        "Greavard"
     ],
     "greedent": [
         "Greedent"
@@ -1085,6 +1208,9 @@
     "houndour": [
         "Houndour"
     ],
+    "houndstone": [
+        "Houndstone"
+    ],
     "huntail": [
         "Huntail"
     ],
@@ -1117,6 +1243,27 @@
     ],
     "inteleon": [
         "Inteleon"
+    ],
+    "iron-bundle": [
+        "Saccoferreo"
+    ],
+    "iron-hands": [
+        "Manoferrea"
+    ],
+    "iron-jugulis": [
+        "Colloferreo"
+    ],
+    "iron-moth": [
+        "Falenaferrea"
+    ],
+    "iron-thorns": [
+        "Spineferree"
+    ],
+    "iron-treads": [
+        "Solcoferreo"
+    ],
+    "iron-valiant": [
+        "Eroeferreo"
     ],
     "ivysaur": [
         "Ivysaur"
@@ -1172,6 +1319,12 @@
     "keldeo": [
         "Keldeo"
     ],
+    "kilowattrel": [
+        "Kilowattrel"
+    ],
+    "kingambit": [
+        "Kingambit"
+    ],
     "kingdra": [
         "Kingdra"
     ],
@@ -1183,6 +1336,9 @@
     ],
     "klang": [
         "Klang"
+    ],
+    "klawf": [
+        "Klawf"
     ],
     "kleavor": [
         "Kleavor"
@@ -1204,6 +1360,9 @@
     ],
     "kommo-o": [
         "Kommo-o"
+    ],
+    "koraidon": [
+        "Koraidon"
     ],
     "krabby": [
         "Krabby"
@@ -1262,6 +1421,9 @@
     "leavanny": [
         "Leavanny"
     ],
+    "lechonk": [
+        "Lechonk"
+    ],
     "ledian": [
         "Ledian"
     ],
@@ -1297,6 +1459,9 @@
     ],
     "litwick": [
         "Litwick"
+    ],
+    "lokix": [
+        "Lokix"
     ],
     "lombre": [
         "Lombre"
@@ -1342,6 +1507,9 @@
     ],
     "lycanroc": [
         "Lycanroc"
+    ],
+    "mabosstiff": [
+        "Mabosstiff"
     ],
     "machamp": [
         "Machamp"
@@ -1427,8 +1595,14 @@
     "marshtomp": [
         "Marshtomp"
     ],
+    "maschiff": [
+        "Maschiff"
+    ],
     "masquerain": [
         "Masquerain"
+    ],
+    "maushold": [
+        "Maushold"
     ],
     "mawile": [
         "Mawile"
@@ -1450,6 +1624,9 @@
     ],
     "meltan": [
         "Meltan"
+    ],
+    "meowscarada": [
+        "Meowscarada"
     ],
     "meowstic": [
         "Meowstic"
@@ -1508,6 +1685,9 @@
     "minun": [
         "Minun"
     ],
+    "miraidon": [
+        "Miraidon"
+    ],
     "misdreavus": [
         "Misdreavus"
     ],
@@ -1561,6 +1741,12 @@
     ],
     "musharna": [
         "Musharna"
+    ],
+    "nacli": [
+        "Nacli"
+    ],
+    "naclstack": [
+        "Naclstack"
     ],
     "naganadel": [
         "Naganadel"
@@ -1622,6 +1808,9 @@
     "nuzleaf": [
         "Nuzleaf"
     ],
+    "nymble": [
+        "Nymble"
+    ],
     "obstagoon": [
         "Obstagoon"
     ],
@@ -1630,6 +1819,9 @@
     ],
     "oddish": [
         "Oddish"
+    ],
+    "oinkologne": [
+        "Oinkologne"
     ],
     "omanyte": [
         "Omanyte"
@@ -1649,6 +1841,9 @@
     "oricorio": [
         "Oricorio"
     ],
+    "orthworm": [
+        "Orthworm"
+    ],
     "oshawott": [
         "Oshawott"
     ],
@@ -1657,6 +1852,9 @@
     ],
     "pachirisu": [
         "Pachirisu"
+    ],
+    "palafin": [
+        "Palafin"
     ],
     "palkia": [
         "Palkia"
@@ -1693,6 +1891,15 @@
     ],
     "patrat": [
         "Patrat"
+    ],
+    "pawmi": [
+        "Pawmi"
+    ],
+    "pawmo": [
+        "Pawmo"
+    ],
+    "pawmot": [
+        "Pawmot"
     ],
     "pawniard": [
         "Pawniard"
@@ -1835,6 +2042,15 @@
     "quagsire": [
         "Quagsire"
     ],
+    "quaquaval": [
+        "Quaquaval"
+    ],
+    "quaxly": [
+        "Quaxly"
+    ],
+    "quaxwell": [
+        "Quaxwell"
+    ],
     "quilava": [
         "Quilava"
     ],
@@ -1846,6 +2062,9 @@
     ],
     "raboot": [
         "Raboot"
+    ],
+    "rabsca": [
+        "Rabsca"
     ],
     "raichu": [
         "Raichu"
@@ -1892,6 +2111,9 @@
     "relicanth": [
         "Relicanth"
     ],
+    "rellor": [
+        "Rellor"
+    ],
     "remoraid": [
         "Remoraid"
     ],
@@ -1900,6 +2122,9 @@
     ],
     "reuniclus": [
         "Reuniclus"
+    ],
+    "revavroom": [
+        "Revavroom"
     ],
     "rhydon": [
         "Rhydon"
@@ -1918,6 +2143,9 @@
     ],
     "riolu": [
         "Riolu"
+    ],
+    "roaring-moon": [
+        "Lunaruggente"
     ],
     "rockruff": [
         "Rockruff"
@@ -1976,6 +2204,9 @@
     "sandslash": [
         "Sandslash"
     ],
+    "sandy-shocks": [
+        "Peldisabbia"
+    ],
     "sandygast": [
         "Sandygast"
     ],
@@ -2000,11 +2231,17 @@
     "scorbunny": [
         "Scorbunny"
     ],
+    "scovillain": [
+        "Scovillain"
+    ],
     "scrafty": [
         "Scrafty"
     ],
     "scraggy": [
         "Scraggy"
+    ],
+    "scream-tail": [
+        "Codaurlante"
     ],
     "scyther": [
         "Scyther"
@@ -2075,6 +2312,9 @@
     "shinx": [
         "Shinx"
     ],
+    "shroodle": [
+        "Shroodle"
+    ],
     "shroomish": [
         "Shroomish"
     ],
@@ -2117,6 +2357,9 @@
     "skarmory": [
         "Skarmory"
     ],
+    "skeledirge": [
+        "Skeledirge"
+    ],
     "skiddo": [
         "Skiddo"
     ],
@@ -2147,6 +2390,9 @@
     "sliggoo": [
         "Sliggoo"
     ],
+    "slither-wing": [
+        "Alirasenti"
+    ],
     "slowbro": [
         "Slowbro"
     ],
@@ -2164,6 +2410,9 @@
     ],
     "smeargle": [
         "Smeargle"
+    ],
+    "smoliv": [
+        "Smoliv"
     ],
     "smoochum": [
         "Smoochum"
@@ -2216,6 +2465,9 @@
     "spheal": [
         "Spheal"
     ],
+    "spidops": [
+        "Spidops"
+    ],
     "spinarak": [
         "Spinarak"
     ],
@@ -2228,8 +2480,14 @@
     "spoink": [
         "Spoink"
     ],
+    "sprigatito": [
+        "Sprigatito"
+    ],
     "spritzee": [
         "Spritzee"
+    ],
+    "squawkabilly": [
+        "Squawkabilly"
     ],
     "squirtle": [
         "Squirtle"
@@ -2321,11 +2579,17 @@
     "sylveon": [
         "Sylveon"
     ],
+    "tadbulb": [
+        "Tadbulb"
+    ],
     "taillow": [
         "Taillow"
     ],
     "talonflame": [
         "Talonflame"
+    ],
+    "tandemaus": [
+        "Tandemaus"
     ],
     "tangela": [
         "Tangela"
@@ -2344,6 +2608,12 @@
     ],
     "tapu-lele": [
         "Tapu Lele"
+    ],
+    "tarountula": [
+        "Tarountula"
+    ],
+    "tatsugiri": [
+        "Tatsugiri"
     ],
     "tauros": [
         "Tauros"
@@ -2378,8 +2648,26 @@
     "timburr": [
         "Timburr"
     ],
+    "ting-lu": [
+        "Ting-Lu"
+    ],
+    "tinkatink": [
+        "Tinkatink"
+    ],
+    "tinkaton": [
+        "Tinkaton"
+    ],
+    "tinkatuff": [
+        "Tinkatuff"
+    ],
     "tirtouga": [
         "Tirtouga"
+    ],
+    "toedscool": [
+        "Toedscool"
+    ],
+    "toedscruel": [
+        "Toedscruel"
     ],
     "togedemaru": [
         "Togedemaru"
@@ -2513,6 +2801,12 @@
     "vaporeon": [
         "Vaporeon"
     ],
+    "varoom": [
+        "Varoom"
+    ],
+    "veluza": [
+        "Veluza"
+    ],
     "venipede": [
         "Venipede"
     ],
@@ -2585,6 +2879,9 @@
     "watchog": [
         "Watchog"
     ],
+    "wattrel": [
+        "Wattrel"
+    ],
     "weavile": [
         "Weavile"
     ],
@@ -2612,6 +2909,9 @@
     "wigglytuff": [
         "Wigglytuff"
     ],
+    "wiglett": [
+        "Wiglett"
+    ],
     "wimpod": [
         "Wimpod"
     ],
@@ -2620,6 +2920,9 @@
     ],
     "wishiwashi": [
         "Wishiwashi"
+    ],
+    "wo-chien": [
+        "Wo-Chien"
     ],
     "wobbuffet": [
         "Wobbuffet"
@@ -2635,6 +2938,9 @@
     ],
     "wormadam": [
         "Wormadam"
+    ],
+    "wugtrio": [
+        "Wugtrio"
     ],
     "wurmple": [
         "Wurmple"

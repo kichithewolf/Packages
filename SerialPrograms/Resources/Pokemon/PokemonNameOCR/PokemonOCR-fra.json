@@ -47,6 +47,9 @@
     "ampharos": [
         "Pharamp"
     ],
+    "annihilape": [
+        "Courrousinge"
+    ],
     "anorith": [
         "Anorith"
     ],
@@ -62,6 +65,9 @@
     "arbok": [
         "Arbok"
     ],
+    "arboliva": [
+        "Arboliva"
+    ],
     "arcanine": [
         "Arcanin"
     ],
@@ -74,6 +80,9 @@
     "archeops": [
         "Aéroptéryx"
     ],
+    "arctibax": [
+        "Cryodo"
+    ],
     "arctovish": [
         "Hydragla"
     ],
@@ -85,6 +94,9 @@
     ],
     "armaldo": [
         "Armaldo"
+    ],
+    "armarouge": [
+        "Carmadura"
     ],
     "aromatisse": [
         "Cocotine"
@@ -146,6 +158,9 @@
     "bastiodon": [
         "Bastiodon"
     ],
+    "baxcalibur": [
+        "Glaivodo"
+    ],
     "bayleef": [
         "Macronium"
     ],
@@ -163,6 +178,9 @@
     ],
     "beldum": [
         "Terhal"
+    ],
+    "bellibolt": [
+        "Ampibidou"
     ],
     "bellossom": [
         "Joliflor"
@@ -212,6 +230,9 @@
     "boltund": [
         "Fulgudog"
     ],
+    "bombirdier": [
+        "Lestombaile"
+    ],
     "bonsly": [
         "Manzaï"
     ],
@@ -223,6 +244,12 @@
     ],
     "braixen": [
         "Roussil"
+    ],
+    "brambleghast": [
+        "Virevorreur"
+    ],
+    "bramblin": [
+        "Virovent"
     ],
     "braviary": [
         "Gueriaigle"
@@ -238,6 +265,9 @@
     ],
     "bronzor": [
         "Archéomire"
+    ],
+    "brute-bonnet": [
+        "Fongus-Furie"
     ],
     "bruxish": [
         "Denticrisse"
@@ -278,6 +308,9 @@
     "camerupt": [
         "Camérupt"
     ],
+    "capsakid": [
+        "Pimito"
+    ],
     "carbink": [
         "Strassie"
     ],
@@ -311,11 +344,23 @@
     "centiskorch": [
         "Scolocendre"
     ],
+    "ceruledge": [
+        "Malvalame"
+    ],
+    "cetitan": [
+        "Balbalèze"
+    ],
+    "cetoddle": [
+        "Piétacé"
+    ],
     "chandelure": [
         "Lugulabre"
     ],
     "chansey": [
         "Leveinard"
+    ],
+    "charcadet": [
+        "Charbambin"
     ],
     "charizard": [
         "Dracaufeu"
@@ -346,6 +391,12 @@
     ],
     "chewtle": [
         "Khélocrok"
+    ],
+    "chi-yu": [
+        "Yuyu"
+    ],
+    "chien-pao": [
+        "Baojian"
     ],
     "chikorita": [
         "Germignon"
@@ -467,6 +518,9 @@
     "crobat": [
         "Nostenfer"
     ],
+    "crocalor": [
+        "Crocogril"
+    ],
     "croconaw": [
         "Crocrodil"
     ],
@@ -491,8 +545,14 @@
     "cutiefly": [
         "Bombydou"
     ],
+    "cyclizar": [
+        "Motorizard"
+    ],
     "cyndaquil": [
         "Héricendre"
+    ],
+    "dachsbun": [
+        "Briochien"
     ],
     "darkrai": [
         "Darkrai"
@@ -563,6 +623,12 @@
     "doduo": [
         "Doduo"
     ],
+    "dolliv": [
+        "Olivado"
+    ],
+    "dondozo": [
+        "Oyacata"
+    ],
     "donphan": [
         "Donphan"
     ],
@@ -631,6 +697,9 @@
     ],
     "ducklett": [
         "Couaneton"
+    ],
+    "dudunsparce": [
+        "Deusolourdo"
     ],
     "dugtrio": [
         "Triopikeur"
@@ -716,6 +785,9 @@
     "escavalier": [
         "Lançargot"
     ],
+    "espathra": [
+        "Cléopsytra"
+    ],
     "espeon": [
         "Mentali"
     ],
@@ -743,6 +815,9 @@
     "farfetch-d": [
         "Canarticho"
     ],
+    "farigiraf": [
+        "Farigiraf"
+    ],
     "fearow": [
         "Rapasdepic"
     ],
@@ -761,6 +836,12 @@
     "ferrothorn": [
         "Noacier"
     ],
+    "fidough": [
+        "Pâtachiot"
+    ],
+    "finizen": [
+        "Dofin"
+    ],
     "finneon": [
         "Écayon"
     ],
@@ -769,6 +850,9 @@
     ],
     "flabebe": [
         "Flabébé"
+    ],
+    "flamigo": [
+        "Flamenroule"
     ],
     "flapple": [
         "Pomdrapi"
@@ -782,14 +866,23 @@
     "fletchling": [
         "Passerouge"
     ],
+    "flittle": [
+        "Flotillon"
+    ],
     "floatzel": [
         "Mustéflott"
     ],
     "floette": [
         "Floette"
     ],
+    "floragato": [
+        "Matourgeon"
+    ],
     "florges": [
         "Florges"
+    ],
+    "flutter-mane": [
+        "Flotte-Mèche"
     ],
     "flygon": [
         "Libégon"
@@ -806,6 +899,9 @@
     "fraxure": [
         "Incisache"
     ],
+    "frigibax": [
+        "Frigodo"
+    ],
     "frillish": [
         "Viskuse"
     ],
@@ -820,6 +916,9 @@
     ],
     "frosmoth": [
         "Beldeneige"
+    ],
+    "fuecoco": [
+        "Chochodile"
     ],
     "furfrou": [
         "Couafarel"
@@ -845,6 +944,9 @@
     "gardevoir": [
         "Gardevoir"
     ],
+    "garganacl": [
+        "Gigansel"
+    ],
     "gastly": [
         "Fantominus"
     ],
@@ -860,11 +962,17 @@
     "geodude": [
         "Racaillou"
     ],
+    "gholdengo": [
+        "Gromago"
+    ],
     "gible": [
         "Griknot"
     ],
     "gigalith": [
         "Gigalithe"
+    ],
+    "gimmighoul": [
+        "Mordudor"
     ],
     "girafarig": [
         "Girafarig"
@@ -886,6 +994,12 @@
     ],
     "gligar": [
         "Scorplane"
+    ],
+    "glimmet": [
+        "Germéclat"
+    ],
+    "glimmora": [
+        "Floréclat"
     ],
     "gliscor": [
         "Scorvol"
@@ -941,6 +1055,9 @@
     "gourgeist": [
         "Banshitrouye"
     ],
+    "grafaiai": [
+        "Tag-Tag"
+    ],
     "granbull": [
         "Granbull"
     ],
@@ -949,6 +1066,12 @@
     ],
     "graveler": [
         "Gravalanch"
+    ],
+    "great-tusk": [
+        "Fort-Ivoire"
+    ],
+    "greavard": [
+        "Toutombe"
     ],
     "greedent": [
         "Rongrigou"
@@ -1085,6 +1208,9 @@
     "houndour": [
         "Malosse"
     ],
+    "houndstone": [
+        "Tomberro"
+    ],
     "huntail": [
         "Serpang"
     ],
@@ -1117,6 +1243,27 @@
     ],
     "inteleon": [
         "Lézargus"
+    ],
+    "iron-bundle": [
+        "Hotte-de-Fer"
+    ],
+    "iron-hands": [
+        "Paume-de-Fer"
+    ],
+    "iron-jugulis": [
+        "Têtes-de-Fer"
+    ],
+    "iron-moth": [
+        "Mite-de-Fer"
+    ],
+    "iron-thorns": [
+        "Épine-de-Fer"
+    ],
+    "iron-treads": [
+        "Roue-de-Fer"
+    ],
+    "iron-valiant": [
+        "Garde-de-Fer"
     ],
     "ivysaur": [
         "Herbizarre"
@@ -1172,6 +1319,12 @@
     "keldeo": [
         "Keldeo"
     ],
+    "kilowattrel": [
+        "Fulgulairo"
+    ],
+    "kingambit": [
+        "Scalpereur"
+    ],
     "kingdra": [
         "Hyporoi"
     ],
@@ -1184,6 +1337,9 @@
     "klang": [
         "Clic"
     ],
+    "klawf": [
+        "Craparoi"
+    ],
     "kleavor": [
         "Hachécateur"
     ],
@@ -1191,8 +1347,7 @@
         "Trousselin"
     ],
     "klink": [
-        "Tic",
-        "t1e"
+        "Tic"
     ],
     "klinklang": [
         "Cliticlic"
@@ -1205,6 +1360,9 @@
     ],
     "kommo-o": [
         "Ékaïser"
+    ],
+    "koraidon": [
+        "Koraidon"
     ],
     "krabby": [
         "Krabby"
@@ -1263,6 +1421,9 @@
     "leavanny": [
         "Manternel"
     ],
+    "lechonk": [
+        "Gourmelet"
+    ],
     "ledian": [
         "Coxyclaque"
     ],
@@ -1298,6 +1459,9 @@
     ],
     "litwick": [
         "Funécire"
+    ],
+    "lokix": [
+        "Gambex"
     ],
     "lombre": [
         "Lombre"
@@ -1343,6 +1507,9 @@
     ],
     "lycanroc": [
         "Lougaroc"
+    ],
+    "mabosstiff": [
+        "Dogrino"
     ],
     "machamp": [
         "Mackogneur"
@@ -1428,8 +1595,14 @@
     "marshtomp": [
         "Flobio"
     ],
+    "maschiff": [
+        "Grondogue"
+    ],
     "masquerain": [
         "Maskadra"
+    ],
+    "maushold": [
+        "Famignol"
     ],
     "mawile": [
         "Mysdibule"
@@ -1451,6 +1624,9 @@
     ],
     "meltan": [
         "Meltan"
+    ],
+    "meowscarada": [
+        "Miascarade"
     ],
     "meowstic": [
         "Mistigrix"
@@ -1509,6 +1685,9 @@
     "minun": [
         "Négapi"
     ],
+    "miraidon": [
+        "Miraidon"
+    ],
     "misdreavus": [
         "Feuforêve"
     ],
@@ -1562,6 +1741,12 @@
     ],
     "musharna": [
         "Mushana"
+    ],
+    "nacli": [
+        "Selutin"
+    ],
+    "naclstack": [
+        "Amassel"
     ],
     "naganadel": [
         "Mandrillon"
@@ -1623,6 +1808,9 @@
     "nuzleaf": [
         "Pifeuil"
     ],
+    "nymble": [
+        "Lilliterelle"
+    ],
     "obstagoon": [
         "Ixon"
     ],
@@ -1631,6 +1819,9 @@
     ],
     "oddish": [
         "Mystherbe"
+    ],
+    "oinkologne": [
+        "Fragroin"
     ],
     "omanyte": [
         "Amonita"
@@ -1650,6 +1841,9 @@
     "oricorio": [
         "Plumeline"
     ],
+    "orthworm": [
+        "Ferdeter"
+    ],
     "oshawott": [
         "Moustillon"
     ],
@@ -1658,6 +1852,9 @@
     ],
     "pachirisu": [
         "Pachirisu"
+    ],
+    "palafin": [
+        "Superdofin"
     ],
     "palkia": [
         "Palkia"
@@ -1694,6 +1891,15 @@
     ],
     "patrat": [
         "Ratentif"
+    ],
+    "pawmi": [
+        "Pohm"
+    ],
+    "pawmo": [
+        "Pohmotte"
+    ],
+    "pawmot": [
+        "Pohmarmotte"
     ],
     "pawniard": [
         "Scalpion"
@@ -1836,6 +2042,15 @@
     "quagsire": [
         "Maraiste"
     ],
+    "quaquaval": [
+        "Palmaval"
+    ],
+    "quaxly": [
+        "Coiffeton"
+    ],
+    "quaxwell": [
+        "Canarbello"
+    ],
     "quilava": [
         "Feurisson"
     ],
@@ -1847,6 +2062,9 @@
     ],
     "raboot": [
         "Lapyro"
+    ],
+    "rabsca": [
+        "Bérasca"
     ],
     "raichu": [
         "Raichu"
@@ -1893,6 +2111,9 @@
     "relicanth": [
         "Relicanth"
     ],
+    "rellor": [
+        "Léboulérou"
+    ],
     "remoraid": [
         "Rémoraid"
     ],
@@ -1901,6 +2122,9 @@
     ],
     "reuniclus": [
         "Symbios"
+    ],
+    "revavroom": [
+        "Vrombotor"
     ],
     "rhydon": [
         "Rhinoféros"
@@ -1919,6 +2143,9 @@
     ],
     "riolu": [
         "Riolu"
+    ],
+    "roaring-moon": [
+        "Rugit-Lune"
     ],
     "rockruff": [
         "Rocabot"
@@ -1977,6 +2204,9 @@
     "sandslash": [
         "Sablaireau"
     ],
+    "sandy-shocks": [
+        "Pelage-Sablé"
+    ],
     "sandygast": [
         "Bacabouh"
     ],
@@ -2001,11 +2231,17 @@
     "scorbunny": [
         "Flambino"
     ],
+    "scovillain": [
+        "Scovilain"
+    ],
     "scrafty": [
         "Baggaïd"
     ],
     "scraggy": [
         "Baggiguane"
+    ],
+    "scream-tail": [
+        "Hurle-Queue"
     ],
     "scyther": [
         "Insécateur"
@@ -2076,6 +2312,9 @@
     "shinx": [
         "Lixy"
     ],
+    "shroodle": [
+        "Gribouraigne"
+    ],
     "shroomish": [
         "Balignon"
     ],
@@ -2118,6 +2357,9 @@
     "skarmory": [
         "Airmure"
     ],
+    "skeledirge": [
+        "Flâmigator"
+    ],
     "skiddo": [
         "Cabriolaine"
     ],
@@ -2148,6 +2390,9 @@
     "sliggoo": [
         "Colimucus"
     ],
+    "slither-wing": [
+        "Rampe-Ailes"
+    ],
     "slowbro": [
         "Flagadoss"
     ],
@@ -2165,6 +2410,9 @@
     ],
     "smeargle": [
         "Queulorior"
+    ],
+    "smoliv": [
+        "Olivini"
     ],
     "smoochum": [
         "Lippouti"
@@ -2217,6 +2465,9 @@
     "spheal": [
         "Obalie"
     ],
+    "spidops": [
+        "Filentrappe"
+    ],
     "spinarak": [
         "Mimigal"
     ],
@@ -2229,8 +2480,14 @@
     "spoink": [
         "Spoink"
     ],
+    "sprigatito": [
+        "Poussacha"
+    ],
     "spritzee": [
         "Fluvetin"
+    ],
+    "squawkabilly": [
+        "Tapatoès"
     ],
     "squirtle": [
         "Carapuce"
@@ -2322,11 +2579,17 @@
     "sylveon": [
         "Nymphali"
     ],
+    "tadbulb": [
+        "Têtampoule"
+    ],
     "taillow": [
         "Nirondelle"
     ],
     "talonflame": [
         "Flambusard"
+    ],
+    "tandemaus": [
+        "Compagnol"
     ],
     "tangela": [
         "Saquedeneu"
@@ -2345,6 +2608,12 @@
     ],
     "tapu-lele": [
         "Tokopiyon"
+    ],
+    "tarountula": [
+        "Tissenboule"
+    ],
+    "tatsugiri": [
+        "Nigirigon"
     ],
     "tauros": [
         "Tauros"
@@ -2379,8 +2648,26 @@
     "timburr": [
         "Charpenti"
     ],
+    "ting-lu": [
+        "Dinglu"
+    ],
+    "tinkatink": [
+        "Forgerette"
+    ],
+    "tinkaton": [
+        "Forgelina"
+    ],
+    "tinkatuff": [
+        "Forgella"
+    ],
     "tirtouga": [
         "Carapagos"
+    ],
+    "toedscool": [
+        "Terracool"
+    ],
+    "toedscruel": [
+        "Terracruel"
     ],
     "togedemaru": [
         "Togedemaru"
@@ -2514,6 +2801,12 @@
     "vaporeon": [
         "Aquali"
     ],
+    "varoom": [
+        "Vrombi"
+    ],
+    "veluza": [
+        "Délestin"
+    ],
     "venipede": [
         "Venipatte"
     ],
@@ -2586,6 +2879,9 @@
     "watchog": [
         "Miradar"
     ],
+    "wattrel": [
+        "Zapétrel"
+    ],
     "weavile": [
         "Dimoret"
     ],
@@ -2613,6 +2909,9 @@
     "wigglytuff": [
         "Grodoudou"
     ],
+    "wiglett": [
+        "Taupikeau"
+    ],
     "wimpod": [
         "Sovkipou"
     ],
@@ -2621,6 +2920,9 @@
     ],
     "wishiwashi": [
         "Froussardine"
+    ],
+    "wo-chien": [
+        "Chongjian"
     ],
     "wobbuffet": [
         "Qulbutoké"
@@ -2636,6 +2938,9 @@
     ],
     "wormadam": [
         "Cheniselle"
+    ],
+    "wugtrio": [
+        "Triopikeau"
     ],
     "wurmple": [
         "Chenipotte"
