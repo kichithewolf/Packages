@@ -1,722 +1,2204 @@
 {
-	"chi_sim": {
-		"baguette": [ "长棍面包" ],
-		"mayonnaise": [ "蛋黄酱" ],
-		"ketchup": [ "番茄酱" ],
-		"mustard": [ "黄芥末酱" ],
-		"butter": [ "黄油" ],
-		"peanut-butter": [ "花生酱" ],
-		"chili-sauce": [ "辣酱" ],
-		"salt": [ "盐" ],
-		"pepper": [ "胡椒" ],
-		"yogurt": [ "酸奶" ],
-		"whipped-cream": [ "鲜奶油" ],
-		"cream-cheese": [ "奶油芝士" ],
-		"jam": [ "莓果酱" ],
-		"marmalade": [ "橘子酱" ],
-		"olive-oil": [ "橄榄油" ],
-		"vinegar": [ "醋" ],
-		"sweet-herba-mystica": [ "秘传：甜味料" ],
-		"salty-herba-mystica": [ "秘传：咸味料" ],
-		"sour-herba-mystica": [ "秘传：酸味料" ],
-		"bitter-herba-mystica": [ "秘传：苦味料" ],
-		"spicy-herba-mystica": [ "秘传：辣味料" ],
-		"lettuce": [ "生菜" ],
-		"tomato": [ "番茄片" ],
-		"cherry-tomatoes": [ "小番茄块" ],
-		"cucumber": [ "小黄瓜片" ],
-		"pickle": [ "酸黄瓜片" ],
-		"onion": [ "洋葱片" ],
-		"red-onion": [ "红洋葱" ],
-		"green-bell-pepper": [ "青椒片" ],
-		"red-bell-pepper": [ "红椒片" ],
-		"yellow-bell-pepper": [ "黄椒片" ],
-		"avocado": [ "牛油果" ],
-		"bacon": [ "煎培根" ],
-		"ham": [ "火腿片" ],
-		"prosciutto": [ "生火腿" ],
-		"chorizo": [ "煎辣香肠" ],
-		"herbed-sausage": [ "香草香肠" ],
-		"hamburger": [ "汉堡排" ],
-		"klawf-stick": [ "毛崖蟹棒" ],
-		"smoked-fillet": [ "烟熏鱼片" ],
-		"fried-fillet": [ "炸鱼片" ],
-		"egg": [ "水煮蛋片" ],
-		"potato-tortilla": [ "烘蛋" ],
-		"tofu": [ "豆腐" ],
-		"rice": [ "米饭" ],
-		"noodles": [ "面条" ],
-		"potato-salad": [ "土豆沙拉" ],
-		"cheese": [ "芝士片" ],
-		"banana": [ "香蕉片" ],
-		"strawberry": [ "草莓片" ],
-		"apple": [ "苹果片" ],
-		"kiwi": [ "奇异果片" ],
-		"pineapple": [ "凤梨片" ],
-		"jalapeño": [ "小辣椒" ],
-		"horseradish": [ "辣根" ],
-		"curry-powder": [ "咖喱粉" ],
-		"wasabi": [ "芥末酱" ],
-		"watercress": [ "豆瓣菜" ],
-		"basil": [ "罗勒" ],
-		"gold-pick": [ "金色三明治签" ],
-		"silver-pick": [ "银色三明治签" ],
-		"red-flag-pick": [ "红旗子三明治签" ],
-		"blue-flag-pick": [ "蓝旗子三明治签" ],
-		"pika-pika-pick": [ "皮卡丘三明治签" ],
-		"winking-pika-pick": [ "眨眼皮卡丘三明治签" ],
-		"vee-vee-pick": [ "伊布三明治签" ],
-		"smiling-vee-pick": [ "笑脸伊布三明治签" ],
-		"blue-poke-ball-pick": [ "蓝珠珠三明治签" ],
-		"green-poke-ball-pick": [ "绿珠珠三明治签" ],
-		"red-poke-ball-pick": [ "红珠珠三明治签" ],
-		"party-sparkler-pick": [ "烟花祝庆三明治签" ],
-		"heroic-sword-pick": [ "勇者之剑三明治签" ],
-		"magical-star-pick": [ "魔法星星三明治签" ],
-		"magical-heart-pick": [ "魔法甜心三明治签" ],
-		"parasol-pick": [ "阳伞三明治签" ],
-		"blue-sky-flower-pick": [ "晴空花三明治签" ],
-		"sunset-flower-pick": [ "夕阳花三明治签" ],
-		"sunrise-flower-pick": [ "朝霞花三明治签" ]
-	},
-	"chi_tra": {
-		"baguette": [ "長棍麵包" ],
-		"mayonnaise": [ "美乃滋" ],
-		"ketchup": [ "番茄醬" ],
-		"mustard": [ "黃芥末醬" ],
-		"butter": [ "奶油" ],
-		"peanut-butter": [ "花生醬" ],
-		"chili-sauce": [ "辣醬" ],
-		"salt": [ "鹽" ],
-		"pepper": [ "胡椒" ],
-		"yogurt": [ "優格" ],
-		"whipped-cream": [ "鮮奶油" ],
-		"cream-cheese": [ "奶油起司" ],
-		"jam": [ "莓果醬" ],
-		"marmalade": [ "橘子醬" ],
-		"olive-oil": [ "橄欖油" ],
-		"vinegar": [ "醋" ],
-		"sweet-herba-mystica": [ "秘傳：甜味料" ],
-		"salty-herba-mystica": [ "秘傳：鹹味料" ],
-		"sour-herba-mystica": [ "秘傳：酸味料" ],
-		"bitter-herba-mystica": [ "秘傳：苦味料" ],
-		"spicy-herba-mystica": [ "秘傳：辣味料" ],
-		"lettuce": [ "生菜" ],
-		"tomato": [ "番茄片" ],
-		"cherry-tomatoes": [ "小番茄塊" ],
-		"cucumber": [ "小黃瓜片" ],
-		"pickle": [ "酸黃瓜片" ],
-		"onion": [ "洋蔥片" ],
-		"red-onion": [ "紅洋蔥" ],
-		"green-bell-pepper": [ "青椒片" ],
-		"red-bell-pepper": [ "紅椒片" ],
-		"yellow-bell-pepper": [ "黃椒片" ],
-		"avocado": [ "酪梨" ],
-		"bacon": [ "煎培根" ],
-		"ham": [ "火腿片" ],
-		"prosciutto": [ "生火腿" ],
-		"chorizo": [ "煎辣香腸" ],
-		"herbed-sausage": [ "香草香腸" ],
-		"hamburger": [ "漢堡排" ],
-		"klawf-stick": [ "毛崖蟹棒" ],
-		"smoked-fillet": [ "煙燻魚片" ],
-		"fried-fillet": [ "炸魚片" ],
-		"egg": [ "水煮蛋片" ],
-		"potato-tortilla": [ "烘蛋" ],
-		"tofu": [ "豆腐" ],
-		"rice": [ "米飯" ],
-		"noodles": [ "麵條" ],
-		"potato-salad": [ "馬鈴薯沙拉" ],
-		"cheese": [ "起司片" ],
-		"banana": [ "香蕉片" ],
-		"strawberry": [ "草莓片" ],
-		"apple": [ "蘋果片" ],
-		"kiwi": [ "奇異果片" ],
-		"pineapple": [ "鳳梨片" ],
-		"jalapeño": [ "小辣椒" ],
-		"horseradish": [ "辣根" ],
-		"curry-powder": [ "咖哩粉" ],
-		"wasabi": [ "芥末醬" ],
-		"watercress": [ "豆瓣菜" ],
-		"basil": [ "羅勒" ],
-		"gold-pick": [ "金色三明治籤" ],
-		"silver-pick": [ "銀色三明治籤" ],
-		"red-flag-pick": [ "紅旗子三明治籤" ],
-		"blue-flag-pick": [ "藍旗子三明治籤" ],
-		"pika-pika-pick": [ "皮卡丘三明治籤" ],
-		"winking-pika-pick": [ "眨眼皮卡丘三明治籤" ],
-		"vee-vee-pick": [ "伊布三明治籤" ],
-		"smiling-vee-pick": [ "笑臉伊布三明治籤" ],
-		"blue-poke-ball-pick": [ "藍珠珠三明治籤" ],
-		"green-poke-ball-pick": [ "綠珠珠三明治籤" ],
-		"red-poke-ball-pick": [ "紅珠珠三明治籤" ],
-		"party-sparkler-pick": [ "煙火祝慶三明治籤" ],
-		"heroic-sword-pick": [ "勇者之劍三明治籤" ],
-		"magical-star-pick": [ "魔法星星三明治籤" ],
-		"magical-heart-pick": [ "魔法甜心三明治籤" ],
-		"parasol-pick": [ "陽傘三明治籤" ],
-		"blue-sky-flower-pick": [ "晴空花三明治籤" ],
-		"sunset-flower-pick": [ "夕陽花三明治籤" ],
-		"sunrise-flower-pick": [ "朝霞花三明治籤" ]
-	},
-	"deu": {
-		"baguette": [ "Baguettes" ],
-		"mayonnaise": [ "Mayonnaise" ],
-		"ketchup": [ "Ketchup" ],
-		"mustard": [ "Senf" ],
-		"butter": [ "Butter" ],
-		"peanut-butter": [ "Erdnussbutter" ],
-		"chili-sauce": [ "Chilisoße" ],
-		"salt": [ "Salz" ],
-		"pepper": [ "Pfeffer" ],
-		"yogurt": [ "Joghurts" ],
-		"whipped-cream": [ "Schlagsahne" ],
-		"cream-cheese": [ "Frischkäse" ],
-		"jam": [ "Beerenkonfitüre" ],
-		"marmalade": [ "Marmelade" ],
-		"olive-oil": [ "Olivenöl" ],
-		"vinegar": [ "Essig" ],
-		"sweet-herba-mystica": [ "Süße Geheimgewürze" ],
-		"salty-herba-mystica": [ "Salzige Geheimgewürze" ],
-		"sour-herba-mystica": [ "Saure Geheimgewürze" ],
-		"bitter-herba-mystica": [ "Bittere Geheimgewürze" ],
-		"spicy-herba-mystica": [ "Scharfe Geheimgewürze" ],
-		"lettuce": [ "Salat" ],
-		"tomato": [ "Tomaten" ],
-		"cherry-tomatoes": [ "Mini-Tomaten" ],
-		"cucumber": [ "Gurken" ],
-		"pickle": [ "Gewürzgurken" ],
-		"onion": [ "Zwiebeln" ],
-		"red-onion": [ "Rote Zwiebeln" ],
-		"green-bell-pepper": [ "Grüne Paprikas" ],
-		"red-bell-pepper": [ "Rote Paprikas" ],
-		"yellow-bell-pepper": [ "Gelbe Paprikas" ],
-		"avocado": [ "Avocados" ],
-		"bacon": [ "Gebratener Speck" ],
-		"ham": [ "Kochschinken" ],
-		"prosciutto": [ "Rohe Schinken" ],
-		"chorizo": [ "Chorizos" ],
-		"herbed-sausage": [ "Kräuterwürste" ],
-		"hamburger": [ "Frikadellen" ],
-		"klawf-stick": [ "Klibbe-Sticks" ],
-		"smoked-fillet": [ "Räucherfilets" ],
-		"fried-fillet": [ "Frittierfilets" ],
-		"egg": [ "Eier" ],
-		"potato-tortilla": [ "Tortillas" ],
-		"tofu": [ "Tofu" ],
-		"rice": [ "Reis" ],
-		"noodles": [ "Nudeln" ],
-		"potato-salad": [ "Kartoffelsalate" ],
-		"cheese": [ "Scheibenkäse" ],
-		"banana": [ "Bananen" ],
-		"strawberry": [ "Erdbeeren" ],
-		"apple": [ "Äpfel" ],
-		"kiwi": [ "Kiwis" ],
-		"pineapple": [ "Ananas" ],
-		"jalapeño": [ "Jalapeños" ],
-		"horseradish": [ "Meerrettich" ],
-		"curry-powder": [ "Currypulver" ],
-		"wasabi": [ "Wasabi" ],
-		"watercress": [ "Kressen" ],
-		"basil": [ "Basilikum" ],
-		"gold-pick": [ "Gold-Pikser" ],
-		"silver-pick": [ "Silber-Pikser" ],
-		"red-flag-pick": [ "Rotfahnen-Pikser" ],
-		"blue-flag-pick": [ "Blaufahnen-Pikser" ],
-		"pika-pika-pick": [ "Pikapika-Pikser" ],
-		"winking-pika-pick": [ "Zwinker-Pika-Pikser" ],
-		"vee-vee-pick": [ "Volivoli-Pikser" ],
-		"smiling-vee-pick": [ "Kicher-Voli-Pikser" ],
-		"blue-poke-ball-pick": [ "Blauball-Pikser" ],
-		"green-poke-ball-pick": [ "Grünball-Pikser" ],
-		"red-poke-ball-pick": [ "Rotball-Pikser" ],
-		"party-sparkler-pick": [ "Wunderkerzen-Pikser" ],
-		"heroic-sword-pick": [ "Heldenschwert-Pikser" ],
-		"magical-star-pick": [ "Zauberstern-Pikser" ],
-		"magical-heart-pick": [ "Zauberherz-Pikser" ],
-		"parasol-pick": [ "Schirmchen-Pikser" ],
-		"blue-sky-flower-pick": [ "Mittagsblumen-Pikser" ],
-		"sunset-flower-pick": [ "Abendblumen-Pikser" ],
-		"sunrise-flower-pick": [ "Morgenblumen-Pikser" ]
-	},
-	"eng": {
-		"baguette": [ "Baguettes" ],
-		"mayonnaise": [ "Mayonnaises" ],
-		"ketchup": [ "Ketchups" ],
-		"mustard": [ "Mustards" ],
-		"butter": [ "Butters" ],
-		"peanut-butter": [ "Peanut Butters" ],
-		"chili-sauce": [ "Chili Sauces" ],
-		"salt": [ "Salts" ],
-		"pepper": [ "Peppers" ],
-		"yogurt": [ "Yogurts" ],
-		"whipped-cream": [ "Whipped Creams" ],
-		"cream-cheese": [ "Cream Cheeses" ],
-		"jam": [ "Jams" ],
-		"marmalade": [ "Marmalades" ],
-		"olive-oil": [ "Olive Oils" ],
-		"vinegar": [ "Vinegars" ],
-		"sweet-herba-mystica": [ "Sweet Herba Mysticas" ],
-		"salty-herba-mystica": [ "Salty Herba Mysticas" ],
-		"sour-herba-mystica": [ "Sour Herba Mysticas" ],
-		"bitter-herba-mystica": [ "Bitter Herba Mysticas" ],
-		"spicy-herba-mystica": [ "Spicy Herba Mysticas" ],
-		"lettuce": [ "Lettuces" ],
-		"tomato": [ "Tomatoes" ],
-		"cherry-tomatoes": [ "Cherry Tomatoes" ],
-		"cucumber": [ "Cucumbers" ],
-		"pickle": [ "Pickles" ],
-		"onion": [ "Onions" ],
-		"red-onion": [ "Red Onions" ],
-		"green-bell-pepper": [ "Green Bell Peppers" ],
-		"red-bell-pepper": [ "Red Bell Peppers" ],
-		"yellow-bell-pepper": [ "Yellow Bell Peppers" ],
-		"avocado": [ "Avocados" ],
-		"bacon": [ "Bacons" ],
-		"ham": [ "Hams" ],
-		"prosciutto": [ "Prosciuttos" ],
-		"chorizo": [ "Chorizos" ],
-		"herbed-sausage": [ "Herbed Sausages" ],
-		"hamburger": [ "Hamburgers" ],
-		"klawf-stick": [ "Klawf Sticks" ],
-		"smoked-fillet": [ "Smoked Fillets" ],
-		"fried-fillet": [ "Fried Fillets" ],
-		"egg": [ "Eggs" ],
-		"potato-tortilla": [ "Potato Tortillas" ],
-		"tofu": [ "Tofus" ],
-		"rice": [ "Rice" ],
-		"noodles": [ "Noodles" ],
-		"potato-salad": [ "Potato Salads" ],
-		"cheese": [ "Cheeses" ],
-		"banana": [ "Bananas" ],
-		"strawberry": [ "Strawberries" ],
-		"apple": [ "Apples" ],
-		"kiwi": [ "Kiwis" ],
-		"pineapple": [ "Pineapples" ],
-		"jalapeño": [ "Jalapeños" ],
-		"horseradish": [ "Horseradishes" ],
-		"curry-powder": [ "Curry Powders" ],
-		"wasabi": [ "Wasabis" ],
-		"watercress": [ "Watercresses" ],
-		"basil": [ "Basils" ],
-		"gold-pick": [ "Gold Picks" ],
-		"silver-pick": [ "Silver Picks" ],
-		"red-flag-pick": [ "Red-Flag Picks" ],
-		"blue-flag-pick": [ "Blue-Flag Picks" ],
-		"pika-pika-pick": [ "Pika-Pika Picks" ],
-		"winking-pika-pick": [ "Winking Pika Picks" ],
-		"vee-vee-pick": [ "Vee-Vee Picks" ],
-		"smiling-vee-pick": [ "Smiling Vee Picks" ],
-		"blue-poke-ball-pick": [ "Blue Poké Ball Picks" ],
-		"green-poke-ball-pick": [ "Green Poké Ball Picks" ],
-		"red-poke-ball-pick": [ "Red Poké Ball Picks" ],
-		"party-sparkler-pick": [ "Party Sparkler Picks" ],
-		"heroic-sword-pick": [ "Heroic Sword Picks" ],
-		"magical-star-pick": [ "Magical Star Picks" ],
-		"magical-heart-pick": [ "Magical Heart Picks" ],
-		"parasol-pick": [ "Parasol Picks" ],
-		"blue-sky-flower-pick": [ "Blue-Sky Flower Picks" ],
-		"sunset-flower-pick": [ "Sunset Flower Picks" ],
-		"sunrise-flower-pick": [ "Sunrise Flower Picks" ]
-	},
-	"fra": {
-		"baguette": [ "Baguettes" ],
-		"mayonnaise": [ "Mayonnaises" ],
-		"ketchup": [ "Ketchups" ],
-		"mustard": [ "Moutardes" ],
-		"butter": [ "Beurres" ],
-		"peanut-butter": [ "Beurres de Cacahuètes" ],
-		"chili-sauce": [ "Sauces Piquantes" ],
-		"salt": [ "Sels" ],
-		"pepper": [ "Poivres" ],
-		"yogurt": [ "Yaourts" ],
-		"whipped-cream": [ "Crèmes Fouettées" ],
-		"cream-cheese": [ "Fromages Frais" ],
-		"jam": [ "Confitures de Baies" ],
-		"marmalade": [ "Marmelades" ],
-		"olive-oil": [ "Huiles d’Olive" ],
-		"vinegar": [ "Vinaigres" ],
-		"sweet-herba-mystica": [ "Épices Secrètes Sucrées" ],
-		"salty-herba-mystica": [ "Épices Secrètes Salées" ],
-		"sour-herba-mystica": [ "Épices Secrètes Acides" ],
-		"bitter-herba-mystica": [ "Épices Secrètes Amères" ],
-		"spicy-herba-mystica": [ "Épices Secrètes Corsées" ],
-		"lettuce": [ "Laitues" ],
-		"tomato": [ "Tomates" ],
-		"cherry-tomatoes": [ "Tomates Cerises" ],
-		"cucumber": [ "Concombres" ],
-		"pickle": [ "Cornichons" ],
-		"onion": [ "Oignons" ],
-		"red-onion": [ "Oignons Rouges" ],
-		"green-bell-pepper": [ "Poivrons Verts" ],
-		"red-bell-pepper": [ "Poivrons Rouges" ],
-		"yellow-bell-pepper": [ "Poivrons Jaunes" ],
-		"avocado": [ "Avocats" ],
-		"bacon": [ "Bacons" ],
-		"ham": [ "Jambons Blancs" ],
-		"prosciutto": [ "Jambons Crus" ],
-		"chorizo": [ "Chorizos Grillés" ],
-		"herbed-sausage": [ "Saucisses aux Herbes" ],
-		"hamburger": [ "Steaks Hachés" ],
-		"klawf-stick": [ "Bâtonnets de Craparoi" ],
-		"smoked-fillet": [ "Filets Fumés" ],
-		"fried-fillet": [ "Filets Frits" ],
-		"egg": [ "Œufs" ],
-		"potato-tortilla": [ "Tortillas" ],
-		"tofu": [ "Tofus" ],
-		"rice": [ "Riz" ],
-		"noodles": [ "Nouilles" ],
-		"potato-salad": [ "Salades de Patates" ],
-		"cheese": [ "Fromages" ],
-		"banana": [ "Bananes" ],
-		"strawberry": [ "Fraises" ],
-		"apple": [ "Pommes" ],
-		"kiwi": [ "Kiwis" ],
-		"pineapple": [ "Ananas" ],
-		"jalapeño": [ "Piments" ],
-		"horseradish": [ "Raiforts" ],
-		"curry-powder": [ "Currys en Poudre" ],
-		"wasabi": [ "Sauces au Wasabi" ],
-		"watercress": [ "Cressons" ],
-		"basil": [ "Basilics" ],
-		"gold-pick": [ "Piques Dorées" ],
-		"silver-pick": [ "Piques Argentées" ],
-		"red-flag-pick": [ "Piques à Fanion Rouge" ],
-		"blue-flag-pick": [ "Piques à Fanion Bleu" ],
-		"pika-pika-pick": [ "Piques Pikapika" ],
-		"winking-pika-pick": [ "Piques à Chu Fripon" ],
-		"vee-vee-pick": [ "Piques Volivoli" ],
-		"smiling-vee-pick": [ "Piques Évo Rit" ],
-		"blue-poke-ball-pick": [ "Piques à Ball Bleue" ],
-		"green-poke-ball-pick": [ "Piques à Ball Verte" ],
-		"red-poke-ball-pick": [ "Piques à Ball Rouge" ],
-		"party-sparkler-pick": [ "Piques Feu d’Artifice" ],
-		"heroic-sword-pick": [ "Piques Épée du Héros" ],
-		"magical-star-pick": [ "Piques Étoile Magique" ],
-		"magical-heart-pick": [ "Piques Cœur Magique" ],
-		"parasol-pick": [ "Piques Parasol" ],
-		"blue-sky-flower-pick": [ "Piques Fleur d’Azur" ],
-		"sunset-flower-pick": [ "Piques Fleur du Ponant" ],
-		"sunrise-flower-pick": [ "Piques Fleur du Levant" ]
-	},
-	"ita": {
-		"baguette": [ "Filoncini" ],
-		"mayonnaise": [ "Maionese" ],
-		"ketchup": [ "Ketchup" ],
-		"mustard": [ "Senape" ],
-		"butter": [ "Burro" ],
-		"peanut-butter": [ "Burro di arachidi" ],
-		"chili-sauce": [ "Salsa piccante" ],
-		"salt": [ "Sale" ],
-		"pepper": [ "Pepe" ],
-		"yogurt": [ "Yogurt" ],
-		"whipped-cream": [ "Panna montata" ],
-		"cream-cheese": [ "Formaggio cremoso" ],
-		"jam": [ "Confettura di bosco" ],
-		"marmalade": [ "Marmellata" ],
-		"olive-oil": [ "Olio d’oliva" ],
-		"vinegar": [ "Aceto" ],
-		"sweet-herba-mystica": [ "Spezie nascoste dolci" ],
-		"salty-herba-mystica": [ "Spezie nascoste salate" ],
-		"sour-herba-mystica": [ "Spezie nascoste aspre" ],
-		"bitter-herba-mystica": [ "Spezie nascoste amare" ],
-		"spicy-herba-mystica": [ "Spezie nascoste pepate" ],
-		"lettuce": [ "Lattughe" ],
-		"tomato": [ "Pomodori" ],
-		"cherry-tomatoes": [ "Pomodorini" ],
-		"cucumber": [ "Cetrioli" ],
-		"pickle": [ "Sottaceti" ],
-		"onion": [ "Cipolle" ],
-		"red-onion": [ "Cipolle rosse" ],
-		"green-bell-pepper": [ "Peperoni verdi" ],
-		"red-bell-pepper": [ "Peperoni rossi" ],
-		"yellow-bell-pepper": [ "Peperoni gialli" ],
-		"avocado": [ "Avocado" ],
-		"bacon": [ "Pancetta rosolata" ],
-		"ham": [ "Prosciutto cotto" ],
-		"prosciutto": [ "Prosciutto crudo" ],
-		"chorizo": [ "Chorizo rosolati" ],
-		"herbed-sausage": [ "Salsicce alle erbe" ],
-		"hamburger": [ "Hamburger grigliati" ],
-		"klawf-stick": [ "Surimi di Klawf" ],
-		"smoked-fillet": [ "Filetti affumicati" ],
-		"fried-fillet": [ "Filetti impanati" ],
-		"egg": [ "Uova bollite" ],
-		"potato-tortilla": [ "Tortilla" ],
-		"tofu": [ "Tofu" ],
-		"rice": [ "Riso" ],
-		"noodles": [ "Noodle" ],
-		"potato-salad": [ "Insalata di patate" ],
-		"cheese": [ "Formaggio" ],
-		"banana": [ "Banane" ],
-		"strawberry": [ "Fragole" ],
-		"apple": [ "Mele" ],
-		"kiwi": [ "Kiwi" ],
-		"pineapple": [ "Ananas" ],
-		"jalapeño": [ "Jalapeño" ],
-		"horseradish": [ "Rafano" ],
-		"curry-powder": [ "Curry in polvere" ],
-		"wasabi": [ "Wasabi" ],
-		"watercress": [ "Crescione" ],
-		"basil": [ "Basilico" ],
-		"gold-pick": [ "Stecchini oro" ],
-		"silver-pick": [ "Stecchini argento" ],
-		"red-flag-pick": [ "Bandierine rosse" ],
-		"blue-flag-pick": [ "Bandierine blu" ],
-		"pika-pika-pick": [ "Stecchini Pikachu" ],
-		"winking-pika-pick": [ "Stecchini pikapika" ],
-		"vee-vee-pick": [ "Stecchini Eevee" ],
-		"smiling-vee-pick": [ "Stecchini veevee" ],
-		"blue-poke-ball-pick": [ "Stecchini Ball blu" ],
-		"green-poke-ball-pick": [ "Stecchini Ball verdi" ],
-		"red-poke-ball-pick": [ "Stecchini Ball rossi" ],
-		"party-sparkler-pick": [ "Stecchini scintille" ],
-		"heroic-sword-pick": [ "Stecchini spadone" ],
-		"magical-star-pick": [ "Stecchini magistella" ],
-		"magical-heart-pick": [ "Stecchini magicuore" ],
-		"parasol-pick": [ "Ombrellini" ],
-		"blue-sky-flower-pick": [ "Stecchini fiore blu" ],
-		"sunset-flower-pick": [ "Stecchini fiore arancio" ],
-		"sunrise-flower-pick": [ "Stecchini fiore rosso" ]
-	},
-	"jpn": {
-		"baguette": [ "バゲット" ],
-		"mayonnaise": [ "マヨネーズ" ],
-		"ketchup": [ "ケチャップ" ],
-		"mustard": [ "マスタード" ],
-		"butter": [ "バター" ],
-		"peanut-butter": [ "ピーナッツバター" ],
-		"chili-sauce": [ "チリソース" ],
-		"salt": [ "ソルト" ],
-		"pepper": [ "ペッパー" ],
-		"yogurt": [ "ヨーグルト" ],
-		"whipped-cream": [ "ホイップクリーム" ],
-		"cream-cheese": [ "クリームチーズ" ],
-		"jam": [ "ベリージャム" ],
-		"marmalade": [ "マーマレード" ],
-		"olive-oil": [ "オリーブオイル" ],
-		"vinegar": [ "ビネガー" ],
-		"sweet-herba-mystica": [ "ひでん：あまスパイス" ],
-		"salty-herba-mystica": [ "ひでん：しおスパイス" ],
-		"sour-herba-mystica": [ "ひでん：すぱスパイス" ],
-		"bitter-herba-mystica": [ "ひでん：にがスパイス" ],
-		"spicy-herba-mystica": [ "ひでん：からスパイス" ],
-		"lettuce": [ "レタス" ],
-		"tomato": [ "トマトスライス" ],
-		"cherry-tomatoes": [ "カットミニトマト" ],
-		"cucumber": [ "キュウリスライス" ],
-		"pickle": [ "ピクルススライス" ],
-		"onion": [ "たまねぎスライス" ],
-		"red-onion": [ "アーリーレッド" ],
-		"green-bell-pepper": [ "ピーマンスライス" ],
-		"red-bell-pepper": [ "あかパプリカスライス" ],
-		"yellow-bell-pepper": [ "きパプリカスライス" ],
-		"avocado": [ "アボカド" ],
-		"bacon": [ "やきベーコン" ],
-		"ham": [ "ハムスライス" ],
-		"prosciutto": [ "なまハム" ],
-		"chorizo": [ "やきチョリソー" ],
-		"herbed-sausage": [ "ハーブソーセージ" ],
-		"hamburger": [ "ハンバーグ" ],
-		"klawf-stick": [ "ガケガニスティック" ],
-		"smoked-fillet": [ "スモークきりみ" ],
-		"fried-fillet": [ "きりみフライ" ],
-		"egg": [ "スライスエッグ" ],
-		"potato-tortilla": [ "トルティージャ" ],
-		"tofu": [ "トーフ" ],
-		"rice": [ "ライス" ],
-		"noodles": [ "ヌードル" ],
-		"potato-salad": [ "ポテトサラダ" ],
-		"cheese": [ "スライスチーズ" ],
-		"banana": [ "バナナスライス" ],
-		"strawberry": [ "いちごスライス" ],
-		"apple": [ "わぎりリンゴ" ],
-		"kiwi": [ "わぎりキウイ" ],
-		"pineapple": [ "カットパイン" ],
-		"jalapeño": [ "ハラペーニョ" ],
-		"horseradish": [ "ホースラディッシュ" ],
-		"curry-powder": [ "カレーパウダー" ],
-		"wasabi": [ "ワサビソース" ],
-		"watercress": [ "クレソン" ],
-		"basil": [ "バジル" ],
-		"gold-pick": [ "ゴールドピック" ],
-		"silver-pick": [ "シルバーピック" ],
-		"red-flag-pick": [ "あかいはたピック" ],
-		"blue-flag-pick": [ "あおいはたピック" ],
-		"pika-pika-pick": [ "ピカピカピック" ],
-		"winking-pika-pick": [ "パチピカピック" ],
-		"vee-vee-pick": [ "ブイブイピック" ],
-		"smiling-vee-pick": [ "ニコブイピック" ],
-		"blue-poke-ball-pick": [ "あおボールピック" ],
-		"green-poke-ball-pick": [ "みどりボールピック" ],
-		"red-poke-ball-pick": [ "あかボールピック" ],
-		"party-sparkler-pick": [ "おいわいはなびピック" ],
-		"heroic-sword-pick": [ "ゆうしゃのけんピック" ],
-		"magical-star-pick": [ "マジカルスターピック" ],
-		"magical-heart-pick": [ "マジカルハートピック" ],
-		"parasol-pick": [ "パラソルピック" ],
-		"blue-sky-flower-pick": [ "あおぞらおはなピック" ],
-		"sunset-flower-pick": [ "ゆうやけおはなピック" ],
-		"sunrise-flower-pick": [ "あさやけおはなピック" ]
-	},
-	"kor": {
-		"baguette": [ "바게트" ],
-		"mayonnaise": [ "마요네즈" ],
-		"ketchup": [ "케첩" ],
-		"mustard": [ "머스터드" ],
-		"butter": [ "버터" ],
-		"peanut-butter": [ "땅콩버터" ],
-		"chili-sauce": [ "칠리소스" ],
-		"salt": [ "소금" ],
-		"pepper": [ "후추" ],
-		"yogurt": [ "요구르트" ],
-		"whipped-cream": [ "휘핑크림" ],
-		"cream-cheese": [ "크림치즈" ],
-		"jam": [ "베리잼" ],
-		"marmalade": [ "마멀레이드" ],
-		"olive-oil": [ "올리브오일" ],
-		"vinegar": [ "비니거" ],
-		"sweet-herba-mystica": [ "비전 달콤스파이스" ],
-		"salty-herba-mystica": [ "비전 짭짤스파이스" ],
-		"sour-herba-mystica": [ "비전 새콤스파이스" ],
-		"bitter-herba-mystica": [ "비전 쌉쌀스파이스" ],
-		"spicy-herba-mystica": [ "비전 매콤스파이스" ],
-		"lettuce": [ "양상추" ],
-		"tomato": [ "토마토슬라이스" ],
-		"cherry-tomatoes": [ "방울토마토슬라이스" ],
-		"cucumber": [ "오이슬라이스" ],
-		"pickle": [ "피클슬라이스" ],
-		"onion": [ "양파슬라이스" ],
-		"red-onion": [ "적양파" ],
-		"green-bell-pepper": [ "피망슬라이스" ],
-		"red-bell-pepper": [ "빨간파프리카슬라이스" ],
-		"yellow-bell-pepper": [ "노란파프리카슬라이스" ],
-		"avocado": [ "아보카도" ],
-		"bacon": [ "구운베이컨" ],
-		"ham": [ "슬라이스햄" ],
-		"prosciutto": [ "생햄" ],
-		"chorizo": [ "구운초리조" ],
-		"herbed-sausage": [ "허브소시지" ],
-		"hamburger": [ "햄버그" ],
-		"klawf-stick": [ "절벼게맛살" ],
-		"smoked-fillet": [ "훈제토막" ],
-		"fried-fillet": [ "튀긴토막" ],
-		"egg": [ "에그슬라이스" ],
-		"potato-tortilla": [ "토르티야" ],
-		"tofu": [ "두부" ],
-		"rice": [ "라이스" ],
-		"noodles": [ "누들" ],
-		"potato-salad": [ "감자샐러드" ],
-		"cheese": [ "슬라이스치즈" ],
-		"banana": [ "바나나슬라이스" ],
-		"strawberry": [ "딸기슬라이스" ],
-		"apple": [ "사과슬라이스" ],
-		"kiwi": [ "키위슬라이스" ],
-		"pineapple": [ "파인애플슬라이스" ],
-		"jalapeño": [ "할라페뇨" ],
-		"horseradish": [ "호스래디시" ],
-		"curry-powder": [ "카레파우더" ],
-		"wasabi": [ "와사비소스" ],
-		"watercress": [ "물냉이" ],
-		"basil": [ "바질" ],
-		"gold-pick": [ "골드 픽" ],
-		"silver-pick": [ "실버 픽" ],
-		"red-flag-pick": [ "빨강 깃발 픽" ],
-		"blue-flag-pick": [ "파랑 깃발 픽" ],
-		"pika-pika-pick": [ "피카피카 픽" ],
-		"winking-pika-pick": [ "윙크피카 픽" ],
-		"vee-vee-pick": [ "브이브이 픽" ],
-		"smiling-vee-pick": [ "방긋브이 픽" ],
-		"blue-poke-ball-pick": [ "파랑 볼 픽" ],
-		"green-poke-ball-pick": [ "초록 볼 픽" ],
-		"red-poke-ball-pick": [ "빨강 볼 픽" ],
-		"party-sparkler-pick": [ "축하 폭죽 픽" ],
-		"heroic-sword-pick": [ "용사의 검 픽" ],
-		"magical-star-pick": [ "매지컬 스타 픽" ],
-		"magical-heart-pick": [ "매지컬 하트 픽" ],
-		"parasol-pick": [ "파라솔 픽" ],
-		"blue-sky-flower-pick": [ "푸른하늘 꽃 픽" ],
-		"sunset-flower-pick": [ "저녁노을 꽃 픽" ],
-		"sunrise-flower-pick": [ "아침노을 꽃 픽" ]
-	},
-	"spa": {
-		"baguette": [ "Barras de Pan" ],
-		"mayonnaise": [ "Mayonesas" ],
-		"ketchup": [ "Kétchups" ],
-		"mustard": [ "Mostazas" ],
-		"butter": [ "Mantequillas" ],
-		"peanut-butter": [ "Cremas de Cacahuete" ],
-		"chili-sauce": [ "Salsas Picantes" ],
-		"salt": [ "Sales" ],
-		"pepper": [ "Pimientas" ],
-		"yogurt": [ "Yogures" ],
-		"whipped-cream": [ "Natas Montadas" ],
-		"cream-cheese": [ "Quesos Crema" ],
-		"jam": [ "Confituras de Bayas" ],
-		"marmalade": [ "Mermeladas" ],
-		"olive-oil": [ "Aceites de Oliva" ],
-		"vinegar": [ "Vinagres" ],
-		"sweet-herba-mystica": [ "Especias Ocultas Dulces" ],
-		"salty-herba-mystica": [ "Especias Ocultas Saladas" ],
-		"sour-herba-mystica": [ "Especias Ocultas Ácidas" ],
-		"bitter-herba-mystica": [ "Especias Ocultas Amargas" ],
-		"spicy-herba-mystica": [ "Especias Ocultas Picantes" ],
-		"lettuce": [ "Lechugas" ],
-		"tomato": [ "Tomates" ],
-		"cherry-tomatoes": [ "Tomates Cherri" ],
-		"cucumber": [ "Pepinos" ],
-		"pickle": [ "Pepinillos" ],
-		"onion": [ "Cebollas" ],
-		"red-onion": [ "Cebollas Rojas" ],
-		"green-bell-pepper": [ "Pimientos Verdes" ],
-		"red-bell-pepper": [ "Pimientos Rojos" ],
-		"yellow-bell-pepper": [ "Pimientos Amarillos" ],
-		"avocado": [ "Aguacates" ],
-		"bacon": [ "Pancetas" ],
-		"ham": [ "Jamones Cocidos" ],
-		"prosciutto": [ "Jamones Serranos" ],
-		"chorizo": [ "Chorizos" ],
-		"herbed-sausage": [ "Butifarras" ],
-		"hamburger": [ "Hamburguesas" ],
-		"klawf-stick": [ "Surimis de Klawf" ],
-		"smoked-fillet": [ "Filetes Ahumados" ],
-		"fried-fillet": [ "Filetes Fritos" ],
-		"egg": [ "Huevos Cocidos" ],
-		"potato-tortilla": [ "Tortillas" ],
-		"tofu": [ "Tofus" ],
-		"rice": [ "Arroces" ],
-		"noodles": [ "Fideos" ],
-		"potato-salad": [ "Ensaladillas" ],
-		"cheese": [ "Quesos" ],
-		"banana": [ "Plátanos" ],
-		"strawberry": [ "Fresas" ],
-		"apple": [ "Manzanas" ],
-		"kiwi": [ "Kiwis" ],
-		"pineapple": [ "Piñas" ],
-		"jalapeño": [ "Jalapeños" ],
-		"horseradish": [ "Rábanos Picantes" ],
-		"curry-powder": [ "Curris en Polvo" ],
-		"wasabi": [ "Wasabis" ],
-		"watercress": [ "Berros" ],
-		"basil": [ "Albahacas" ],
-		"gold-pick": [ "Palillos Dorados" ],
-		"silver-pick": [ "Palillos Plateados" ],
-		"red-flag-pick": [ "Palillos Bandera Roja" ],
-		"blue-flag-pick": [ "Palillos Bandera Azul" ],
-		"pika-pika-pick": [ "Palillos Pikachu" ],
-		"winking-pika-pick": [ "Palillos Pikaguiño" ],
-		"vee-vee-pick": [ "Palillos Eevee" ],
-		"smiling-vee-pick": [ "Palillos Eevee Feliz" ],
-		"blue-poke-ball-pick": [ "Palillos Ball Azul" ],
-		"green-poke-ball-pick": [ "Palillos Ball Verde" ],
-		"red-poke-ball-pick": [ "Palillos Ball Roja" ],
-		"party-sparkler-pick": [ "Palillos Bengala" ],
-		"heroic-sword-pick": [ "Palillos Heroicos" ],
-		"magical-star-pick": [ "Palillos Estrella" ],
-		"magical-heart-pick": [ "Palillos Corazón" ],
-		"parasol-pick": [ "Palillos Sombrilla" ],
-		"blue-sky-flower-pick": [ "Palillos Flor Azul" ],
-		"sunset-flower-pick": [ "Palillos Flor Naranja" ],
-		"sunrise-flower-pick": [ "Palillos Flor Rosa" ]
-	}
+    "eng": {
+        "baguette": [
+            "Baguette"
+        ],
+        "mayonnaise": [
+            "Mayonnaise"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Mustard"
+        ],
+        "butter": [
+            "Butter"
+        ],
+        "peanut-butter": [
+            "Peanut Butter"
+        ],
+        "chili-sauce": [
+            "Chili Sauce"
+        ],
+        "salt": [
+            "Salt"
+        ],
+        "pepper": [
+            "Pepper"
+        ],
+        "yogurt": [
+            "Yogurt"
+        ],
+        "whipped-cream": [
+            "Whipped Cream"
+        ],
+        "cream-cheese": [
+            "Cream Cheese"
+        ],
+        "jam": [
+            "Jam"
+        ],
+        "marmalade": [
+            "Marmalade"
+        ],
+        "olive-oil": [
+            "Olive Oil"
+        ],
+        "vinegar": [
+            "Vinegar"
+        ],
+        "sweet-herba-mystica": [
+            "Sweet Herba Mystica"
+        ],
+        "salty-herba-mystica": [
+            "Salty Herba Mystica"
+        ],
+        "sour-herba-mystica": [
+            "Sour Herba Mystica"
+        ],
+        "bitter-herba-mystica": [
+            "Bitter Herba Mystica"
+        ],
+        "spicy-herba-mystica": [
+            "Spicy Herba Mystica"
+        ],
+        "lettuce": [
+            "Lettuce"
+        ],
+        "tomato": [
+            "Tomato"
+        ],
+        "cherry-tomatoes": [
+            "Cherry Tomatoes"
+        ],
+        "cucumber": [
+            "Cucumber"
+        ],
+        "pickle": [
+            "Pickle"
+        ],
+        "onion": [
+            "Onion"
+        ],
+        "red-onion": [
+            "Red Onion"
+        ],
+        "green-bell-pepper": [
+            "Green Bell Pepper"
+        ],
+        "red-bell-pepper": [
+            "Red Bell Pepper"
+        ],
+        "yellow-bell-pepper": [
+            "Yellow Bell Pepper"
+        ],
+        "avocado": [
+            "Avocado"
+        ],
+        "bacon": [
+            "Bacon"
+        ],
+        "ham": [
+            "Ham"
+        ],
+        "prosciutto": [
+            "Prosciutto"
+        ],
+        "chorizo": [
+            "Chorizo"
+        ],
+        "herbed-sausage": [
+            "Herbed Sausage"
+        ],
+        "hamburger": [
+            "Hamburger"
+        ],
+        "klawf-stick": [
+            "Klawf Stick"
+        ],
+        "smoked-fillet": [
+            "Smoked Fillet"
+        ],
+        "fried-fillet": [
+            "Fried Fillet"
+        ],
+        "egg": [
+            "Egg"
+        ],
+        "potato-tortilla": [
+            "Potato Tortilla"
+        ],
+        "tofu": [
+            "Tofu"
+        ],
+        "rice": [
+            "Rice"
+        ],
+        "noodles": [
+            "Noodles"
+        ],
+        "potato-salad": [
+            "Potato Salad"
+        ],
+        "cheese": [
+            "Cheese"
+        ],
+        "banana": [
+            "Banana"
+        ],
+        "strawberry": [
+            "Strawberry"
+        ],
+        "apple": [
+            "Apple"
+        ],
+        "kiwi": [
+            "Kiwi"
+        ],
+        "pineapple": [
+            "Pineapple"
+        ],
+        "jalapeño": [
+            "Jalapeño"
+        ],
+        "horseradish": [
+            "Horseradish"
+        ],
+        "curry-powder": [
+            "Curry Powder"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ],
+        "watercress": [
+            "Watercress"
+        ],
+        "basil": [
+            "Basil"
+        ],
+        "gold-pick": [
+            "Gold Pick"
+        ],
+        "silver-pick": [
+            "Silver Pick"
+        ],
+        "red-flag-pick": [
+            "Red-Flag Pick"
+        ],
+        "blue-flag-pick": [
+            "Blue-Flag Pick"
+        ],
+        "pika-pika-pick": [
+            "Pika-Pika Pick"
+        ],
+        "winking-pika-pick": [
+            "Winking Pika Pick"
+        ],
+        "vee-vee-pick": [
+            "Vee-Vee Pick"
+        ],
+        "smiling-vee-pick": [
+            "Smiling Vee Pick"
+        ],
+        "blue-poke-ball-pick": [
+            "Blue Poké Ball Pick"
+        ],
+        "green-poke-ball-pick": [
+            "Green Poké Ball Pick"
+        ],
+        "red-poke-ball-pick": [
+            "Red Poké Ball Pick"
+        ],
+        "party-sparkler-pick": [
+            "Party Sparkler Pick"
+        ],
+        "heroic-sword-pick": [
+            "Heroic Sword Pick"
+        ],
+        "magical-star-pick": [
+            "Magical Star Pick"
+        ],
+        "magical-heart-pick": [
+            "Magical Heart Pick"
+        ],
+        "parasol-pick": [
+            "Parasol Pick"
+        ],
+        "blue-sky-flower-pick": [
+            "Blue-Sky Flower Pick"
+        ],
+        "sunset-flower-pick": [
+            "Sunset Flower Pick"
+        ],
+        "sunrise-flower-pick": [
+            "Sunrise Flower Pick"
+        ]
+    },
+    "chi_sim": {
+        "baguette": [
+            "长棍面包"
+        ],
+        "mayonnaise": [
+            "蛋黄酱"
+        ],
+        "ketchup": [
+            "番茄酱"
+        ],
+        "mustard": [
+            "黄芥末酱"
+        ],
+        "butter": [
+            "黄油"
+        ],
+        "peanut-butter": [
+            "花生酱"
+        ],
+        "chili-sauce": [
+            "辣酱"
+        ],
+        "salt": [
+            "盐"
+        ],
+        "pepper": [
+            "胡椒"
+        ],
+        "yogurt": [
+            "酸奶"
+        ],
+        "whipped-cream": [
+            "鲜奶油"
+        ],
+        "cream-cheese": [
+            "奶油芝士"
+        ],
+        "jam": [
+            "莓果酱"
+        ],
+        "marmalade": [
+            "橘子酱"
+        ],
+        "olive-oil": [
+            "橄榄油"
+        ],
+        "vinegar": [
+            "醋"
+        ],
+        "sweet-herba-mystica": [
+            "秘传：甜味料"
+        ],
+        "salty-herba-mystica": [
+            "秘传：咸味料"
+        ],
+        "sour-herba-mystica": [
+            "秘传：酸味料"
+        ],
+        "bitter-herba-mystica": [
+            "秘传：苦味料"
+        ],
+        "spicy-herba-mystica": [
+            "秘传：辣味料"
+        ],
+        "lettuce": [
+            "生菜"
+        ],
+        "tomato": [
+            "番茄片"
+        ],
+        "cherry-tomatoes": [
+            "小番茄块"
+        ],
+        "cucumber": [
+            "小黄瓜片"
+        ],
+        "pickle": [
+            "酸黄瓜片"
+        ],
+        "onion": [
+            "洋葱片"
+        ],
+        "red-onion": [
+            "红洋葱"
+        ],
+        "green-bell-pepper": [
+            "青椒片"
+        ],
+        "red-bell-pepper": [
+            "红椒片"
+        ],
+        "yellow-bell-pepper": [
+            "黄椒片"
+        ],
+        "avocado": [
+            "牛油果"
+        ],
+        "bacon": [
+            "煎培根"
+        ],
+        "ham": [
+            "火腿片"
+        ],
+        "prosciutto": [
+            "生火腿"
+        ],
+        "chorizo": [
+            "煎辣香肠"
+        ],
+        "herbed-sausage": [
+            "香草香肠"
+        ],
+        "hamburger": [
+            "汉堡排"
+        ],
+        "klawf-stick": [
+            "毛崖蟹棒"
+        ],
+        "smoked-fillet": [
+            "烟熏鱼片"
+        ],
+        "fried-fillet": [
+            "炸鱼片"
+        ],
+        "egg": [
+            "水煮蛋片"
+        ],
+        "potato-tortilla": [
+            "烘蛋"
+        ],
+        "tofu": [
+            "豆腐"
+        ],
+        "rice": [
+            "米饭"
+        ],
+        "noodles": [
+            "面条"
+        ],
+        "potato-salad": [
+            "土豆沙拉"
+        ],
+        "cheese": [
+            "芝士片"
+        ],
+        "banana": [
+            "香蕉片"
+        ],
+        "strawberry": [
+            "草莓片"
+        ],
+        "apple": [
+            "苹果片"
+        ],
+        "kiwi": [
+            "奇异果片"
+        ],
+        "pineapple": [
+            "凤梨片"
+        ],
+        "jalapeño": [
+            "小辣椒"
+        ],
+        "horseradish": [
+            "辣根"
+        ],
+        "curry-powder": [
+            "咖喱粉"
+        ],
+        "wasabi": [
+            "芥末酱"
+        ],
+        "watercress": [
+            "豆瓣菜"
+        ],
+        "basil": [
+            "罗勒"
+        ],
+        "gold-pick": [
+            "金色三明治签"
+        ],
+        "silver-pick": [
+            "银色三明治签"
+        ],
+        "red-flag-pick": [
+            "红旗子三明治签"
+        ],
+        "blue-flag-pick": [
+            "蓝旗子三明治签"
+        ],
+        "pika-pika-pick": [
+            "皮卡丘三明治签"
+        ],
+        "winking-pika-pick": [
+            "眨眼皮卡丘三明治签"
+        ],
+        "vee-vee-pick": [
+            "伊布三明治签"
+        ],
+        "smiling-vee-pick": [
+            "笑脸伊布三明治签"
+        ],
+        "blue-poke-ball-pick": [
+            "蓝珠珠三明治签"
+        ],
+        "green-poke-ball-pick": [
+            "绿珠珠三明治签"
+        ],
+        "red-poke-ball-pick": [
+            "红珠珠三明治签"
+        ],
+        "party-sparkler-pick": [
+            "烟花祝庆三明治签"
+        ],
+        "heroic-sword-pick": [
+            "勇者之剑三明治签"
+        ],
+        "magical-star-pick": [
+            "魔法星星三明治签"
+        ],
+        "magical-heart-pick": [
+            "魔法甜心三明治签"
+        ],
+        "parasol-pick": [
+            "阳伞三明治签"
+        ],
+        "blue-sky-flower-pick": [
+            "晴空花三明治签"
+        ],
+        "sunset-flower-pick": [
+            "夕阳花三明治签"
+        ],
+        "sunrise-flower-pick": [
+            "朝霞花三明治签"
+        ]
+    },
+    "chi_tra": {
+        "baguette": [
+            "長棍麵包"
+        ],
+        "mayonnaise": [
+            "美乃滋"
+        ],
+        "ketchup": [
+            "番茄醬"
+        ],
+        "mustard": [
+            "黃芥末醬"
+        ],
+        "butter": [
+            "奶油"
+        ],
+        "peanut-butter": [
+            "花生醬"
+        ],
+        "chili-sauce": [
+            "辣醬"
+        ],
+        "salt": [
+            "鹽"
+        ],
+        "pepper": [
+            "胡椒"
+        ],
+        "yogurt": [
+            "優格"
+        ],
+        "whipped-cream": [
+            "鮮奶油"
+        ],
+        "cream-cheese": [
+            "奶油起司"
+        ],
+        "jam": [
+            "莓果醬"
+        ],
+        "marmalade": [
+            "橘子醬"
+        ],
+        "olive-oil": [
+            "橄欖油"
+        ],
+        "vinegar": [
+            "醋"
+        ],
+        "sweet-herba-mystica": [
+            "秘傳：甜味料"
+        ],
+        "salty-herba-mystica": [
+            "秘傳：鹹味料"
+        ],
+        "sour-herba-mystica": [
+            "秘傳：酸味料"
+        ],
+        "bitter-herba-mystica": [
+            "秘傳：苦味料"
+        ],
+        "spicy-herba-mystica": [
+            "秘傳：辣味料"
+        ],
+        "lettuce": [
+            "生菜"
+        ],
+        "tomato": [
+            "番茄片"
+        ],
+        "cherry-tomatoes": [
+            "小番茄塊"
+        ],
+        "cucumber": [
+            "小黃瓜片"
+        ],
+        "pickle": [
+            "酸黃瓜片"
+        ],
+        "onion": [
+            "洋蔥片"
+        ],
+        "red-onion": [
+            "紅洋蔥"
+        ],
+        "green-bell-pepper": [
+            "青椒片"
+        ],
+        "red-bell-pepper": [
+            "紅椒片"
+        ],
+        "yellow-bell-pepper": [
+            "黃椒片"
+        ],
+        "avocado": [
+            "酪梨"
+        ],
+        "bacon": [
+            "煎培根"
+        ],
+        "ham": [
+            "火腿片"
+        ],
+        "prosciutto": [
+            "生火腿"
+        ],
+        "chorizo": [
+            "煎辣香腸"
+        ],
+        "herbed-sausage": [
+            "香草香腸"
+        ],
+        "hamburger": [
+            "漢堡排"
+        ],
+        "klawf-stick": [
+            "毛崖蟹棒"
+        ],
+        "smoked-fillet": [
+            "煙燻魚片"
+        ],
+        "fried-fillet": [
+            "炸魚片"
+        ],
+        "egg": [
+            "水煮蛋片"
+        ],
+        "potato-tortilla": [
+            "烘蛋"
+        ],
+        "tofu": [
+            "豆腐"
+        ],
+        "rice": [
+            "米飯"
+        ],
+        "noodles": [
+            "麵條"
+        ],
+        "potato-salad": [
+            "馬鈴薯沙拉"
+        ],
+        "cheese": [
+            "起司片"
+        ],
+        "banana": [
+            "香蕉片"
+        ],
+        "strawberry": [
+            "草莓片"
+        ],
+        "apple": [
+            "蘋果片"
+        ],
+        "kiwi": [
+            "奇異果片"
+        ],
+        "pineapple": [
+            "鳳梨片"
+        ],
+        "jalapeño": [
+            "小辣椒"
+        ],
+        "horseradish": [
+            "辣根"
+        ],
+        "curry-powder": [
+            "咖哩粉"
+        ],
+        "wasabi": [
+            "芥末醬"
+        ],
+        "watercress": [
+            "豆瓣菜"
+        ],
+        "basil": [
+            "羅勒"
+        ],
+        "gold-pick": [
+            "金色三明治籤"
+        ],
+        "silver-pick": [
+            "銀色三明治籤"
+        ],
+        "red-flag-pick": [
+            "紅旗子三明治籤"
+        ],
+        "blue-flag-pick": [
+            "藍旗子三明治籤"
+        ],
+        "pika-pika-pick": [
+            "皮卡丘三明治籤"
+        ],
+        "winking-pika-pick": [
+            "眨眼皮卡丘三明治籤"
+        ],
+        "vee-vee-pick": [
+            "伊布三明治籤"
+        ],
+        "smiling-vee-pick": [
+            "笑臉伊布三明治籤"
+        ],
+        "blue-poke-ball-pick": [
+            "藍珠珠三明治籤"
+        ],
+        "green-poke-ball-pick": [
+            "綠珠珠三明治籤"
+        ],
+        "red-poke-ball-pick": [
+            "紅珠珠三明治籤"
+        ],
+        "party-sparkler-pick": [
+            "煙火祝慶三明治籤"
+        ],
+        "heroic-sword-pick": [
+            "勇者之劍三明治籤"
+        ],
+        "magical-star-pick": [
+            "魔法星星三明治籤"
+        ],
+        "magical-heart-pick": [
+            "魔法甜心三明治籤"
+        ],
+        "parasol-pick": [
+            "陽傘三明治籤"
+        ],
+        "blue-sky-flower-pick": [
+            "晴空花三明治籤"
+        ],
+        "sunset-flower-pick": [
+            "夕陽花三明治籤"
+        ],
+        "sunrise-flower-pick": [
+            "朝霞花三明治籤"
+        ]
+    },
+    "spa": {
+        "baguette": [
+            "Barra de Pan"
+        ],
+        "mayonnaise": [
+            "Mayonesa"
+        ],
+        "ketchup": [
+            "Kétchup"
+        ],
+        "mustard": [
+            "Mostaza"
+        ],
+        "butter": [
+            "Mantequilla"
+        ],
+        "peanut-butter": [
+            "Crema de Cacahuete"
+        ],
+        "chili-sauce": [
+            "Salsa Picante"
+        ],
+        "salt": [
+            "Sal"
+        ],
+        "pepper": [
+            "Pimienta"
+        ],
+        "yogurt": [
+            "Yogur"
+        ],
+        "whipped-cream": [
+            "Nata Montada"
+        ],
+        "cream-cheese": [
+            "Queso Crema"
+        ],
+        "jam": [
+            "Confitura de Bayas"
+        ],
+        "marmalade": [
+            "Mermelada"
+        ],
+        "olive-oil": [
+            "Aceite de Oliva"
+        ],
+        "vinegar": [
+            "Vinagre"
+        ],
+        "sweet-herba-mystica": [
+            "Especia Oculta Dulce"
+        ],
+        "salty-herba-mystica": [
+            "Especia Oculta Salada"
+        ],
+        "sour-herba-mystica": [
+            "Especia Oculta Ácida"
+        ],
+        "bitter-herba-mystica": [
+            "Especia Oculta Amarga"
+        ],
+        "spicy-herba-mystica": [
+            "Especia Oculta Picante"
+        ],
+        "lettuce": [
+            "Lechuga"
+        ],
+        "tomato": [
+            "Tomate"
+        ],
+        "cherry-tomatoes": [
+            "Tomate Cherri"
+        ],
+        "cucumber": [
+            "Pepino"
+        ],
+        "pickle": [
+            "Pepinillo"
+        ],
+        "onion": [
+            "Cebolla"
+        ],
+        "red-onion": [
+            "Cebolla Roja"
+        ],
+        "green-bell-pepper": [
+            "Pimiento Verde"
+        ],
+        "red-bell-pepper": [
+            "Pimiento Rojo"
+        ],
+        "yellow-bell-pepper": [
+            "Pimiento Amarillo"
+        ],
+        "avocado": [
+            "Aguacate"
+        ],
+        "bacon": [
+            "Panceta"
+        ],
+        "ham": [
+            "Jamón Cocido"
+        ],
+        "prosciutto": [
+            "Jamón Serrano"
+        ],
+        "chorizo": [
+            "Chorizo"
+        ],
+        "herbed-sausage": [
+            "Butifarra"
+        ],
+        "hamburger": [
+            "Hamburguesa"
+        ],
+        "klawf-stick": [
+            "Surimi de Klawf"
+        ],
+        "smoked-fillet": [
+            "Filete Ahumado"
+        ],
+        "fried-fillet": [
+            "Filete Frito"
+        ],
+        "egg": [
+            "Huevo Cocido"
+        ],
+        "potato-tortilla": [
+            "Tortilla"
+        ],
+        "tofu": [
+            "Tofu"
+        ],
+        "rice": [
+            "Arroz"
+        ],
+        "noodles": [
+            "Fideos"
+        ],
+        "potato-salad": [
+            "Ensaladilla"
+        ],
+        "cheese": [
+            "Queso"
+        ],
+        "banana": [
+            "Plátano"
+        ],
+        "strawberry": [
+            "Fresa"
+        ],
+        "apple": [
+            "Manzana"
+        ],
+        "kiwi": [
+            "Kiwi"
+        ],
+        "pineapple": [
+            "Piña"
+        ],
+        "jalapeño": [
+            "Jalapeño"
+        ],
+        "horseradish": [
+            "Rábano Picante"
+        ],
+        "curry-powder": [
+            "Curri en Polvo"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ],
+        "watercress": [
+            "Berros"
+        ],
+        "basil": [
+            "Albahaca"
+        ],
+        "gold-pick": [
+            "Palillo Dorado"
+        ],
+        "silver-pick": [
+            "Palillo Plateado"
+        ],
+        "red-flag-pick": [
+            "Palillo Bandera Roja"
+        ],
+        "blue-flag-pick": [
+            "Palillo Bandera Azul"
+        ],
+        "pika-pika-pick": [
+            "Palillo Pikachu"
+        ],
+        "winking-pika-pick": [
+            "Palillo Pikaguiño"
+        ],
+        "vee-vee-pick": [
+            "Palillo Eevee"
+        ],
+        "smiling-vee-pick": [
+            "Palillo Eevee Feliz"
+        ],
+        "blue-poke-ball-pick": [
+            "Palillo Ball Azul"
+        ],
+        "green-poke-ball-pick": [
+            "Palillo Ball Verde"
+        ],
+        "red-poke-ball-pick": [
+            "Palillo Ball Roja"
+        ],
+        "party-sparkler-pick": [
+            "Palillo Bengala"
+        ],
+        "heroic-sword-pick": [
+            "Palillo Heroico"
+        ],
+        "magical-star-pick": [
+            "Palillo Estrella"
+        ],
+        "magical-heart-pick": [
+            "Palillo Corazón"
+        ],
+        "parasol-pick": [
+            "Palillo Sombrilla"
+        ],
+        "blue-sky-flower-pick": [
+            "Palillo Flor Azul"
+        ],
+        "sunset-flower-pick": [
+            "Palillo Flor Naranja"
+        ],
+        "sunrise-flower-pick": [
+            "Palillo Flor Rosa"
+        ]
+    },
+    "fra": {
+        "baguette": [
+            "Baguette"
+        ],
+        "mayonnaise": [
+            "Mayonnaise"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Moutarde"
+        ],
+        "butter": [
+            "Beurre"
+        ],
+        "peanut-butter": [
+            "Beurre de Cacahuètes"
+        ],
+        "chili-sauce": [
+            "Sauce Piquante"
+        ],
+        "salt": [
+            "Sel"
+        ],
+        "pepper": [
+            "Poivre"
+        ],
+        "yogurt": [
+            "Yaourt"
+        ],
+        "whipped-cream": [
+            "Crème Fouettée"
+        ],
+        "cream-cheese": [
+            "Fromage Frais"
+        ],
+        "jam": [
+            "Confiture de Baies"
+        ],
+        "marmalade": [
+            "Marmelade"
+        ],
+        "olive-oil": [
+            "Huile d’Olive"
+        ],
+        "vinegar": [
+            "Vinaigre"
+        ],
+        "sweet-herba-mystica": [
+            "Épice Secrète Sucrée"
+        ],
+        "salty-herba-mystica": [
+            "Épice Secrète Salée"
+        ],
+        "sour-herba-mystica": [
+            "Épice Secrète Acide"
+        ],
+        "bitter-herba-mystica": [
+            "Épice Secrète Amère"
+        ],
+        "spicy-herba-mystica": [
+            "Épice Secrète Corsée"
+        ],
+        "lettuce": [
+            "Laitue"
+        ],
+        "tomato": [
+            "Tomate"
+        ],
+        "cherry-tomatoes": [
+            "Tomate Cerise"
+        ],
+        "cucumber": [
+            "Concombre"
+        ],
+        "pickle": [
+            "Cornichon"
+        ],
+        "onion": [
+            "Oignon"
+        ],
+        "red-onion": [
+            "Oignon Rouge"
+        ],
+        "green-bell-pepper": [
+            "Poivron Vert"
+        ],
+        "red-bell-pepper": [
+            "Poivron Rouge"
+        ],
+        "yellow-bell-pepper": [
+            "Poivron Jaune"
+        ],
+        "avocado": [
+            "Avocat"
+        ],
+        "bacon": [
+            "Bacon"
+        ],
+        "ham": [
+            "Jambon Blanc"
+        ],
+        "prosciutto": [
+            "Jambon Cru"
+        ],
+        "chorizo": [
+            "Chorizo Grillé"
+        ],
+        "herbed-sausage": [
+            "Saucisse aux Herbes"
+        ],
+        "hamburger": [
+            "Steak Haché"
+        ],
+        "klawf-stick": [
+            "Bâtonnet de Craparoi"
+        ],
+        "smoked-fillet": [
+            "Filet Fumé"
+        ],
+        "fried-fillet": [
+            "Filet Frit"
+        ],
+        "egg": [
+            "Œuf"
+        ],
+        "potato-tortilla": [
+            "Tortilla"
+        ],
+        "tofu": [
+            "Tofu"
+        ],
+        "rice": [
+            "Riz"
+        ],
+        "noodles": [
+            "Nouilles"
+        ],
+        "potato-salad": [
+            "Salade de Patates"
+        ],
+        "cheese": [
+            "Fromage"
+        ],
+        "banana": [
+            "Banane"
+        ],
+        "strawberry": [
+            "Fraise"
+        ],
+        "apple": [
+            "Pomme"
+        ],
+        "kiwi": [
+            "Kiwi"
+        ],
+        "pineapple": [
+            "Ananas"
+        ],
+        "jalapeño": [
+            "Piment"
+        ],
+        "horseradish": [
+            "Raifort"
+        ],
+        "curry-powder": [
+            "Curry en Poudre"
+        ],
+        "wasabi": [
+            "Sauce au Wasabi"
+        ],
+        "watercress": [
+            "Cresson"
+        ],
+        "basil": [
+            "Basilic"
+        ],
+        "gold-pick": [
+            "Pique Dorée"
+        ],
+        "silver-pick": [
+            "Pique Argentée"
+        ],
+        "red-flag-pick": [
+            "Pique à Fanion Rouge"
+        ],
+        "blue-flag-pick": [
+            "Pique à Fanion Bleu"
+        ],
+        "pika-pika-pick": [
+            "Pique Pikapika"
+        ],
+        "winking-pika-pick": [
+            "Pique à Chu Fripon"
+        ],
+        "vee-vee-pick": [
+            "Pique Volivoli"
+        ],
+        "smiling-vee-pick": [
+            "Pique Évo Rit"
+        ],
+        "blue-poke-ball-pick": [
+            "Pique à Ball Bleue"
+        ],
+        "green-poke-ball-pick": [
+            "Pique à Ball Verte"
+        ],
+        "red-poke-ball-pick": [
+            "Pique à Ball Rouge"
+        ],
+        "party-sparkler-pick": [
+            "Pique Feu d’Artifice"
+        ],
+        "heroic-sword-pick": [
+            "Pique Épée du Héros"
+        ],
+        "magical-star-pick": [
+            "Pique Étoile Magique"
+        ],
+        "magical-heart-pick": [
+            "Pique Cœur Magique"
+        ],
+        "parasol-pick": [
+            "Pique Parasol"
+        ],
+        "blue-sky-flower-pick": [
+            "Pique Fleur d’Azur"
+        ],
+        "sunset-flower-pick": [
+            "Pique Fleur du Ponant"
+        ],
+        "sunrise-flower-pick": [
+            "Pique Fleur du Levant"
+        ]
+    },
+    "deu": {
+        "baguette": [
+            "Baguette"
+        ],
+        "mayonnaise": [
+            "Mayonnaise"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Senf"
+        ],
+        "butter": [
+            "Butter"
+        ],
+        "peanut-butter": [
+            "Erdnussbutter"
+        ],
+        "chili-sauce": [
+            "Chilisoße"
+        ],
+        "salt": [
+            "Salz"
+        ],
+        "pepper": [
+            "Pfeffer"
+        ],
+        "yogurt": [
+            "Joghurt"
+        ],
+        "whipped-cream": [
+            "Schlagsahne"
+        ],
+        "cream-cheese": [
+            "Frischkäse"
+        ],
+        "jam": [
+            "Beerenkonfitüre"
+        ],
+        "marmalade": [
+            "Marmelade"
+        ],
+        "olive-oil": [
+            "Olivenöl"
+        ],
+        "vinegar": [
+            "Essig"
+        ],
+        "sweet-herba-mystica": [
+            "Süßes Geheimgewürz"
+        ],
+        "salty-herba-mystica": [
+            "Salziges Geheimgewürz"
+        ],
+        "sour-herba-mystica": [
+            "Saures Geheimgewürz"
+        ],
+        "bitter-herba-mystica": [
+            "Bitteres Geheimgewürz"
+        ],
+        "spicy-herba-mystica": [
+            "Scharfes Geheimgewürz"
+        ],
+        "lettuce": [
+            "Salat"
+        ],
+        "tomato": [
+            "Tomate"
+        ],
+        "cherry-tomatoes": [
+            "Mini-Tomate"
+        ],
+        "cucumber": [
+            "Gurke"
+        ],
+        "pickle": [
+            "Gewürzgurke"
+        ],
+        "onion": [
+            "Zwiebel"
+        ],
+        "red-onion": [
+            "Rote Zwiebel"
+        ],
+        "green-bell-pepper": [
+            "Grüne Paprika"
+        ],
+        "red-bell-pepper": [
+            "Rote Paprika"
+        ],
+        "yellow-bell-pepper": [
+            "Gelbe Paprika"
+        ],
+        "avocado": [
+            "Avocado"
+        ],
+        "bacon": [
+            "Gebratener Speck"
+        ],
+        "ham": [
+            "Kochschinken"
+        ],
+        "prosciutto": [
+            "Roher Schinken"
+        ],
+        "chorizo": [
+            "Chorizo"
+        ],
+        "herbed-sausage": [
+            "Kräuterwurst"
+        ],
+        "hamburger": [
+            "Frikadelle"
+        ],
+        "klawf-stick": [
+            "Klibbe-Stick"
+        ],
+        "smoked-fillet": [
+            "Räucherfilet"
+        ],
+        "fried-fillet": [
+            "Frittierfilet"
+        ],
+        "egg": [
+            "Ei"
+        ],
+        "potato-tortilla": [
+            "Tortilla"
+        ],
+        "tofu": [
+            "Tofu"
+        ],
+        "rice": [
+            "Reis"
+        ],
+        "noodles": [
+            "Nudeln"
+        ],
+        "potato-salad": [
+            "Kartoffelsalat"
+        ],
+        "cheese": [
+            "Scheibenkäse"
+        ],
+        "banana": [
+            "Banane"
+        ],
+        "strawberry": [
+            "Erdbeere"
+        ],
+        "apple": [
+            "Apfel"
+        ],
+        "kiwi": [
+            "Kiwi"
+        ],
+        "pineapple": [
+            "Ananas"
+        ],
+        "jalapeño": [
+            "Jalapeño"
+        ],
+        "horseradish": [
+            "Meerrettich"
+        ],
+        "curry-powder": [
+            "Currypulver"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ],
+        "watercress": [
+            "Kresse"
+        ],
+        "basil": [
+            "Basilikum"
+        ],
+        "gold-pick": [
+            "Gold-Pikser"
+        ],
+        "silver-pick": [
+            "Silber-Pikser"
+        ],
+        "red-flag-pick": [
+            "Rotfahnen-Pikser"
+        ],
+        "blue-flag-pick": [
+            "Blaufahnen-Pikser"
+        ],
+        "pika-pika-pick": [
+            "Pikapika-Pikser"
+        ],
+        "winking-pika-pick": [
+            "Zwinker-Pika-Pikser"
+        ],
+        "vee-vee-pick": [
+            "Volivoli-Pikser"
+        ],
+        "smiling-vee-pick": [
+            "Kicher-Voli-Pikser"
+        ],
+        "blue-poke-ball-pick": [
+            "Blauball-Pikser"
+        ],
+        "green-poke-ball-pick": [
+            "Grünball-Pikser"
+        ],
+        "red-poke-ball-pick": [
+            "Rotball-Pikser"
+        ],
+        "party-sparkler-pick": [
+            "Wunderkerzen-Pikser"
+        ],
+        "heroic-sword-pick": [
+            "Heldenschwert-Pikser"
+        ],
+        "magical-star-pick": [
+            "Zauberstern-Pikser"
+        ],
+        "magical-heart-pick": [
+            "Zauberherz-Pikser"
+        ],
+        "parasol-pick": [
+            "Schirmchen-Pikser"
+        ],
+        "blue-sky-flower-pick": [
+            "Mittagsblumen-Pikser"
+        ],
+        "sunset-flower-pick": [
+            "Abendblumen-Pikser"
+        ],
+        "sunrise-flower-pick": [
+            "Morgenblumen-Pikser"
+        ]
+    },
+    "ita": {
+        "baguette": [
+            "Filoncino"
+        ],
+        "mayonnaise": [
+            "Maionese"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Senape"
+        ],
+        "butter": [
+            "Burro"
+        ],
+        "peanut-butter": [
+            "Burro di arachidi"
+        ],
+        "chili-sauce": [
+            "Salsa piccante"
+        ],
+        "salt": [
+            "Sale"
+        ],
+        "pepper": [
+            "Pepe"
+        ],
+        "yogurt": [
+            "Yogurt"
+        ],
+        "whipped-cream": [
+            "Panna montata"
+        ],
+        "cream-cheese": [
+            "Formaggio cremoso"
+        ],
+        "jam": [
+            "Confettura di bosco"
+        ],
+        "marmalade": [
+            "Marmellata"
+        ],
+        "olive-oil": [
+            "Olio d’oliva"
+        ],
+        "vinegar": [
+            "Aceto"
+        ],
+        "sweet-herba-mystica": [
+            "Spezia nascosta dolce"
+        ],
+        "salty-herba-mystica": [
+            "Spezia nascosta salata"
+        ],
+        "sour-herba-mystica": [
+            "Spezia nascosta aspra"
+        ],
+        "bitter-herba-mystica": [
+            "Spezia nascosta amara"
+        ],
+        "spicy-herba-mystica": [
+            "Spezia nascosta pepata"
+        ],
+        "lettuce": [
+            "Lattuga"
+        ],
+        "tomato": [
+            "Pomodoro"
+        ],
+        "cherry-tomatoes": [
+            "Pomodorino"
+        ],
+        "cucumber": [
+            "Cetriolo"
+        ],
+        "pickle": [
+            "Sottaceto"
+        ],
+        "onion": [
+            "Cipolla"
+        ],
+        "red-onion": [
+            "Cipolla rossa"
+        ],
+        "green-bell-pepper": [
+            "Peperone verde"
+        ],
+        "red-bell-pepper": [
+            "Peperone rosso"
+        ],
+        "yellow-bell-pepper": [
+            "Peperone giallo"
+        ],
+        "avocado": [
+            "Avocado"
+        ],
+        "bacon": [
+            "Pancetta rosolata"
+        ],
+        "ham": [
+            "Prosciutto cotto"
+        ],
+        "prosciutto": [
+            "Prosciutto crudo"
+        ],
+        "chorizo": [
+            "Chorizo rosolato"
+        ],
+        "herbed-sausage": [
+            "Salsiccia alle erbe"
+        ],
+        "hamburger": [
+            "Hamburger grigliato"
+        ],
+        "klawf-stick": [
+            "Surimi di Klawf"
+        ],
+        "smoked-fillet": [
+            "Filetto affumicato"
+        ],
+        "fried-fillet": [
+            "Filetto impanato"
+        ],
+        "egg": [
+            "Uovo bollito"
+        ],
+        "potato-tortilla": [
+            "Tortilla"
+        ],
+        "tofu": [
+            "Tofu"
+        ],
+        "rice": [
+            "Riso"
+        ],
+        "noodles": [
+            "Noodle"
+        ],
+        "potato-salad": [
+            "Insalata di patate"
+        ],
+        "cheese": [
+            "Formaggio"
+        ],
+        "banana": [
+            "Banana"
+        ],
+        "strawberry": [
+            "Fragola"
+        ],
+        "apple": [
+            "Mela"
+        ],
+        "kiwi": [
+            "Kiwi"
+        ],
+        "pineapple": [
+            "Ananas"
+        ],
+        "jalapeño": [
+            "Jalapeño"
+        ],
+        "horseradish": [
+            "Rafano"
+        ],
+        "curry-powder": [
+            "Curry in polvere"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ],
+        "watercress": [
+            "Crescione"
+        ],
+        "basil": [
+            "Basilico"
+        ],
+        "gold-pick": [
+            "Stecchino oro"
+        ],
+        "silver-pick": [
+            "Stecchino argento"
+        ],
+        "red-flag-pick": [
+            "Bandierina rossa"
+        ],
+        "blue-flag-pick": [
+            "Bandierina blu"
+        ],
+        "pika-pika-pick": [
+            "Stecchino Pikachu"
+        ],
+        "winking-pika-pick": [
+            "Stecchino pikapika"
+        ],
+        "vee-vee-pick": [
+            "Stecchino Eevee"
+        ],
+        "smiling-vee-pick": [
+            "Stecchino veevee"
+        ],
+        "blue-poke-ball-pick": [
+            "Stecchino Ball blu"
+        ],
+        "green-poke-ball-pick": [
+            "Stecchino Ball verde"
+        ],
+        "red-poke-ball-pick": [
+            "Stecchino Ball rosso"
+        ],
+        "party-sparkler-pick": [
+            "Stecchino scintille"
+        ],
+        "heroic-sword-pick": [
+            "Stecchino spadone"
+        ],
+        "magical-star-pick": [
+            "Stecchino magistella"
+        ],
+        "magical-heart-pick": [
+            "Stecchino magicuore"
+        ],
+        "parasol-pick": [
+            "Ombrellino"
+        ],
+        "blue-sky-flower-pick": [
+            "Stecchino fiore blu"
+        ],
+        "sunset-flower-pick": [
+            "Stecchino fiore arancio"
+        ],
+        "sunrise-flower-pick": [
+            "Stecchino fiore rosso"
+        ]
+    },
+    "jpn": {
+        "baguette": [
+            "バゲット",
+            "バゲット"
+        ],
+        "mayonnaise": [
+            "マヨネーズ",
+            "マヨネーズ"
+        ],
+        "ketchup": [
+            "ケチャップ",
+            "ケチャップ"
+        ],
+        "mustard": [
+            "マスタード",
+            "マスタード"
+        ],
+        "butter": [
+            "バター",
+            "バター"
+        ],
+        "peanut-butter": [
+            "ピーナッツバター",
+            "ピーナッツバター"
+        ],
+        "chili-sauce": [
+            "チリソース",
+            "チリソース"
+        ],
+        "salt": [
+            "ソルト",
+            "ソルト"
+        ],
+        "pepper": [
+            "ペッパー",
+            "ペッパー"
+        ],
+        "yogurt": [
+            "ヨーグルト",
+            "ヨーグルト"
+        ],
+        "whipped-cream": [
+            "ホイップクリーム",
+            "ホイップクリーム"
+        ],
+        "cream-cheese": [
+            "クリームチーズ",
+            "クリームチーズ"
+        ],
+        "jam": [
+            "ベリージャム",
+            "ベリージャム"
+        ],
+        "marmalade": [
+            "マーマレード",
+            "マーマレード"
+        ],
+        "olive-oil": [
+            "オリーブオイル",
+            "オリーブオイル"
+        ],
+        "vinegar": [
+            "ビネガー",
+            "ビネガー"
+        ],
+        "sweet-herba-mystica": [
+            "ひでん：あまスパイス",
+            "ひでん：あまスパイス"
+        ],
+        "salty-herba-mystica": [
+            "ひでん：しおスパイス",
+            "ひでん：しおスパイス"
+        ],
+        "sour-herba-mystica": [
+            "ひでん：すぱスパイス",
+            "ひでん：すぱスパイス"
+        ],
+        "bitter-herba-mystica": [
+            "ひでん：にがスパイス",
+            "ひでん：にがスパイス"
+        ],
+        "spicy-herba-mystica": [
+            "ひでん：からスパイス",
+            "ひでん：からスパイス"
+        ],
+        "lettuce": [
+            "レタス",
+            "レタス"
+        ],
+        "tomato": [
+            "トマトスライス",
+            "トマトスライス"
+        ],
+        "cherry-tomatoes": [
+            "カットミニトマト",
+            "カットミニトマト"
+        ],
+        "cucumber": [
+            "キュウリスライス",
+            "キュウリスライス"
+        ],
+        "pickle": [
+            "ピクルススライス",
+            "ピクルススライス"
+        ],
+        "onion": [
+            "たまねぎスライス",
+            "たまねぎスライス"
+        ],
+        "red-onion": [
+            "アーリーレッド",
+            "アーリーレッド"
+        ],
+        "green-bell-pepper": [
+            "ピーマンスライス",
+            "ピーマンスライス"
+        ],
+        "red-bell-pepper": [
+            "あかパプリカスライス",
+            "あかパプリカスライス"
+        ],
+        "yellow-bell-pepper": [
+            "きパプリカスライス",
+            "きパプリカスライス"
+        ],
+        "avocado": [
+            "アボカド",
+            "アボカド"
+        ],
+        "bacon": [
+            "やきベーコン",
+            "やきベーコン"
+        ],
+        "ham": [
+            "ハムスライス",
+            "ハムスライス"
+        ],
+        "prosciutto": [
+            "なまハム",
+            "なまハム"
+        ],
+        "chorizo": [
+            "やきチョリソー",
+            "やきチョリソー"
+        ],
+        "herbed-sausage": [
+            "ハーブソーセージ",
+            "ハーブソーセージ"
+        ],
+        "hamburger": [
+            "ハンバーグ",
+            "ハンバーグ"
+        ],
+        "klawf-stick": [
+            "ガケガニスティック",
+            "ガケガニスティック"
+        ],
+        "smoked-fillet": [
+            "スモークきりみ",
+            "スモークきりみ"
+        ],
+        "fried-fillet": [
+            "きりみフライ",
+            "きりみフライ"
+        ],
+        "egg": [
+            "スライスエッグ",
+            "スライスエッグ"
+        ],
+        "potato-tortilla": [
+            "トルティージャ",
+            "トルティージャ"
+        ],
+        "tofu": [
+            "トーフ",
+            "トーフ"
+        ],
+        "rice": [
+            "ライス",
+            "ライス"
+        ],
+        "noodles": [
+            "ヌードル",
+            "ヌードル"
+        ],
+        "potato-salad": [
+            "ポテトサラダ",
+            "ポテトサラダ"
+        ],
+        "cheese": [
+            "スライスチーズ",
+            "スライスチーズ"
+        ],
+        "banana": [
+            "バナナスライス",
+            "バナナスライス"
+        ],
+        "strawberry": [
+            "いちごスライス",
+            "いちごスライス"
+        ],
+        "apple": [
+            "わぎりリンゴ",
+            "わぎりリンゴ"
+        ],
+        "kiwi": [
+            "わぎりキウイ",
+            "わぎりキウイ"
+        ],
+        "pineapple": [
+            "カットパイン",
+            "カットパイン"
+        ],
+        "jalapeño": [
+            "ハラペーニョ",
+            "ハラペーニョ"
+        ],
+        "horseradish": [
+            "ホースラディッシュ",
+            "ホースラディッシュ"
+        ],
+        "curry-powder": [
+            "カレーパウダー",
+            "カレーパウダー"
+        ],
+        "wasabi": [
+            "ワサビソース",
+            "ワサビソース"
+        ],
+        "watercress": [
+            "クレソン",
+            "クレソン"
+        ],
+        "basil": [
+            "バジル",
+            "バジル"
+        ],
+        "gold-pick": [
+            "ゴールドピック",
+            "ゴールドピック"
+        ],
+        "silver-pick": [
+            "シルバーピック",
+            "シルバーピック"
+        ],
+        "red-flag-pick": [
+            "あかいはたピック",
+            "あかいはたピック"
+        ],
+        "blue-flag-pick": [
+            "あおいはたピック",
+            "あおいはたピック"
+        ],
+        "pika-pika-pick": [
+            "ピカピカピック",
+            "ピカピカピック"
+        ],
+        "winking-pika-pick": [
+            "パチピカピック",
+            "パチピカピック"
+        ],
+        "vee-vee-pick": [
+            "ブイブイピック",
+            "ブイブイピック"
+        ],
+        "smiling-vee-pick": [
+            "ニコブイピック",
+            "ニコブイピック"
+        ],
+        "blue-poke-ball-pick": [
+            "あおボールピック",
+            "あおボールピック"
+        ],
+        "green-poke-ball-pick": [
+            "みどりボールピック",
+            "みどりボールピック"
+        ],
+        "red-poke-ball-pick": [
+            "あかボールピック",
+            "あかボールピック"
+        ],
+        "party-sparkler-pick": [
+            "おいわいはなびピック",
+            "おいわいはなびピック"
+        ],
+        "heroic-sword-pick": [
+            "ゆうしゃのけんピック",
+            "ゆうしゃのけんピック"
+        ],
+        "magical-star-pick": [
+            "マジカルスターピック",
+            "マジカルスターピック"
+        ],
+        "magical-heart-pick": [
+            "マジカルハートピック",
+            "マジカルハートピック"
+        ],
+        "parasol-pick": [
+            "パラソルピック",
+            "パラソルピック"
+        ],
+        "blue-sky-flower-pick": [
+            "あおぞらおはなピック",
+            "あおぞらおはなピック"
+        ],
+        "sunset-flower-pick": [
+            "ゆうやけおはなピック",
+            "ゆうやけおはなピック"
+        ],
+        "sunrise-flower-pick": [
+            "あさやけおはなピック",
+            "あさやけおはなピック"
+        ]
+    },
+    "kor": {
+        "baguette": [
+            "바게트"
+        ],
+        "mayonnaise": [
+            "마요네즈"
+        ],
+        "ketchup": [
+            "케첩"
+        ],
+        "mustard": [
+            "머스터드"
+        ],
+        "butter": [
+            "버터"
+        ],
+        "peanut-butter": [
+            "땅콩버터"
+        ],
+        "chili-sauce": [
+            "칠리소스"
+        ],
+        "salt": [
+            "소금"
+        ],
+        "pepper": [
+            "후추"
+        ],
+        "yogurt": [
+            "요구르트"
+        ],
+        "whipped-cream": [
+            "휘핑크림"
+        ],
+        "cream-cheese": [
+            "크림치즈"
+        ],
+        "jam": [
+            "베리잼"
+        ],
+        "marmalade": [
+            "마멀레이드"
+        ],
+        "olive-oil": [
+            "올리브오일"
+        ],
+        "vinegar": [
+            "비니거"
+        ],
+        "sweet-herba-mystica": [
+            "비전 달콤스파이스"
+        ],
+        "salty-herba-mystica": [
+            "비전 짭짤스파이스"
+        ],
+        "sour-herba-mystica": [
+            "비전 새콤스파이스"
+        ],
+        "bitter-herba-mystica": [
+            "비전 쌉쌀스파이스"
+        ],
+        "spicy-herba-mystica": [
+            "비전 매콤스파이스"
+        ],
+        "lettuce": [
+            "양상추"
+        ],
+        "tomato": [
+            "토마토슬라이스"
+        ],
+        "cherry-tomatoes": [
+            "방울토마토슬라이스"
+        ],
+        "cucumber": [
+            "오이슬라이스"
+        ],
+        "pickle": [
+            "피클슬라이스"
+        ],
+        "onion": [
+            "양파슬라이스"
+        ],
+        "red-onion": [
+            "적양파"
+        ],
+        "green-bell-pepper": [
+            "피망슬라이스"
+        ],
+        "red-bell-pepper": [
+            "빨간파프리카슬라이스"
+        ],
+        "yellow-bell-pepper": [
+            "노란파프리카슬라이스"
+        ],
+        "avocado": [
+            "아보카도"
+        ],
+        "bacon": [
+            "구운베이컨"
+        ],
+        "ham": [
+            "슬라이스햄"
+        ],
+        "prosciutto": [
+            "생햄"
+        ],
+        "chorizo": [
+            "구운초리조"
+        ],
+        "herbed-sausage": [
+            "허브소시지"
+        ],
+        "hamburger": [
+            "햄버그"
+        ],
+        "klawf-stick": [
+            "절벼게맛살"
+        ],
+        "smoked-fillet": [
+            "훈제토막"
+        ],
+        "fried-fillet": [
+            "튀긴토막"
+        ],
+        "egg": [
+            "에그슬라이스"
+        ],
+        "potato-tortilla": [
+            "토르티야"
+        ],
+        "tofu": [
+            "두부"
+        ],
+        "rice": [
+            "라이스"
+        ],
+        "noodles": [
+            "누들"
+        ],
+        "potato-salad": [
+            "감자샐러드"
+        ],
+        "cheese": [
+            "슬라이스치즈"
+        ],
+        "banana": [
+            "바나나슬라이스"
+        ],
+        "strawberry": [
+            "딸기슬라이스"
+        ],
+        "apple": [
+            "사과슬라이스"
+        ],
+        "kiwi": [
+            "키위슬라이스"
+        ],
+        "pineapple": [
+            "파인애플슬라이스"
+        ],
+        "jalapeño": [
+            "할라페뇨"
+        ],
+        "horseradish": [
+            "호스래디시"
+        ],
+        "curry-powder": [
+            "카레파우더"
+        ],
+        "wasabi": [
+            "와사비소스"
+        ],
+        "watercress": [
+            "물냉이"
+        ],
+        "basil": [
+            "바질"
+        ],
+        "gold-pick": [
+            "골드 픽"
+        ],
+        "silver-pick": [
+            "실버 픽"
+        ],
+        "red-flag-pick": [
+            "빨강 깃발 픽"
+        ],
+        "blue-flag-pick": [
+            "파랑 깃발 픽"
+        ],
+        "pika-pika-pick": [
+            "피카피카 픽"
+        ],
+        "winking-pika-pick": [
+            "윙크피카 픽"
+        ],
+        "vee-vee-pick": [
+            "브이브이 픽"
+        ],
+        "smiling-vee-pick": [
+            "방긋브이 픽"
+        ],
+        "blue-poke-ball-pick": [
+            "파랑 볼 픽"
+        ],
+        "green-poke-ball-pick": [
+            "초록 볼 픽"
+        ],
+        "red-poke-ball-pick": [
+            "빨강 볼 픽"
+        ],
+        "party-sparkler-pick": [
+            "축하 폭죽 픽"
+        ],
+        "heroic-sword-pick": [
+            "용사의 검 픽"
+        ],
+        "magical-star-pick": [
+            "매지컬 스타 픽"
+        ],
+        "magical-heart-pick": [
+            "매지컬 하트 픽"
+        ],
+        "parasol-pick": [
+            "파라솔 픽"
+        ],
+        "blue-sky-flower-pick": [
+            "푸른하늘 꽃 픽"
+        ],
+        "sunset-flower-pick": [
+            "저녁노을 꽃 픽"
+        ],
+        "sunrise-flower-pick": [
+            "아침노을 꽃 픽"
+        ]
+    }
 }
