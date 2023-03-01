@@ -24,7 +24,8 @@
         "dream-ball": [ "Dream Ball" ],
         "sport-ball": [ "Sport Ball" ],
         "safari-ball": [ "Safari Ball" ],
-        "beast-ball": [ "Beast Ball" ]
+        "beast-ball": [ "Beast Ball" ],
+        "cherish-ball": [ "Cherish Ball" ]
     },
     "jpn": {
         "poke-ball": [ "モンスターボール" ],
@@ -51,7 +52,8 @@
         "dream-ball": [ "ドリームボール" ],
         "sport-ball": [ "コンペボール" ],
         "safari-ball": [ "サファリボール" ],
-        "beast-ball": [ "ウルトラボール" ]
+        "beast-ball": [ "ウルトラボール" ],
+        "cherish-ball": [ "プレシャスボール" ]
     },
     "spa": {
         "poke-ball": [ "Poke Ball" ],
@@ -78,7 +80,8 @@
         "dream-ball": [ "Ensueño Ball" ],
         "sport-ball": [ "Competi Ball" ],
         "safari-ball": [ "Safari Ball" ],
-        "beast-ball": [ "Ente Ball" ]
+        "beast-ball": [ "Ente Ball" ],
+        "cherish-ball": [ "Gloria Ball" ]
     },
     "fra": {
         "poke-ball": [ "Poké Ball" ],
@@ -105,7 +108,8 @@
         "dream-ball": [ "Rêve Ball" ],
         "sport-ball": [ "Compét’Ball" ],
         "safari-ball": [ "Safari Ball" ],
-        "beast-ball": [ "Ultra Ball" ]
+        "beast-ball": [ "Ultra Ball" ],
+        "cherish-ball": [ "Mémoire Ball" ]
     },
     "deu": {
         "poke-ball": [ "Pokéball" ],
@@ -132,7 +136,8 @@
         "dream-ball": [ "Traumball" ],
         "sport-ball": [ "Turnierball" ],
         "safari-ball": [ "Safariball" ],
-        "beast-ball": [ "Ultraball" ]
+        "beast-ball": [ "Ultraball" ],
+        "cherish-ball": [ "Jubelball" ]
     },
     "ita": {
         "poke-ball": [ "Poké Ball" ],
@@ -159,7 +164,8 @@
         "dream-ball": [ "Dream Ball" ],
         "sport-ball": [ "Gara Ball" ],
         "safari-ball": [ "Safari Ball" ],
-        "beast-ball": [ "UC Ball" ]
+        "beast-ball": [ "UC Ball" ],
+        "cherish-ball": [ "Pregio Ball" ]
     },
     "kor": {
         "poke-ball": [ "몬스터볼" ],
@@ -186,7 +192,8 @@
         "dream-ball": [ "드림볼" ],
         "sport-ball": [ "콤페볼" ],
         "safari-ball": [ "사파리볼" ],
-        "beast-ball": [ "울트라볼" ]
+        "beast-ball": [ "울트라볼" ],
+        "cherish-ball": [ "프레셔스볼" ]
     },
     "chi_sim": {
         "poke-ball": [ "精灵球" ],
@@ -213,7 +220,8 @@
         "dream-ball": [ "梦境球" ],
         "sport-ball": [ "竞赛球" ],
         "safari-ball": [ "狞猎球" ],
-        "beast-ball": [ "究极球" ]
+        "beast-ball": [ "究极球" ],
+        "cherish-ball": [ "贵重球" ]
     },
     "chi_tra": {
         "poke-ball": [ "精靈球" ],
@@ -240,6 +248,7 @@
         "dream-ball": [ "夢境球" ],
         "sport-ball": [ "競賽球" ],
         "safari-ball": [ "狩獵球" ],
-        "beast-ball": [ "究極球" ]
+        "beast-ball": [ "究極球" ],
+        "cherish-ball": [ "貴重球" ]
     }
 }
