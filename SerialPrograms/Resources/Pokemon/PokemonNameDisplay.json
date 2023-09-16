@@ -9954,7 +9954,7 @@
         "chi_sim": "眷恋云",
         "chi_tra": "眷戀雲"
     },
-    "sprigatito":{
+    "sprigatito": {
         "eng": "Sprigatito",
         "jpn": "ニャオハ",
         "spa": "Sprigatito",
@@ -9964,8 +9964,8 @@
         "kor": "나오하",
         "chi_sim": "新叶喵",
         "chi_tra": "新葉喵"
-     },
-     "floragato":{
+    },
+    "floragato": {
         "eng": "Floragato",
         "jpn": "ニャローテ",
         "spa": "Floragato",
@@ -9975,8 +9975,8 @@
         "kor": "나로테",
         "chi_sim": "蒂蕾喵",
         "chi_tra": "蒂蕾喵"
-     },
-     "meowscarada":{
+    },
+    "meowscarada": {
         "eng": "Meowscarada",
         "jpn": "マスカーニャ",
         "spa": "Meowscarada",
@@ -9986,8 +9986,8 @@
         "kor": "마스카나",
         "chi_sim": "魔幻假面喵",
         "chi_tra": "魔幻假面喵"
-     },
-     "fuecoco":{
+    },
+    "fuecoco": {
         "eng": "Fuecoco",
         "jpn": "ホゲータ",
         "spa": "Fuecoco",
@@ -9997,8 +9997,8 @@
         "kor": "뜨아거",
         "chi_sim": "呆火鳄",
         "chi_tra": "呆火鱷"
-     },
-     "crocalor":{
+    },
+    "crocalor": {
         "eng": "Crocalor",
         "jpn": "アチゲータ",
         "spa": "Crocalor",
@@ -10008,8 +10008,8 @@
         "kor": "악뜨거",
         "chi_sim": "炙烫鳄",
         "chi_tra": "炙燙鱷"
-     },
-     "skeledirge":{
+    },
+    "skeledirge": {
         "eng": "Skeledirge",
         "jpn": "ラウドボーン",
         "spa": "Skeledirge",
@@ -10019,8 +10019,8 @@
         "kor": "라우드본",
         "chi_sim": "骨纹巨声鳄",
         "chi_tra": "骨紋巨聲鱷"
-     },
-     "quaxly":{
+    },
+    "quaxly": {
         "eng": "Quaxly",
         "jpn": "クワッス",
         "spa": "Quaxly",
@@ -10030,8 +10030,8 @@
         "kor": "꾸왁스",
         "chi_sim": "润水鸭",
         "chi_tra": "潤水鴨"
-     },
-     "quaxwell":{
+    },
+    "quaxwell": {
         "eng": "Quaxwell",
         "jpn": "ウェルカモ",
         "spa": "Quaxwell",
@@ -10041,8 +10041,8 @@
         "kor": "아꾸왁",
         "chi_sim": "涌跃鸭",
         "chi_tra": "湧躍鴨"
-     },
-     "quaquaval":{
+    },
+    "quaquaval": {
         "eng": "Quaquaval",
         "jpn": "ウェーニバル",
         "spa": "Quaquaval",
@@ -10052,8 +10052,8 @@
         "kor": "웨이니발",
         "chi_sim": "狂欢浪舞鸭",
         "chi_tra": "狂歡浪舞鴨"
-     },
-     "lechonk":{
+    },
+    "lechonk": {
         "eng": "Lechonk",
         "jpn": "グルトン",
         "spa": "Lechonk",
@@ -10063,8 +10063,8 @@
         "kor": "맛보돈",
         "chi_sim": "爱吃豚",
         "chi_tra": "愛吃豚"
-     },
-     "oinkologne":{
+    },
+    "oinkologne": {
         "eng": "Oinkologne",
         "jpn": "パフュートン",
         "spa": "Oinkologne",
@@ -10074,8 +10074,8 @@
         "kor": "퍼퓨돈",
         "chi_sim": "飘香豚",
         "chi_tra": "飄香豚"
-     },
-     "tarountula":{
+    },
+    "tarountula": {
         "eng": "Tarountula",
         "jpn": "タマンチュラ",
         "spa": "Tarountula",
@@ -10085,8 +10085,8 @@
         "kor": "타랜툴라",
         "chi_sim": "团珠蛛",
         "chi_tra": "團珠蛛"
-     },
-     "spidops":{
+    },
+    "spidops": {
         "eng": "Spidops",
         "jpn": "ワナイダー",
         "spa": "Spidops",
@@ -10096,8 +10096,8 @@
         "kor": "트래피더",
         "chi_sim": "操陷蛛",
         "chi_tra": "操陷蛛"
-     },
-     "nymble":{
+    },
+    "nymble": {
         "eng": "Nymble",
         "jpn": "マメバッタ",
         "spa": "Nymble",
@@ -10107,8 +10107,8 @@
         "kor": "콩알뚜기",
         "chi_sim": "豆蟋蟀",
         "chi_tra": "豆蟋蟀"
-     },
-     "lokix":{
+    },
+    "lokix": {
         "eng": "Lokix",
         "jpn": "エクスレッグ",
         "spa": "Lokix",
@@ -10118,8 +10118,8 @@
         "kor": "엑스레그",
         "chi_sim": "烈腿蝗",
         "chi_tra": "烈腿蝗"
-     },
-     "pawmi":{
+    },
+    "pawmi": {
         "eng": "Pawmi",
         "jpn": "パモ",
         "spa": "Pawmi",
@@ -10129,8 +10129,8 @@
         "kor": "빠모",
         "chi_sim": "布拨",
         "chi_tra": "布撥"
-     },
-     "pawmo":{
+    },
+    "pawmo": {
         "eng": "Pawmo",
         "jpn": "パモット",
         "spa": "Pawmo",
@@ -10140,8 +10140,8 @@
         "kor": "빠모트",
         "chi_sim": "布土拨",
         "chi_tra": "布土撥"
-     },
-     "pawmot":{
+    },
+    "pawmot": {
         "eng": "Pawmot",
         "jpn": "パーモット",
         "spa": "Pawmot",
@@ -10151,8 +10151,8 @@
         "kor": "빠르모트",
         "chi_sim": "巴布土拨",
         "chi_tra": "巴布土撥"
-     },
-     "tandemaus":{
+    },
+    "tandemaus": {
         "eng": "Tandemaus",
         "jpn": "ワッカネズミ",
         "spa": "Tandemaus",
@@ -10162,8 +10162,8 @@
         "kor": "두리쥐",
         "chi_sim": "一对鼠",
         "chi_tra": "一對鼠"
-     },
-     "maushold":{
+    },
+    "maushold": {
         "eng": "Maushold",
         "jpn": "イッカネズミ",
         "spa": "Maushold",
@@ -10173,8 +10173,8 @@
         "kor": "파밀리쥐",
         "chi_sim": "一家鼠",
         "chi_tra": "一家鼠"
-     },
-     "fidough":{
+    },
+    "fidough": {
         "eng": "Fidough",
         "jpn": "パピモッチ",
         "spa": "Fidough",
@@ -10184,8 +10184,8 @@
         "kor": "쫀도기",
         "chi_sim": "狗仔包",
         "chi_tra": "狗仔包"
-     },
-     "dachsbun":{
+    },
+    "dachsbun": {
         "eng": "Dachsbun",
         "jpn": "バウッツェル",
         "spa": "Dachsbun",
@@ -10195,8 +10195,8 @@
         "kor": "바우첼",
         "chi_sim": "麻花犬",
         "chi_tra": "麻花犬"
-     },
-     "smoliv":{
+    },
+    "smoliv": {
         "eng": "Smoliv",
         "jpn": "ミニーブ",
         "spa": "Smoliv",
@@ -10206,8 +10206,8 @@
         "kor": "미니브",
         "chi_sim": "迷你芙",
         "chi_tra": "迷你芙"
-     },
-     "dolliv":{
+    },
+    "dolliv": {
         "eng": "Dolliv",
         "jpn": "オリーニョ",
         "spa": "Dolliv",
@@ -10217,8 +10217,8 @@
         "kor": "올리뇨",
         "chi_sim": "奥利纽",
         "chi_tra": "奧利紐"
-     },
-     "arboliva":{
+    },
+    "arboliva": {
         "eng": "Arboliva",
         "jpn": "オリーヴァ",
         "spa": "Arboliva",
@@ -10228,8 +10228,8 @@
         "kor": "올리르바",
         "chi_sim": "奥利瓦",
         "chi_tra": "奧利瓦"
-     },
-     "squawkabilly":{
+    },
+    "squawkabilly": {
         "eng": "Squawkabilly",
         "jpn": "イキリンコ",
         "spa": "Squawkabilly",
@@ -10239,8 +10239,8 @@
         "kor": "시비꼬",
         "chi_sim": "怒鹦哥",
         "chi_tra": "怒鸚哥"
-     },
-     "nacli":{
+    },
+    "nacli": {
         "eng": "Nacli",
         "jpn": "コジオ",
         "spa": "Nacli",
@@ -10250,8 +10250,8 @@
         "kor": "베베솔트",
         "chi_sim": "盐石宝",
         "chi_tra": "鹽石寶"
-     },
-     "naclstack":{
+    },
+    "naclstack": {
         "eng": "Naclstack",
         "jpn": "ジオヅム",
         "spa": "Naclstack",
@@ -10261,8 +10261,8 @@
         "kor": "스태솔트",
         "chi_sim": "盐石垒",
         "chi_tra": "鹽石壘"
-     },
-     "garganacl":{
+    },
+    "garganacl": {
         "eng": "Garganacl",
         "jpn": "キョジオーン",
         "spa": "Garganacl",
@@ -10272,8 +10272,8 @@
         "kor": "콜로솔트",
         "chi_sim": "盐石巨灵",
         "chi_tra": "鹽石巨靈"
-     },
-     "charcadet":{
+    },
+    "charcadet": {
         "eng": "Charcadet",
         "jpn": "カルボウ",
         "spa": "Charcadet",
@@ -10283,8 +10283,8 @@
         "kor": "카르본",
         "chi_sim": "炭小侍",
         "chi_tra": "炭小侍"
-     },
-     "armarouge":{
+    },
+    "armarouge": {
         "eng": "Armarouge",
         "jpn": "グレンアルマ",
         "spa": "Armarouge",
@@ -10294,8 +10294,8 @@
         "kor": "카디나르마",
         "chi_sim": "红莲铠骑",
         "chi_tra": "紅蓮鎧騎"
-     },
-     "ceruledge":{
+    },
+    "ceruledge": {
         "eng": "Ceruledge",
         "jpn": "ソウブレイズ",
         "spa": "Ceruledge",
@@ -10305,8 +10305,8 @@
         "kor": "파라블레이즈",
         "chi_sim": "苍炎刃鬼",
         "chi_tra": "蒼炎刃鬼"
-     },
-     "tadbulb":{
+    },
+    "tadbulb": {
         "eng": "Tadbulb",
         "jpn": "ズピカ",
         "spa": "Tadbulb",
@@ -10316,8 +10316,8 @@
         "kor": "빈나두",
         "chi_sim": "光蚪仔",
         "chi_tra": "光蚪仔"
-     },
-     "bellibolt":{
+    },
+    "bellibolt": {
         "eng": "Bellibolt",
         "jpn": "ハラバリー",
         "spa": "Bellibolt",
@@ -10327,8 +10327,8 @@
         "kor": "찌리배리",
         "chi_sim": "电肚蛙",
         "chi_tra": "電肚蛙"
-     },
-     "wattrel":{
+    },
+    "wattrel": {
         "eng": "Wattrel",
         "jpn": "カイデン",
         "spa": "Wattrel",
@@ -10338,8 +10338,8 @@
         "kor": "찌리비",
         "chi_sim": "电海燕",
         "chi_tra": "電海燕"
-     },
-     "kilowattrel":{
+    },
+    "kilowattrel": {
         "eng": "Kilowattrel",
         "jpn": "タイカイデン",
         "spa": "Kilowattrel",
@@ -10349,8 +10349,8 @@
         "kor": "찌리비크",
         "chi_sim": "大电海燕",
         "chi_tra": "大電海燕"
-     },
-     "maschiff":{
+    },
+    "maschiff": {
         "eng": "Maschiff",
         "jpn": "オラチフ",
         "spa": "Maschiff",
@@ -10360,8 +10360,8 @@
         "kor": "오라티프",
         "chi_sim": "偶叫獒",
         "chi_tra": "偶叫獒"
-     },
-     "mabosstiff":{
+    },
+    "mabosstiff": {
         "eng": "Mabosstiff",
         "jpn": "マフィティフ",
         "spa": "Mabosstiff",
@@ -10371,8 +10371,8 @@
         "kor": "마피티프",
         "chi_sim": "獒教父",
         "chi_tra": "獒教父"
-     },
-     "shroodle":{
+    },
+    "shroodle": {
         "eng": "Shroodle",
         "jpn": "シルシュルー",
         "spa": "Shroodle",
@@ -10382,8 +10382,8 @@
         "kor": "땃쭈르",
         "chi_sim": "滋汁鼹",
         "chi_tra": "滋汁鼴"
-     },
-     "grafaiai":{
+    },
+    "grafaiai": {
         "eng": "Grafaiai",
         "jpn": "タギングル",
         "spa": "Grafaiai",
@@ -10393,8 +10393,8 @@
         "kor": "태깅구르",
         "chi_sim": "涂标客",
         "chi_tra": "塗標客"
-     },
-     "bramblin":{
+    },
+    "bramblin": {
         "eng": "Bramblin",
         "jpn": "アノクサ",
         "spa": "Bramblin",
@@ -10404,8 +10404,8 @@
         "kor": "그푸리",
         "chi_sim": "纳噬草",
         "chi_tra": "納噬草"
-     },
-     "brambleghast":{
+    },
+    "brambleghast": {
         "eng": "Brambleghast",
         "jpn": "アノホラグサ",
         "spa": "Brambleghast",
@@ -10415,8 +10415,8 @@
         "kor": "공푸리",
         "chi_sim": "怖纳噬草",
         "chi_tra": "怖納噬草"
-     },
-     "toedscool":{
+    },
+    "toedscool": {
         "eng": "Toedscool",
         "jpn": "ノノクラゲ",
         "spa": "Toedscool",
@@ -10426,8 +10426,8 @@
         "kor": "들눈해",
         "chi_sim": "原野水母",
         "chi_tra": "原野水母"
-     },
-     "toedscruel":{
+    },
+    "toedscruel": {
         "eng": "Toedscruel",
         "jpn": "リククラゲ",
         "spa": "Toedscruel",
@@ -10437,8 +10437,8 @@
         "kor": "육파리",
         "chi_sim": "陆地水母",
         "chi_tra": "陸地水母"
-     },
-     "klawf":{
+    },
+    "klawf": {
         "eng": "Klawf",
         "jpn": "ガケガニ",
         "spa": "Klawf",
@@ -10448,8 +10448,8 @@
         "kor": "절벼게",
         "chi_sim": "毛崖蟹",
         "chi_tra": "毛崖蟹"
-     },
-     "capsakid":{
+    },
+    "capsakid": {
         "eng": "Capsakid",
         "jpn": "カプサイジ",
         "spa": "Capsakid",
@@ -10459,8 +10459,8 @@
         "kor": "캡싸이",
         "chi_sim": "热辣娃",
         "chi_tra": "熱辣娃"
-     },
-     "scovillain":{
+    },
+    "scovillain": {
         "eng": "Scovillain",
         "jpn": "スコヴィラン",
         "spa": "Scovillain",
@@ -10470,8 +10470,8 @@
         "kor": "스코빌런",
         "chi_sim": "狠辣椒",
         "chi_tra": "狠辣椒"
-     },
-     "rellor":{
+    },
+    "rellor": {
         "eng": "Rellor",
         "jpn": "シガロコ",
         "spa": "Rellor",
@@ -10481,8 +10481,8 @@
         "kor": "구르데",
         "chi_sim": "虫滚泥",
         "chi_tra": "蟲滾泥"
-     },
-     "rabsca":{
+    },
+    "rabsca": {
         "eng": "Rabsca",
         "jpn": "ベラカス",
         "spa": "Rabsca",
@@ -10492,8 +10492,8 @@
         "kor": "베라카스",
         "chi_sim": "虫甲圣",
         "chi_tra": "蟲甲聖"
-     },
-     "flittle":{
+    },
+    "flittle": {
         "eng": "Flittle",
         "jpn": "ヒラヒナ",
         "spa": "Flittle",
@@ -10503,8 +10503,8 @@
         "kor": "하느라기",
         "chi_sim": "飘飘雏",
         "chi_tra": "飄飄雛"
-     },
-     "espathra":{
+    },
+    "espathra": {
         "eng": "Espathra",
         "jpn": "クエスパトラ",
         "spa": "Espathra",
@@ -10514,8 +10514,8 @@
         "kor": "클레스퍼트라",
         "chi_sim": "超能艳鸵",
         "chi_tra": "超能豔鴕"
-     },
-     "tinkatink":{
+    },
+    "tinkatink": {
         "eng": "Tinkatink",
         "jpn": "カヌチャン",
         "spa": "Tinkatink",
@@ -10525,8 +10525,8 @@
         "kor": "어리짱",
         "chi_sim": "小锻匠",
         "chi_tra": "小鍛匠"
-     },
-     "tinkatuff":{
+    },
+    "tinkatuff": {
         "eng": "Tinkatuff",
         "jpn": "ナカヌチャン",
         "spa": "Tinkatuff",
@@ -10536,8 +10536,8 @@
         "kor": "벼리짱",
         "chi_sim": "巧锻匠",
         "chi_tra": "巧鍛匠"
-     },
-     "tinkaton":{
+    },
+    "tinkaton": {
         "eng": "Tinkaton",
         "jpn": "デカヌチャン",
         "spa": "Tinkaton",
@@ -10547,8 +10547,8 @@
         "kor": "두드리짱",
         "chi_sim": "巨锻匠",
         "chi_tra": "巨鍛匠"
-     },
-     "wiglett":{
+    },
+    "wiglett": {
         "eng": "Wiglett",
         "jpn": "ウミディグダ",
         "spa": "Wiglett",
@@ -10558,8 +10558,8 @@
         "kor": "바다그다",
         "chi_sim": "海地鼠",
         "chi_tra": "海地鼠"
-     },
-     "wugtrio":{
+    },
+    "wugtrio": {
         "eng": "Wugtrio",
         "jpn": "ウミトリオ",
         "spa": "Wugtrio",
@@ -10569,8 +10569,8 @@
         "kor": "바닥트리오",
         "chi_sim": "三海地鼠",
         "chi_tra": "三海地鼠"
-     },
-     "bombirdier":{
+    },
+    "bombirdier": {
         "eng": "Bombirdier",
         "jpn": "オトシドリ",
         "spa": "Bombirdier",
@@ -10580,8 +10580,8 @@
         "kor": "떨구새",
         "chi_sim": "下石鸟",
         "chi_tra": "下石鳥"
-     },
-     "finizen":{
+    },
+    "finizen": {
         "eng": "Finizen",
         "jpn": "ナミイルカ",
         "spa": "Finizen",
@@ -10591,8 +10591,8 @@
         "kor": "맨돌핀",
         "chi_sim": "波普海豚",
         "chi_tra": "波普海豚"
-     },
-     "palafin":{
+    },
+    "palafin": {
         "eng": "Palafin",
         "jpn": "イルカマン",
         "spa": "Palafin",
@@ -10602,8 +10602,8 @@
         "kor": "돌핀맨",
         "chi_sim": "海豚侠",
         "chi_tra": "海豚俠"
-     },
-     "varoom":{
+    },
+    "varoom": {
         "eng": "Varoom",
         "jpn": "ブロロン",
         "spa": "Varoom",
@@ -10613,8 +10613,8 @@
         "kor": "부르롱",
         "chi_sim": "噗隆隆",
         "chi_tra": "噗隆隆"
-     },
-     "revavroom":{
+    },
+    "revavroom": {
         "eng": "Revavroom",
         "jpn": "ブロロローム",
         "spa": "Revavroom",
@@ -10624,8 +10624,8 @@
         "kor": "부르르룸",
         "chi_sim": "普隆隆姆",
         "chi_tra": "普隆隆姆"
-     },
-     "cyclizar":{
+    },
+    "cyclizar": {
         "eng": "Cyclizar",
         "jpn": "モトトカゲ",
         "spa": "Cyclizar",
@@ -10635,8 +10635,8 @@
         "kor": "모토마",
         "chi_sim": "摩托蜥",
         "chi_tra": "摩托蜥"
-     },
-     "orthworm":{
+    },
+    "orthworm": {
         "eng": "Orthworm",
         "jpn": "ミミズズ",
         "spa": "Orthworm",
@@ -10646,8 +10646,8 @@
         "kor": "꿈트렁",
         "chi_sim": "拖拖蚓",
         "chi_tra": "拖拖蚓"
-     },
-     "glimmet":{
+    },
+    "glimmet": {
         "eng": "Glimmet",
         "jpn": "キラーメ",
         "spa": "Glimmet",
@@ -10657,8 +10657,8 @@
         "kor": "초롱순",
         "chi_sim": "晶光芽",
         "chi_tra": "晶光芽"
-     },
-     "glimmora":{
+    },
+    "glimmora": {
         "eng": "Glimmora",
         "jpn": "キラフロル",
         "spa": "Glimmora",
@@ -10668,8 +10668,8 @@
         "kor": "킬라플로르",
         "chi_sim": "晶光花",
         "chi_tra": "晶光花"
-     },
-     "greavard":{
+    },
+    "greavard": {
         "eng": "Greavard",
         "jpn": "ボチ",
         "spa": "Greavard",
@@ -10679,8 +10679,8 @@
         "kor": "망망이",
         "chi_sim": "墓仔狗",
         "chi_tra": "墓仔狗"
-     },
-     "houndstone":{
+    },
+    "houndstone": {
         "eng": "Houndstone",
         "jpn": "ハカドッグ",
         "spa": "Houndstone",
@@ -10690,8 +10690,8 @@
         "kor": "묘두기",
         "chi_sim": "墓扬犬",
         "chi_tra": "墓揚犬"
-     },
-     "flamigo":{
+    },
+    "flamigo": {
         "eng": "Flamigo",
         "jpn": "カラミンゴ",
         "spa": "Flamigo",
@@ -10701,8 +10701,8 @@
         "kor": "꼬이밍고",
         "chi_sim": "缠红鹤",
         "chi_tra": "纏紅鶴"
-     },
-     "cetoddle":{
+    },
+    "cetoddle": {
         "eng": "Cetoddle",
         "jpn": "アルクジラ",
         "spa": "Cetoddle",
@@ -10712,8 +10712,8 @@
         "kor": "터벅고래",
         "chi_sim": "走鲸",
         "chi_tra": "走鯨"
-     },
-     "cetitan":{
+    },
+    "cetitan": {
         "eng": "Cetitan",
         "jpn": "ハルクジラ",
         "spa": "Cetitan",
@@ -10723,8 +10723,8 @@
         "kor": "우락고래",
         "chi_sim": "浩大鲸",
         "chi_tra": "浩大鯨"
-     },
-     "veluza":{
+    },
+    "veluza": {
         "eng": "Veluza",
         "jpn": "ミガルーサ",
         "spa": "Veluza",
@@ -10734,8 +10734,8 @@
         "kor": "가비루사",
         "chi_sim": "轻身鳕",
         "chi_tra": "輕身鱈"
-     },
-     "dondozo":{
+    },
+    "dondozo": {
         "eng": "Dondozo",
         "jpn": "ヘイラッシャ",
         "spa": "Dondozo",
@@ -10745,8 +10745,8 @@
         "kor": "어써러셔",
         "chi_sim": "吃吼霸",
         "chi_tra": "吃吼霸"
-     },
-     "tatsugiri":{
+    },
+    "tatsugiri": {
         "eng": "Tatsugiri",
         "jpn": "シャリタツ",
         "spa": "Tatsugiri",
@@ -10756,8 +10756,8 @@
         "kor": "싸리용",
         "chi_sim": "米立龙",
         "chi_tra": "米立龍"
-     },
-     "annihilape":{
+    },
+    "annihilape": {
         "eng": "Annihilape",
         "jpn": "コノヨザル",
         "spa": "Annihilape",
@@ -10767,8 +10767,8 @@
         "kor": "저승갓숭",
         "chi_sim": "弃世猴",
         "chi_tra": "棄世猴"
-     },
-     "clodsire":{
+    },
+    "clodsire": {
         "eng": "Clodsire",
         "jpn": "ドオー",
         "spa": "Clodsire",
@@ -10778,8 +10778,8 @@
         "kor": "토오",
         "chi_sim": "土王",
         "chi_tra": "土王"
-     },
-     "farigiraf":{
+    },
+    "farigiraf": {
         "eng": "Farigiraf",
         "jpn": "リキキリン",
         "spa": "Farigiraf",
@@ -10789,8 +10789,8 @@
         "kor": "키키링",
         "chi_sim": "奇麒麟",
         "chi_tra": "奇麒麟"
-     },
-     "dudunsparce":{
+    },
+    "dudunsparce": {
         "eng": "Dudunsparce",
         "jpn": "ノココッチ",
         "spa": "Dudunsparce",
@@ -10800,8 +10800,8 @@
         "kor": "노고고치",
         "chi_sim": "土龙节节",
         "chi_tra": "土龍節節"
-     },
-     "kingambit":{
+    },
+    "kingambit": {
         "eng": "Kingambit",
         "jpn": "ドドゲザン",
         "spa": "Kingambit",
@@ -10811,8 +10811,8 @@
         "kor": "대도각참",
         "chi_sim": "仆刀将军",
         "chi_tra": "仆斬將軍"
-     },
-     "great-tusk":{
+    },
+    "great-tusk": {
         "eng": "Great Tusk",
         "jpn": "イダイナキバ",
         "spa": "Colmilargo",
@@ -10822,8 +10822,8 @@
         "kor": "위대한엄니",
         "chi_sim": "雄伟牙",
         "chi_tra": "雄偉牙"
-     },
-     "scream-tail":{
+    },
+    "scream-tail": {
         "eng": "Scream Tail",
         "jpn": "サケブシッポ",
         "spa": "Colagrito",
@@ -10833,8 +10833,8 @@
         "kor": "우렁찬꼬리",
         "chi_sim": "吼叫尾",
         "chi_tra": "吼叫尾"
-     },
-     "brute-bonnet":{
+    },
+    "brute-bonnet": {
         "eng": "Brute Bonnet",
         "jpn": "アラブルタケ",
         "spa": "Furioseta",
@@ -10844,8 +10844,8 @@
         "kor": "사나운버섯",
         "chi_sim": "猛恶菇",
         "chi_tra": "猛惡菇"
-     },
-     "flutter-mane":{
+    },
+    "flutter-mane": {
         "eng": "Flutter Mane",
         "jpn": "ハバタクカミ",
         "spa": "Melenaleteo",
@@ -10855,8 +10855,8 @@
         "kor": "날개치는머리",
         "chi_sim": "振翼发",
         "chi_tra": "振翼髮"
-     },
-     "slither-wing":{
+    },
+    "slither-wing": {
         "eng": "Slither Wing",
         "jpn": "チヲハウハネ",
         "spa": "Reptalada",
@@ -10866,8 +10866,8 @@
         "kor": "땅을기는날개",
         "chi_sim": "爬地翅",
         "chi_tra": "爬地翅"
-     },
-     "sandy-shocks":{
+    },
+    "sandy-shocks": {
         "eng": "Sandy Shocks",
         "jpn": "スナノケガワ",
         "spa": "Pelarena",
@@ -10877,8 +10877,8 @@
         "kor": "모래털가죽",
         "chi_sim": "沙铁皮",
         "chi_tra": "沙鐵皮"
-     },
-     "iron-treads":{
+    },
+    "iron-treads": {
         "eng": "Iron Treads",
         "jpn": "テツノワダチ",
         "spa": "Ferrodada",
@@ -10888,8 +10888,8 @@
         "kor": "무쇠바퀴",
         "chi_sim": "铁辙迹",
         "chi_tra": "鐵轍跡"
-     },
-     "iron-bundle":{
+    },
+    "iron-bundle": {
         "eng": "Iron Bundle",
         "jpn": "テツノツツミ",
         "spa": "Ferrosaco",
@@ -10899,8 +10899,8 @@
         "kor": "무쇠보따리",
         "chi_sim": "铁包袱",
         "chi_tra": "鐵包袱"
-     },
-     "iron-hands":{
+    },
+    "iron-hands": {
         "eng": "Iron Hands",
         "jpn": "テツノカイナ",
         "spa": "Ferropalmas",
@@ -10910,8 +10910,8 @@
         "kor": "무쇠손",
         "chi_sim": "铁臂膀",
         "chi_tra": "鐵臂膀"
-     },
-     "iron-jugulis":{
+    },
+    "iron-jugulis": {
         "eng": "Iron Jugulis",
         "jpn": "テツノコウベ",
         "spa": "Ferrocuello",
@@ -10921,8 +10921,8 @@
         "kor": "무쇠머리",
         "chi_sim": "铁脖颈",
         "chi_tra": "鐵脖頸"
-     },
-     "iron-moth":{
+    },
+    "iron-moth": {
         "eng": "Iron Moth",
         "jpn": "テツノドクガ",
         "spa": "Ferropolilla",
@@ -10932,8 +10932,8 @@
         "kor": "무쇠독나방",
         "chi_sim": "铁毒蛾",
         "chi_tra": "鐵毒蛾"
-     },
-     "iron-thorns":{
+    },
+    "iron-thorns": {
         "eng": "Iron Thorns",
         "jpn": "テツノイバラ",
         "spa": "Ferropúas",
@@ -10943,8 +10943,8 @@
         "kor": "무쇠가시",
         "chi_sim": "铁荆棘",
         "chi_tra": "鐵荊棘"
-     },
-     "frigibax":{
+    },
+    "frigibax": {
         "eng": "Frigibax",
         "jpn": "セビエ",
         "spa": "Frigibax",
@@ -10954,8 +10954,8 @@
         "kor": "드니차",
         "chi_sim": "凉脊龙",
         "chi_tra": "涼脊龍"
-     },
-     "arctibax":{
+    },
+    "arctibax": {
         "eng": "Arctibax",
         "jpn": "セゴール",
         "spa": "Arctibax",
@@ -10965,8 +10965,8 @@
         "kor": "드니꽁",
         "chi_sim": "冻脊龙",
         "chi_tra": "凍脊龍"
-     },
-     "baxcalibur":{
+    },
+    "baxcalibur": {
         "eng": "Baxcalibur",
         "jpn": "セグレイブ",
         "spa": "Baxcalibur",
@@ -10976,8 +10976,8 @@
         "kor": "드닐레이브",
         "chi_sim": "戟脊龙",
         "chi_tra": "戟脊龍"
-     },
-     "gimmighoul":{
+    },
+    "gimmighoul": {
         "eng": "Gimmighoul",
         "jpn": "コレクレー",
         "spa": "Gimmighoul",
@@ -10987,8 +10987,8 @@
         "kor": "모으령",
         "chi_sim": "索财灵",
         "chi_tra": "索財靈"
-     },
-     "gholdengo":{
+    },
+    "gholdengo": {
         "eng": "Gholdengo",
         "jpn": "サーフゴー",
         "spa": "Gholdengo",
@@ -10998,8 +10998,8 @@
         "kor": "타부자고",
         "chi_sim": "赛富豪",
         "chi_tra": "賽富豪"
-     },
-     "wo-chien":{
+    },
+    "wo-chien": {
         "eng": "Wo-Chien",
         "jpn": "チオンジェン",
         "spa": "Wo-Chien",
@@ -11009,8 +11009,8 @@
         "kor": "총지엔",
         "chi_sim": "古简蜗",
         "chi_tra": "古簡蝸"
-     },
-     "chien-pao":{
+    },
+    "chien-pao": {
         "eng": "Chien-Pao",
         "jpn": "パオジアン",
         "spa": "Chien-Pao",
@@ -11020,8 +11020,8 @@
         "kor": "파오젠",
         "chi_sim": "古剑豹",
         "chi_tra": "古劍豹"
-     },
-     "ting-lu":{
+    },
+    "ting-lu": {
         "eng": "Ting-Lu",
         "jpn": "ディンルー",
         "spa": "Ting-Lu",
@@ -11031,8 +11031,8 @@
         "kor": "딩루",
         "chi_sim": "古鼎鹿",
         "chi_tra": "古鼎鹿"
-     },
-     "chi-yu":{
+    },
+    "chi-yu": {
         "eng": "Chi-Yu",
         "jpn": "イーユイ",
         "spa": "Chi-Yu",
@@ -11042,8 +11042,8 @@
         "kor": "위유이",
         "chi_sim": "古玉鱼",
         "chi_tra": "古玉魚"
-     },
-     "roaring-moon":{
+    },
+    "roaring-moon": {
         "eng": "Roaring Moon",
         "jpn": "トドロクツキ",
         "spa": "Bramaluna",
@@ -11053,8 +11053,8 @@
         "kor": "고동치는달",
         "chi_sim": "轰鸣月",
         "chi_tra": "轟鳴月"
-     },
-     "iron-valiant":{
+    },
+    "iron-valiant": {
         "eng": "Iron Valiant",
         "jpn": "テツノブジン",
         "spa": "Ferropaladín",
@@ -11064,8 +11064,8 @@
         "kor": "무쇠무인",
         "chi_sim": "铁武者",
         "chi_tra": "鐵武者"
-     },
-     "koraidon":{
+    },
+    "koraidon": {
         "eng": "Koraidon",
         "jpn": "コライドン",
         "spa": "Koraidon",
@@ -11075,8 +11075,8 @@
         "kor": "코라이돈",
         "chi_sim": "故勒顿",
         "chi_tra": "故勒頓"
-     },
-     "miraidon":{
+    },
+    "miraidon": {
         "eng": "Miraidon",
         "jpn": "ミライドン",
         "spa": "Miraidon",
@@ -11086,5 +11086,104 @@
         "kor": "미라이돈",
         "chi_sim": "密勒顿",
         "chi_tra": "密勒頓"
-     }   
+    },
+    "walking-wake": {
+        "eng": "Walking Wake",
+        "jpn": "ウネルミナモ",
+        "spa": "Ondulagua",
+        "fra": "Serpente-Eau",
+        "deu": "Windewoge",
+        "ita": "Acquecrespe",
+        "kor": "굽이치는물결",
+        "chi_sim": "波荡水",
+        "chi_tra": "波盪水"
+    },
+    "iron-leaves": {
+        "eng": "Iron Leaves",
+        "jpn": "テツノイサハ",
+        "spa": "Ferroverdor",
+        "fra": "Vert-de-Fer",
+        "deu": "Eisenblatt",
+        "ita": "Fogliaferrea",
+        "kor": "무쇠잎새",
+        "chi_sim": "铁斑叶",
+        "chi_tra": "鐵斑葉"
+    },
+    "dipplin": {
+        "eng": "Dipplin",
+        "jpn": "カミッチュ",
+        "spa": "Dipplin",
+        "fra": "Pomdramour",
+        "deu": "Sirapfel",
+        "ita": "Dipplin",
+        "kor": "과미르",
+        "chi_sim": "裹蜜虫",
+        "chi_tra": "裹蜜蟲"
+    },
+    "poltchageist": {
+        "eng": "Poltchageist",
+        "jpn": "チャデス",
+        "spa": "Poltchageist",
+        "fra": "Poltchageist",
+        "deu": "Mortcha",
+        "ita": "Poltchageist",
+        "kor": "차데스",
+        "chi_sim": "斯魔茶",
+        "chi_tra": "斯魔茶"
+    },
+    "sinistcha": {
+        "eng": "Sinistcha",
+        "jpn": "ヤバソチャ",
+        "spa": "Sinistcha",
+        "fra": "Théffroyable",
+        "deu": "Fatalitcha",
+        "ita": "Sinistcha",
+        "kor": "그우린차",
+        "chi_sim": "来悲粗茶",
+        "chi_tra": "來悲粗茶"
+    },
+    "okidogi": {
+        "eng": "Okidogi",
+        "jpn": "イイネイヌ",
+        "spa": "Okidogi",
+        "fra": "Félicanis",
+        "deu": "Boninu",
+        "ita": "Okidogi",
+        "kor": "조타구",
+        "chi_sim": "够赞狗",
+        "chi_tra": "夠讚狗"
+    },
+    "munkidori": {
+        "eng": "Munkidori",
+        "jpn": "マシマシラ",
+        "spa": "Munkidori",
+        "fra": "Fortusimia",
+        "deu": "Benesaru",
+        "ita": "Munkidori",
+        "kor": "이야후",
+        "chi_sim": "愿增猿",
+        "chi_tra": "願增猿"
+    },
+    "fezandipiti": {
+        "eng": "Fezandipiti",
+        "jpn": "キチキギス",
+        "spa": "Fezandipiti",
+        "fra": "Favianos",
+        "deu": "Beatori",
+        "ita": "Fezandipiti",
+        "kor": "기로치",
+        "chi_sim": "吉雉鸡",
+        "chi_tra": "吉雉雞"
+    },
+    "ogerpon": {
+        "eng": "Ogerpon",
+        "jpn": "オーガポン",
+        "spa": "Ogerpon",
+        "fra": "Ogerpon",
+        "deu": "Ogerpon",
+        "ita": "Ogerpon",
+        "kor": "오거폰",
+        "chi_sim": "厄诡椪",
+        "chi_tra": "厄鬼椪"
+    }
 }
