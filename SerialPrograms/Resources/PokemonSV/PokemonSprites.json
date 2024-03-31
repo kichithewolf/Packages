@@ -3294,6 +3294,10 @@
             "top": 2816,
             "left": 1024
         },
+        "scatterbug": {
+            "top": 2816,
+            "left": 1536
+        },
         "scatterbug-archipelago": {
             "top": 2816,
             "left": 1152
@@ -3374,6 +3378,10 @@
             "top": 2816,
             "left": 3584
         },
+        "spewpa": {
+            "top": 2816,
+            "left": 4096
+        },
         "spewpa-archipelago": {
             "top": 2816,
             "left": 3712
@@ -3453,6 +3461,10 @@
         "spewpa-tundra": {
             "top": 2944,
             "left": 1408
+        },
+        "vivillon": {
+            "top": 2944,
+            "left": 1920
         },
         "vivillon-archipelago": {
             "top": 2944,
