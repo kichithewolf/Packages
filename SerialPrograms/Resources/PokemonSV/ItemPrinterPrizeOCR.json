@@ -1,0 +1,4232 @@
+{
+    "eng": {
+        "big-nugget": [
+            "Big Nugget"
+        ],
+        "ability-patch": [
+            "Ability Patch"
+        ],
+        "gold-bottle-cap": [
+            "Gold Bottle Cap"
+        ],
+        "masterpiece-teacup": [
+            "Masterpiece Teacup"
+        ],
+        "star-sweet": [
+            "Star Sweet"
+        ],
+        "ribbon-sweet": [
+            "Ribbon Sweet"
+        ],
+        "lucky-egg": [
+            "Lucky Egg"
+        ],
+        "amulet-coin": [
+            "Amulet Coin"
+        ],
+        "normal-tera-shard": [
+            "Normal Tera Shard"
+        ],
+        "fire-tera-shard": [
+            "Fire Tera Shard"
+        ],
+        "water-tera-shard": [
+            "Water Tera Shard"
+        ],
+        "electric-tera-shard": [
+            "Electric Tera Shard"
+        ],
+        "grass-tera-shard": [
+            "Grass Tera Shard"
+        ],
+        "ice-tera-shard": [
+            "Ice Tera Shard"
+        ],
+        "fighting-tera-shard": [
+            "Fighting Tera Shard"
+        ],
+        "poison-tera-shard": [
+            "Poison Tera Shard"
+        ],
+        "ground-tera-shard": [
+            "Ground Tera Shard"
+        ],
+        "flying-tera-shard": [
+            "Flying Tera Shard"
+        ],
+        "psychic-tera-shard": [
+            "Psychic Tera Shard"
+        ],
+        "bug-tera-shard": [
+            "Bug Tera Shard"
+        ],
+        "rock-tera-shard": [
+            "Rock Tera Shard"
+        ],
+        "ghost-tera-shard": [
+            "Ghost Tera Shard"
+        ],
+        "dragon-tera-shard": [
+            "Dragon Tera Shard"
+        ],
+        "dark-tera-shard": [
+            "Dark Tera Shard"
+        ],
+        "steel-tera-shard": [
+            "Steel Tera Shard"
+        ],
+        "fairy-tera-shard": [
+            "Fairy Tera Shard"
+        ],
+        "stellar-tera-shard": [
+            "Stellar Tera Shard"
+        ],
+        "exp-candy-l": [
+            "Exp. Candy L"
+        ],
+        "exp-candy-xl": [
+            "Exp. Candy XL"
+        ],
+        "big-pearl": [
+            "Big Pearl"
+        ],
+        "nugget": [
+            "Nugget"
+        ],
+        "star-piece": [
+            "Star Piece"
+        ],
+        "balm-mushroom": [
+            "Balm Mushroom"
+        ],
+        "pearl-string": [
+            "Pearl String"
+        ],
+        "comet-shard": [
+            "Comet Shard"
+        ],
+        "ability-capsule": [
+            "Ability Capsule"
+        ],
+        "bottle-cap": [
+            "Bottle Cap"
+        ],
+        "chipped-pot": [
+            "Chipped Pot"
+        ],
+        "clover-sweet": [
+            "Clover Sweet"
+        ],
+        "flower-sweet": [
+            "Flower Sweet"
+        ],
+        "electirizer": [
+            "Electirizer"
+        ],
+        "magmarizer": [
+            "Magmarizer"
+        ],
+        "protector": [
+            "Protector"
+        ],
+        "dragon-scale": [
+            "Dragon Scale"
+        ],
+        "metal-alloy": [
+            "Metal Alloy"
+        ],
+        "upgrade": [
+            "Upgrade"
+        ],
+        "dubious-disc": [
+            "Dubious Disc"
+        ],
+        "hp-up": [
+            "HP Up"
+        ],
+        "protein": [
+            "Protein"
+        ],
+        "iron": [
+            "Iron"
+        ],
+        "carbos": [
+            "Carbos"
+        ],
+        "calcium": [
+            "Calcium"
+        ],
+        "zinc": [
+            "Zinc"
+        ],
+        "pp-up": [
+            "PP Up"
+        ],
+        "pp-max": [
+            "PP Max"
+        ],
+        "exp-candy-s": [
+            "Exp. Candy S"
+        ],
+        "exp-candy-m": [
+            "Exp. Candy M"
+        ],
+        "pearl": [
+            "Pearl"
+        ],
+        "stardust": [
+            "Stardust"
+        ],
+        "big-bamboo-shoot": [
+            "Big Bamboo Shoot"
+        ],
+        "big-mushroom": [
+            "Big Mushroom"
+        ],
+        "rare-bone": [
+            "Rare Bone"
+        ],
+        "metal-coat": [
+            "Metal Coat"
+        ],
+        "kings-rock": [
+            "King’s Rock"
+        ],
+        "razor-claw": [
+            "Razor Claw"
+        ],
+        "cracked-pot": [
+            "Cracked Pot"
+        ],
+        "unremarkable-teacup": [
+            "Unremarkable Teacup"
+        ],
+        "prism-scale": [
+            "Prism Scale"
+        ],
+        "razor-fang": [
+            "Razor Fang"
+        ],
+        "reaper-cloth": [
+            "Reaper Cloth"
+        ],
+        "strawberry-sweet": [
+            "Strawberry Sweet"
+        ],
+        "love-sweet": [
+            "Love Sweet"
+        ],
+        "berry-sweet": [
+            "Berry Sweet"
+        ],
+        "fairy-feather": [
+            "Fairy Feather"
+        ],
+        "black-sludge": [
+            "Black Sludge"
+        ],
+        "scope-lens": [
+            "Scope Lens"
+        ],
+        "toxic-orb": [
+            "Toxic Orb"
+        ],
+        "flame-orb": [
+            "Flame Orb"
+        ],
+        "metronome": [
+            "Metronome"
+        ],
+        "air-balloon": [
+            "Air Balloon"
+        ],
+        "leftovers": [
+            "Leftovers"
+        ],
+        "light-clay": [
+            "Light Clay"
+        ],
+        "safety-goggles": [
+            "Safety Goggles"
+        ],
+        "heavy-duty-boots": [
+            "Heavy-Duty Boots"
+        ],
+        "covert-cloak": [
+            "Covert Cloak"
+        ],
+        "loaded-dice": [
+            "Loaded Dice"
+        ],
+        "focus-band": [
+            "Focus Band"
+        ],
+        "full-restore": [
+            "Full Restore"
+        ],
+        "max-potion": [
+            "Max Potion"
+        ],
+        "hyper-potion": [
+            "Hyper Potion"
+        ],
+        "super-potion": [
+            "Super Potion"
+        ],
+        "full-heal": [
+            "Full Heal"
+        ],
+        "revive": [
+            "Revive"
+        ],
+        "max-revive": [
+            "Max Revive"
+        ],
+        "ether": [
+            "Ether"
+        ],
+        "max-ether": [
+            "Max Ether"
+        ],
+        "elixir": [
+            "Elixir"
+        ],
+        "max-elixir": [
+            "Max Elixir"
+        ],
+        "exp-candy-xs": [
+            "Exp. Candy XS"
+        ],
+        "honey": [
+            "Honey"
+        ],
+        "tiny-mushroom": [
+            "Tiny Mushroom"
+        ],
+        "tiny-bamboo-shoot": [
+            "Tiny Bamboo Shoot"
+        ],
+        "pretty-feather": [
+            "Pretty Feather"
+        ],
+        "sun-stone": [
+            "Sun Stone"
+        ],
+        "moon-stone": [
+            "Moon Stone"
+        ],
+        "fire-stone": [
+            "Fire Stone"
+        ],
+        "thunder-stone": [
+            "Thunder Stone"
+        ],
+        "water-stone": [
+            "Water Stone"
+        ],
+        "leaf-stone": [
+            "Leaf Stone"
+        ],
+        "shiny-stone": [
+            "Shiny Stone"
+        ],
+        "dusk-stone": [
+            "Dusk Stone"
+        ],
+        "dawn-stone": [
+            "Dawn Stone"
+        ],
+        "ice-stone": [
+            "Ice Stone"
+        ],
+        "everstone": [
+            "Everstone"
+        ],
+        "oval-stone": [
+            "Oval Stone"
+        ],
+        "silver-powder": [
+            "Silver Powder"
+        ],
+        "soft-sand": [
+            "Soft Sand"
+        ],
+        "hard-stone": [
+            "Hard Stone"
+        ],
+        "miracle-seed": [
+            "Miracle Seed"
+        ],
+        "black-glasses": [
+            "Black Glasses"
+        ],
+        "black-belt": [
+            "Black Belt"
+        ],
+        "magnet": [
+            "Magnet"
+        ],
+        "mystic-water": [
+            "Mystic Water"
+        ],
+        "sharp-beak": [
+            "Sharp Beak"
+        ],
+        "poison-barb": [
+            "Poison Barb"
+        ],
+        "never-melt-ice": [
+            "Never-Melt Ice"
+        ],
+        "spell-tag": [
+            "Spell Tag"
+        ],
+        "twisted-spoon": [
+            "Twisted Spoon"
+        ],
+        "charcoal": [
+            "Charcoal"
+        ],
+        "dragon-fang": [
+            "Dragon Fang"
+        ],
+        "silk-scarf": [
+            "Silk Scarf"
+        ],
+        "master-ball": [
+            "Master Ball"
+        ],
+        "safari-ball": [
+            "Safari Ball"
+        ],
+        "fast-ball": [
+            "Fast Ball"
+        ],
+        "level-ball": [
+            "Level Ball"
+        ],
+        "lure-ball": [
+            "Lure Ball"
+        ],
+        "heavy-ball": [
+            "Heavy Ball"
+        ],
+        "love-ball": [
+            "Love Ball"
+        ],
+        "friend-ball": [
+            "Friend Ball"
+        ],
+        "moon-ball": [
+            "Moon Ball"
+        ],
+        "sport-ball": [
+            "Sport Ball"
+        ],
+        "dream-ball": [
+            "Dream Ball"
+        ],
+        "beast-ball": [
+            "Beast Ball"
+        ],
+        "luxury-ball": [
+            "Luxury Ball"
+        ],
+        "ultra-ball": [
+            "Ultra Ball"
+        ],
+        "net-ball": [
+            "Net Ball"
+        ],
+        "dive-ball": [
+            "Dive Ball"
+        ],
+        "nest-ball": [
+            "Nest Ball"
+        ],
+        "repeat-ball": [
+            "Repeat Ball"
+        ],
+        "timer-ball": [
+            "Timer Ball"
+        ],
+        "dusk-ball": [
+            "Dusk Ball"
+        ],
+        "quick-ball": [
+            "Quick Ball"
+        ],
+        "great-ball": [
+            "Great Ball"
+        ],
+        "heal-ball": [
+            "Heal Ball"
+        ],
+        "poke-ball": [
+            "Poké Ball"
+        ],
+        "premier-ball": [
+            "Premier Ball"
+        ]
+    },
+    "spa": {
+        "big-nugget": [
+            "Maxipepita"
+        ],
+        "ability-patch": [
+            "Parche Habilidad"
+        ],
+        "gold-bottle-cap": [
+            "Chapa Dorada"
+        ],
+        "masterpiece-teacup": [
+            "Cuenco Exquisito"
+        ],
+        "star-sweet": [
+            "Confite Estrella"
+        ],
+        "ribbon-sweet": [
+            "Confite Lazo"
+        ],
+        "lucky-egg": [
+            "Huevo Suerte"
+        ],
+        "amulet-coin": [
+            "Moneda Amuleto"
+        ],
+        "normal-tera-shard": [
+            "Teralito Normal"
+        ],
+        "fire-tera-shard": [
+            "Teralito Fuego"
+        ],
+        "water-tera-shard": [
+            "Teralito Agua"
+        ],
+        "electric-tera-shard": [
+            "Teralito Eléctrico"
+        ],
+        "grass-tera-shard": [
+            "Teralito Planta"
+        ],
+        "ice-tera-shard": [
+            "Teralito Hielo"
+        ],
+        "fighting-tera-shard": [
+            "Teralito Lucha"
+        ],
+        "poison-tera-shard": [
+            "Teralito Veneno"
+        ],
+        "ground-tera-shard": [
+            "Teralito Tierra"
+        ],
+        "flying-tera-shard": [
+            "Teralito Volador"
+        ],
+        "psychic-tera-shard": [
+            "Teralito Psíquico"
+        ],
+        "bug-tera-shard": [
+            "Teralito Bicho"
+        ],
+        "rock-tera-shard": [
+            "Teralito Roca"
+        ],
+        "ghost-tera-shard": [
+            "Teralito Fantasma"
+        ],
+        "dragon-tera-shard": [
+            "Teralito Dragón"
+        ],
+        "dark-tera-shard": [
+            "Teralito Siniestro"
+        ],
+        "steel-tera-shard": [
+            "Teralito Acero"
+        ],
+        "fairy-tera-shard": [
+            "Teralito Hada"
+        ],
+        "stellar-tera-shard": [
+            "Teralito Astral"
+        ],
+        "exp-candy-l": [
+            "Caramelo Exp. L"
+        ],
+        "exp-candy-xl": [
+            "Caramelo Exp. XL"
+        ],
+        "big-pearl": [
+            "Perla Grande"
+        ],
+        "nugget": [
+            "Pepita"
+        ],
+        "star-piece": [
+            "Trozo Estrella"
+        ],
+        "balm-mushroom": [
+            "Seta Aroma"
+        ],
+        "pearl-string": [
+            "Sarta de Perlas"
+        ],
+        "comet-shard": [
+            "Fragmento Cometa"
+        ],
+        "ability-capsule": [
+            "Cápsula Habilidad"
+        ],
+        "bottle-cap": [
+            "Chapa Plateada"
+        ],
+        "chipped-pot": [
+            "Tetera Rota"
+        ],
+        "clover-sweet": [
+            "Confite Trébol"
+        ],
+        "flower-sweet": [
+            "Confite Flor"
+        ],
+        "electirizer": [
+            "Electrizador"
+        ],
+        "magmarizer": [
+            "Magmatizador"
+        ],
+        "protector": [
+            "Protector"
+        ],
+        "dragon-scale": [
+            "Escama Dragón"
+        ],
+        "metal-alloy": [
+            "Metal Compuesto"
+        ],
+        "upgrade": [
+            "Mejora"
+        ],
+        "dubious-disc": [
+            "Disco Extraño"
+        ],
+        "hp-up": [
+            "Más PS"
+        ],
+        "protein": [
+            "Proteína"
+        ],
+        "iron": [
+            "Hierro"
+        ],
+        "carbos": [
+            "Carburante"
+        ],
+        "calcium": [
+            "Calcio"
+        ],
+        "zinc": [
+            "Zinc"
+        ],
+        "pp-up": [
+            "Más PP"
+        ],
+        "pp-max": [
+            "PP Máximos"
+        ],
+        "exp-candy-s": [
+            "Caramelo Exp. S"
+        ],
+        "exp-candy-m": [
+            "Caramelo Exp. M"
+        ],
+        "pearl": [
+            "Perla"
+        ],
+        "stardust": [
+            "Polvo Estelar"
+        ],
+        "big-bamboo-shoot": [
+            "Bambú Grande"
+        ],
+        "big-mushroom": [
+            "Seta Grande"
+        ],
+        "rare-bone": [
+            "Hueso Raro"
+        ],
+        "metal-coat": [
+            "Revest. Metálico"
+        ],
+        "kings-rock": [
+            "Roca del Rey"
+        ],
+        "razor-claw": [
+            "Garra Afilada"
+        ],
+        "cracked-pot": [
+            "Tetera Agrietada"
+        ],
+        "unremarkable-teacup": [
+            "Cuenco Mediocre"
+        ],
+        "prism-scale": [
+            "Escama Bella"
+        ],
+        "razor-fang": [
+            "Colmillo Agudo"
+        ],
+        "reaper-cloth": [
+            "Tela Terrible"
+        ],
+        "strawberry-sweet": [
+            "Confite Fresa"
+        ],
+        "love-sweet": [
+            "Confite Corazón"
+        ],
+        "berry-sweet": [
+            "Confite Fruto"
+        ],
+        "fairy-feather": [
+            "Pluma Feérica"
+        ],
+        "black-sludge": [
+            "Lodo Negro"
+        ],
+        "scope-lens": [
+            "Periscopio"
+        ],
+        "toxic-orb": [
+            "Toxisfera"
+        ],
+        "flame-orb": [
+            "Llamasfera"
+        ],
+        "metronome": [
+            "Metrónomo"
+        ],
+        "air-balloon": [
+            "Globo Helio"
+        ],
+        "leftovers": [
+            "Restos"
+        ],
+        "light-clay": [
+            "Refleluz"
+        ],
+        "safety-goggles": [
+            "Gafa Protectora"
+        ],
+        "heavy-duty-boots": [
+            "Botas Gruesas"
+        ],
+        "covert-cloak": [
+            "Capa Furtiva"
+        ],
+        "loaded-dice": [
+            "Dado Trucado"
+        ],
+        "focus-band": [
+            "Cinta Aguante"
+        ],
+        "full-restore": [
+            "Restaurar Todo"
+        ],
+        "max-potion": [
+            "Poción Máxima"
+        ],
+        "hyper-potion": [
+            "Hiperpoción"
+        ],
+        "super-potion": [
+            "Superpoción"
+        ],
+        "full-heal": [
+            "Cura Total"
+        ],
+        "revive": [
+            "Revivir"
+        ],
+        "max-revive": [
+            "Revivir Máximo"
+        ],
+        "ether": [
+            "Éter"
+        ],
+        "max-ether": [
+            "Éter Máximo"
+        ],
+        "elixir": [
+            "Elixir"
+        ],
+        "max-elixir": [
+            "Elixir Máximo"
+        ],
+        "exp-candy-xs": [
+            "Caramelo Exp. XS"
+        ],
+        "honey": [
+            "Miel"
+        ],
+        "tiny-mushroom": [
+            "Miniseta"
+        ],
+        "tiny-bamboo-shoot": [
+            "Bambú Pequeño"
+        ],
+        "pretty-feather": [
+            "Pluma Bella"
+        ],
+        "sun-stone": [
+            "Piedra Solar"
+        ],
+        "moon-stone": [
+            "Piedra Lunar"
+        ],
+        "fire-stone": [
+            "Piedra Fuego"
+        ],
+        "thunder-stone": [
+            "Piedra Trueno"
+        ],
+        "water-stone": [
+            "Piedra Agua"
+        ],
+        "leaf-stone": [
+            "Piedra Hoja"
+        ],
+        "shiny-stone": [
+            "Piedra Día"
+        ],
+        "dusk-stone": [
+            "Piedra Noche"
+        ],
+        "dawn-stone": [
+            "Piedra Alba"
+        ],
+        "ice-stone": [
+            "Piedra Hielo"
+        ],
+        "everstone": [
+            "Piedra Eterna"
+        ],
+        "oval-stone": [
+            "Piedra Oval"
+        ],
+        "silver-powder": [
+            "Polvo Plata"
+        ],
+        "soft-sand": [
+            "Arena Fina"
+        ],
+        "hard-stone": [
+            "Piedra Dura"
+        ],
+        "miracle-seed": [
+            "Semilla Milagro"
+        ],
+        "black-glasses": [
+            "Gafas de Sol"
+        ],
+        "black-belt": [
+            "Cinturón Negro"
+        ],
+        "magnet": [
+            "Imán"
+        ],
+        "mystic-water": [
+            "Agua Mística"
+        ],
+        "sharp-beak": [
+            "Pico Afilado"
+        ],
+        "poison-barb": [
+            "Flecha Venenosa"
+        ],
+        "never-melt-ice": [
+            "Antiderretir"
+        ],
+        "spell-tag": [
+            "Hechizo"
+        ],
+        "twisted-spoon": [
+            "Cuchara Torcida"
+        ],
+        "charcoal": [
+            "Carbón"
+        ],
+        "dragon-fang": [
+            "Colmillo Dragón"
+        ],
+        "silk-scarf": [
+            "Pañuelo de Seda"
+        ],
+        "master-ball": [
+            "Master Ball"
+        ],
+        "safari-ball": [
+            "Safari Ball"
+        ],
+        "fast-ball": [
+            "Rapid Ball"
+        ],
+        "level-ball": [
+            "Nivel Ball"
+        ],
+        "lure-ball": [
+            "Cebo Ball"
+        ],
+        "heavy-ball": [
+            "Peso Ball"
+        ],
+        "love-ball": [
+            "Amor Ball"
+        ],
+        "friend-ball": [
+            "Amigo Ball"
+        ],
+        "moon-ball": [
+            "Luna Ball"
+        ],
+        "sport-ball": [
+            "Competi Ball"
+        ],
+        "dream-ball": [
+            "Ensueño Ball"
+        ],
+        "beast-ball": [
+            "Ente Ball"
+        ],
+        "luxury-ball": [
+            "Lujo Ball"
+        ],
+        "ultra-ball": [
+            "Ultra Ball"
+        ],
+        "net-ball": [
+            "Malla Ball"
+        ],
+        "dive-ball": [
+            "Buceo Ball"
+        ],
+        "nest-ball": [
+            "Nido Ball"
+        ],
+        "repeat-ball": [
+            "Acopio Ball"
+        ],
+        "timer-ball": [
+            "Turno Ball"
+        ],
+        "dusk-ball": [
+            "Ocaso Ball"
+        ],
+        "quick-ball": [
+            "Veloz Ball"
+        ],
+        "great-ball": [
+            "Super Ball"
+        ],
+        "heal-ball": [
+            "Sana Ball"
+        ],
+        "poke-ball": [
+            "Poké Ball"
+        ],
+        "premier-ball": [
+            "Honor Ball"
+        ]
+    },
+    "ita": {
+        "big-nugget": [
+            "Granpepita"
+        ],
+        "ability-patch": [
+            "Cerotto abilità"
+        ],
+        "gold-bottle-cap": [
+            "Tappo d’oro"
+        ],
+        "masterpiece-teacup": [
+            "Tazza eccezionale"
+        ],
+        "star-sweet": [
+            "Bonbonstella"
+        ],
+        "ribbon-sweet": [
+            "Bonbonfiocco"
+        ],
+        "lucky-egg": [
+            "Fortunuovo"
+        ],
+        "amulet-coin": [
+            "Monetamuleto"
+        ],
+        "normal-tera-shard": [
+            "Teralite Normale"
+        ],
+        "fire-tera-shard": [
+            "Teralite Fuoco"
+        ],
+        "water-tera-shard": [
+            "Teralite Acqua"
+        ],
+        "electric-tera-shard": [
+            "Teralite Elettro"
+        ],
+        "grass-tera-shard": [
+            "Teralite Erba"
+        ],
+        "ice-tera-shard": [
+            "Teralite Ghiaccio"
+        ],
+        "fighting-tera-shard": [
+            "Teralite Lotta"
+        ],
+        "poison-tera-shard": [
+            "Teralite Veleno"
+        ],
+        "ground-tera-shard": [
+            "Teralite Terra"
+        ],
+        "flying-tera-shard": [
+            "Teralite Volante"
+        ],
+        "psychic-tera-shard": [
+            "Teralite Psico"
+        ],
+        "bug-tera-shard": [
+            "Teralite Coleottero"
+        ],
+        "rock-tera-shard": [
+            "Teralite Roccia"
+        ],
+        "ghost-tera-shard": [
+            "Teralite Spettro"
+        ],
+        "dragon-tera-shard": [
+            "Teralite Drago"
+        ],
+        "dark-tera-shard": [
+            "Teralite Buio"
+        ],
+        "steel-tera-shard": [
+            "Teralite Acciaio"
+        ],
+        "fairy-tera-shard": [
+            "Teralite Folletto"
+        ],
+        "stellar-tera-shard": [
+            "Teralite Astrale"
+        ],
+        "exp-candy-l": [
+            "Caram. esp. L"
+        ],
+        "exp-candy-xl": [
+            "Caram. esp. XL"
+        ],
+        "big-pearl": [
+            "Grande perla"
+        ],
+        "nugget": [
+            "Pepita"
+        ],
+        "star-piece": [
+            "Pezzo stella"
+        ],
+        "balm-mushroom": [
+            "Profumfungo"
+        ],
+        "pearl-string": [
+            "Trittiperla"
+        ],
+        "comet-shard": [
+            "Pezzo cometa"
+        ],
+        "ability-capsule": [
+            "Capsula abilità"
+        ],
+        "bottle-cap": [
+            "Tappo d’argento"
+        ],
+        "chipped-pot": [
+            "Teiera crepata"
+        ],
+        "clover-sweet": [
+            "Bonbonfoglio"
+        ],
+        "flower-sweet": [
+            "Bonbonfiore"
+        ],
+        "electirizer": [
+            "Elettritore"
+        ],
+        "magmarizer": [
+            "Magmatore"
+        ],
+        "protector": [
+            "Copertura"
+        ],
+        "dragon-scale": [
+            "Squama drago"
+        ],
+        "metal-alloy": [
+            "Metallo composito"
+        ],
+        "upgrade": [
+            "Upgrade"
+        ],
+        "dubious-disc": [
+            "Dubbiodisco"
+        ],
+        "hp-up": [
+            "PS-su"
+        ],
+        "protein": [
+            "Proteina"
+        ],
+        "iron": [
+            "Ferro"
+        ],
+        "carbos": [
+            "Carburante"
+        ],
+        "calcium": [
+            "Calcio"
+        ],
+        "zinc": [
+            "Zinco"
+        ],
+        "pp-up": [
+            "PP-su"
+        ],
+        "pp-max": [
+            "PP-max"
+        ],
+        "exp-candy-s": [
+            "Caram. esp. S"
+        ],
+        "exp-candy-m": [
+            "Caram. esp. M"
+        ],
+        "pearl": [
+            "Perla"
+        ],
+        "stardust": [
+            "Polvostella"
+        ],
+        "big-bamboo-shoot": [
+            "Grande bambù"
+        ],
+        "big-mushroom": [
+            "Grande fungo"
+        ],
+        "rare-bone": [
+            "Osso raro"
+        ],
+        "metal-coat": [
+            "Metalcopertura"
+        ],
+        "kings-rock": [
+            "Roccia di re"
+        ],
+        "razor-claw": [
+            "Affilartiglio"
+        ],
+        "cracked-pot": [
+            "Teiera rotta"
+        ],
+        "unremarkable-teacup": [
+            "Tazza dozzinale"
+        ],
+        "prism-scale": [
+            "Squama bella"
+        ],
+        "razor-fang": [
+            "Affilodente"
+        ],
+        "reaper-cloth": [
+            "Terrorpanno"
+        ],
+        "strawberry-sweet": [
+            "Bonbonfragola"
+        ],
+        "love-sweet": [
+            "Bonboncuore"
+        ],
+        "berry-sweet": [
+            "Bonbonbosco"
+        ],
+        "fairy-feather": [
+            "Piuma fatata"
+        ],
+        "black-sludge": [
+            "Fangopece"
+        ],
+        "scope-lens": [
+            "Mirino"
+        ],
+        "toxic-orb": [
+            "Tossicsfera"
+        ],
+        "flame-orb": [
+            "Fiammosfera"
+        ],
+        "metronome": [
+            "Plessimetro"
+        ],
+        "air-balloon": [
+            "Palloncino"
+        ],
+        "leftovers": [
+            "Avanzi"
+        ],
+        "light-clay": [
+            "Creta luce"
+        ],
+        "safety-goggles": [
+            "Visierantisabbia"
+        ],
+        "heavy-duty-boots": [
+            "Scarponi robusti"
+        ],
+        "covert-cloak": [
+            "Anonimanto"
+        ],
+        "loaded-dice": [
+            "Dado truccato"
+        ],
+        "focus-band": [
+            "Bandana"
+        ],
+        "full-restore": [
+            "Ricarica totale"
+        ],
+        "max-potion": [
+            "Pozione max"
+        ],
+        "hyper-potion": [
+            "Iperpozione"
+        ],
+        "super-potion": [
+            "Superpozione"
+        ],
+        "full-heal": [
+            "Cura totale"
+        ],
+        "revive": [
+            "Revitalizzante"
+        ],
+        "max-revive": [
+            "Revitalizzante max"
+        ],
+        "ether": [
+            "Etere"
+        ],
+        "max-ether": [
+            "Etere max"
+        ],
+        "elixir": [
+            "Elisir"
+        ],
+        "max-elixir": [
+            "Elisir max"
+        ],
+        "exp-candy-xs": [
+            "Caram. esp. XS"
+        ],
+        "honey": [
+            "Miele"
+        ],
+        "tiny-mushroom": [
+            "Minifungo"
+        ],
+        "tiny-bamboo-shoot": [
+            "Minibambù"
+        ],
+        "pretty-feather": [
+            "Piumabella"
+        ],
+        "sun-stone": [
+            "Pietrasolare"
+        ],
+        "moon-stone": [
+            "Pietralunare"
+        ],
+        "fire-stone": [
+            "Pietrafocaia"
+        ],
+        "thunder-stone": [
+            "Pietratuono"
+        ],
+        "water-stone": [
+            "Pietraidrica"
+        ],
+        "leaf-stone": [
+            "Pietrafoglia"
+        ],
+        "shiny-stone": [
+            "Pietrabrillo"
+        ],
+        "dusk-stone": [
+            "Neropietra"
+        ],
+        "dawn-stone": [
+            "Pietralbore"
+        ],
+        "ice-stone": [
+            "Pietragelo"
+        ],
+        "everstone": [
+            "Pietrastante"
+        ],
+        "oval-stone": [
+            "Pietraovale"
+        ],
+        "silver-powder": [
+            "Argenpolvere"
+        ],
+        "soft-sand": [
+            "Sabbia soffice"
+        ],
+        "hard-stone": [
+            "Pietradura"
+        ],
+        "miracle-seed": [
+            "Miracolseme"
+        ],
+        "black-glasses": [
+            "Occhialineri"
+        ],
+        "black-belt": [
+            "Cintura nera"
+        ],
+        "magnet": [
+            "Calamita"
+        ],
+        "mystic-water": [
+            "Acqua magica"
+        ],
+        "sharp-beak": [
+            "Beccaffilato"
+        ],
+        "poison-barb": [
+            "Velenaculeo"
+        ],
+        "never-melt-ice": [
+            "Gelomai"
+        ],
+        "spell-tag": [
+            "Spettrotarga"
+        ],
+        "twisted-spoon": [
+            "Cucchiaio torto"
+        ],
+        "charcoal": [
+            "Carbonella"
+        ],
+        "dragon-fang": [
+            "Dente di drago"
+        ],
+        "silk-scarf": [
+            "Sciarpa seta"
+        ],
+        "master-ball": [
+            "Master Ball"
+        ],
+        "safari-ball": [
+            "Safari Ball"
+        ],
+        "fast-ball": [
+            "Rapid Ball"
+        ],
+        "level-ball": [
+            "Level Ball"
+        ],
+        "lure-ball": [
+            "Esca Ball"
+        ],
+        "heavy-ball": [
+            "Peso Ball"
+        ],
+        "love-ball": [
+            "Love Ball"
+        ],
+        "friend-ball": [
+            "Friend Ball"
+        ],
+        "moon-ball": [
+            "Luna Ball"
+        ],
+        "sport-ball": [
+            "Gara Ball"
+        ],
+        "dream-ball": [
+            "Dream Ball"
+        ],
+        "beast-ball": [
+            "UC Ball"
+        ],
+        "luxury-ball": [
+            "Chic Ball"
+        ],
+        "ultra-ball": [
+            "Ultra Ball"
+        ],
+        "net-ball": [
+            "Rete Ball"
+        ],
+        "dive-ball": [
+            "Sub Ball"
+        ],
+        "nest-ball": [
+            "Minor Ball"
+        ],
+        "repeat-ball": [
+            "Bis Ball"
+        ],
+        "timer-ball": [
+            "Timer Ball"
+        ],
+        "dusk-ball": [
+            "Scuro Ball"
+        ],
+        "quick-ball": [
+            "Velox Ball"
+        ],
+        "great-ball": [
+            "Mega Ball"
+        ],
+        "heal-ball": [
+            "Cura Ball"
+        ],
+        "poke-ball": [
+            "Poké Ball"
+        ],
+        "premier-ball": [
+            "Premier Ball"
+        ]
+    },
+    "fra": {
+        "big-nugget": [
+            "Maxi Pépite"
+        ],
+        "ability-patch": [
+            "Patch Talent"
+        ],
+        "gold-bottle-cap": [
+            "Capsule d’Or"
+        ],
+        "masterpiece-teacup": [
+            "Bol Exceptionnel"
+        ],
+        "star-sweet": [
+            "Étoile en Sucre"
+        ],
+        "ribbon-sweet": [
+            "Ruban en Sucre"
+        ],
+        "lucky-egg": [
+            "Œuf Chance"
+        ],
+        "amulet-coin": [
+            "Pièce Rune"
+        ],
+        "normal-tera-shard": [
+            "Téra-Éclat Normal"
+        ],
+        "fire-tera-shard": [
+            "Téra-Éclat Feu"
+        ],
+        "water-tera-shard": [
+            "Téra-Éclat Eau"
+        ],
+        "electric-tera-shard": [
+            "Téra-Éclat Électrik"
+        ],
+        "grass-tera-shard": [
+            "Téra-Éclat Plante"
+        ],
+        "ice-tera-shard": [
+            "Téra-Éclat Glace"
+        ],
+        "fighting-tera-shard": [
+            "Téra-Éclat Combat"
+        ],
+        "poison-tera-shard": [
+            "Téra-Éclat Poison"
+        ],
+        "ground-tera-shard": [
+            "Téra-Éclat Sol"
+        ],
+        "flying-tera-shard": [
+            "Téra-Éclat Vol"
+        ],
+        "psychic-tera-shard": [
+            "Téra-Éclat Psy"
+        ],
+        "bug-tera-shard": [
+            "Téra-Éclat Insecte"
+        ],
+        "rock-tera-shard": [
+            "Téra-Éclat Roche"
+        ],
+        "ghost-tera-shard": [
+            "Téra-Éclat Spectre"
+        ],
+        "dragon-tera-shard": [
+            "Téra-Éclat Dragon"
+        ],
+        "dark-tera-shard": [
+            "Téra-Éclat Ténèbres"
+        ],
+        "steel-tera-shard": [
+            "Téra-Éclat Acier"
+        ],
+        "fairy-tera-shard": [
+            "Téra-Éclat Fée"
+        ],
+        "stellar-tera-shard": [
+            "Téra-Éclat Stellaire"
+        ],
+        "exp-candy-l": [
+            "Bonbon Exp. L"
+        ],
+        "exp-candy-xl": [
+            "Bonbon Exp. XL"
+        ],
+        "big-pearl": [
+            "Grande Perle"
+        ],
+        "nugget": [
+            "Pépite"
+        ],
+        "star-piece": [
+            "Morceau d’Étoile"
+        ],
+        "balm-mushroom": [
+            "Champi Suave"
+        ],
+        "pearl-string": [
+            "Perle Triple"
+        ],
+        "comet-shard": [
+            "Morceau Comète"
+        ],
+        "ability-capsule": [
+            "Pilule Talent"
+        ],
+        "bottle-cap": [
+            "Capsule d’Argent"
+        ],
+        "chipped-pot": [
+            "Théière Ébréchée"
+        ],
+        "clover-sweet": [
+            "Trèfle en Sucre"
+        ],
+        "flower-sweet": [
+            "Fleur en Sucre"
+        ],
+        "electirizer": [
+            "Électriseur"
+        ],
+        "magmarizer": [
+            "Magmariseur"
+        ],
+        "protector": [
+            "Protecteur"
+        ],
+        "dragon-scale": [
+            "Écaille Draco"
+        ],
+        "metal-alloy": [
+            "Métal Composite"
+        ],
+        "upgrade": [
+            "Améliorator"
+        ],
+        "dubious-disc": [
+            "CD Douteux"
+        ],
+        "hp-up": [
+            "PV Plus"
+        ],
+        "protein": [
+            "Protéine"
+        ],
+        "iron": [
+            "Fer"
+        ],
+        "carbos": [
+            "Carbone"
+        ],
+        "calcium": [
+            "Calcium"
+        ],
+        "zinc": [
+            "Zinc"
+        ],
+        "pp-up": [
+            "PP Plus"
+        ],
+        "pp-max": [
+            "PP Max"
+        ],
+        "exp-candy-s": [
+            "Bonbon Exp. S"
+        ],
+        "exp-candy-m": [
+            "Bonbon Exp. M"
+        ],
+        "pearl": [
+            "Perle"
+        ],
+        "stardust": [
+            "Poussière Étoile"
+        ],
+        "big-bamboo-shoot": [
+            "Gros Bambou"
+        ],
+        "big-mushroom": [
+            "Gros Champi"
+        ],
+        "rare-bone": [
+            "Os Rare"
+        ],
+        "metal-coat": [
+            "Peau Métal"
+        ],
+        "kings-rock": [
+            "Roche Royale"
+        ],
+        "razor-claw": [
+            "Griffe Rasoir"
+        ],
+        "cracked-pot": [
+            "Théière Fêlée"
+        ],
+        "unremarkable-teacup": [
+            "Bol Médiocre"
+        ],
+        "prism-scale": [
+            "Bel’Écaille"
+        ],
+        "razor-fang": [
+            "Croc Rasoir"
+        ],
+        "reaper-cloth": [
+            "Tissu Fauche"
+        ],
+        "strawberry-sweet": [
+            "Fraise en Sucre"
+        ],
+        "love-sweet": [
+            "Cœur en Sucre"
+        ],
+        "berry-sweet": [
+            "Baie en Sucre"
+        ],
+        "fairy-feather": [
+            "Plume Enchantée"
+        ],
+        "black-sludge": [
+            "Boue Noire"
+        ],
+        "scope-lens": [
+            "Lentilscope"
+        ],
+        "toxic-orb": [
+            "Orbe Toxique"
+        ],
+        "flame-orb": [
+            "Orbe Flamme"
+        ],
+        "metronome": [
+            "Métronome"
+        ],
+        "air-balloon": [
+            "Ballon"
+        ],
+        "leftovers": [
+            "Restes"
+        ],
+        "light-clay": [
+            "Lumargile"
+        ],
+        "safety-goggles": [
+            "Lunettes Filtre"
+        ],
+        "heavy-duty-boots": [
+            "Grosses Bottes"
+        ],
+        "covert-cloak": [
+            "Cape Obscure"
+        ],
+        "loaded-dice": [
+            "Dé Pipé"
+        ],
+        "focus-band": [
+            "Bandeau"
+        ],
+        "full-restore": [
+            "Guérison"
+        ],
+        "max-potion": [
+            "Potion Max"
+        ],
+        "hyper-potion": [
+            "Hyper Potion"
+        ],
+        "super-potion": [
+            "Super Potion"
+        ],
+        "full-heal": [
+            "Total Soin"
+        ],
+        "revive": [
+            "Rappel"
+        ],
+        "max-revive": [
+            "Rappel Max"
+        ],
+        "ether": [
+            "Huile"
+        ],
+        "max-ether": [
+            "Huile Max"
+        ],
+        "elixir": [
+            "Élixir"
+        ],
+        "max-elixir": [
+            "Élixir Max"
+        ],
+        "exp-candy-xs": [
+            "Bonbon Exp. XS"
+        ],
+        "honey": [
+            "Miel"
+        ],
+        "tiny-mushroom": [
+            "Petit Champi"
+        ],
+        "tiny-bamboo-shoot": [
+            "Petit Bambou"
+        ],
+        "pretty-feather": [
+            "Jolie Plume"
+        ],
+        "sun-stone": [
+            "Pierre Soleil"
+        ],
+        "moon-stone": [
+            "Pierre Lune"
+        ],
+        "fire-stone": [
+            "Pierre Feu"
+        ],
+        "thunder-stone": [
+            "Pierre Foudre"
+        ],
+        "water-stone": [
+            "Pierre Eau"
+        ],
+        "leaf-stone": [
+            "Pierre Plante"
+        ],
+        "shiny-stone": [
+            "Pierre Éclat"
+        ],
+        "dusk-stone": [
+            "Pierre Nuit"
+        ],
+        "dawn-stone": [
+            "Pierre Aube"
+        ],
+        "ice-stone": [
+            "Pierre Glace"
+        ],
+        "everstone": [
+            "Pierre Stase"
+        ],
+        "oval-stone": [
+            "Pierre Ovale"
+        ],
+        "silver-powder": [
+            "Poudre Argentée"
+        ],
+        "soft-sand": [
+            "Sable Doux"
+        ],
+        "hard-stone": [
+            "Pierre Dure"
+        ],
+        "miracle-seed": [
+            "Graine Miracle"
+        ],
+        "black-glasses": [
+            "Lunettes Noires"
+        ],
+        "black-belt": [
+            "Ceinture Noire"
+        ],
+        "magnet": [
+            "Aimant"
+        ],
+        "mystic-water": [
+            "Eau Mystique"
+        ],
+        "sharp-beak": [
+            "Bec Pointu"
+        ],
+        "poison-barb": [
+            "Pic Venin"
+        ],
+        "never-melt-ice": [
+            "Glace Éternelle"
+        ],
+        "spell-tag": [
+            "Rune Sort"
+        ],
+        "twisted-spoon": [
+            "Cuillère Tordue"
+        ],
+        "charcoal": [
+            "Charbon"
+        ],
+        "dragon-fang": [
+            "Croc Dragon"
+        ],
+        "silk-scarf": [
+            "Mouchoir Soie"
+        ],
+        "master-ball": [
+            "Master Ball"
+        ],
+        "safari-ball": [
+            "Safari Ball"
+        ],
+        "fast-ball": [
+            "Speed Ball"
+        ],
+        "level-ball": [
+            "Niveau Ball"
+        ],
+        "lure-ball": [
+            "Appât Ball"
+        ],
+        "heavy-ball": [
+            "Masse Ball"
+        ],
+        "love-ball": [
+            "Love Ball"
+        ],
+        "friend-ball": [
+            "Copain Ball"
+        ],
+        "moon-ball": [
+            "Lune Ball"
+        ],
+        "sport-ball": [
+            "Compét’Ball"
+        ],
+        "dream-ball": [
+            "Rêve Ball"
+        ],
+        "beast-ball": [
+            "Ultra Ball"
+        ],
+        "luxury-ball": [
+            "Luxe Ball"
+        ],
+        "ultra-ball": [
+            "Hyper Ball"
+        ],
+        "net-ball": [
+            "Filet Ball"
+        ],
+        "dive-ball": [
+            "Scuba Ball"
+        ],
+        "nest-ball": [
+            "Faiblo Ball"
+        ],
+        "repeat-ball": [
+            "Bis Ball"
+        ],
+        "timer-ball": [
+            "Chrono Ball"
+        ],
+        "dusk-ball": [
+            "Sombre Ball"
+        ],
+        "quick-ball": [
+            "Rapide Ball"
+        ],
+        "great-ball": [
+            "Super Ball"
+        ],
+        "heal-ball": [
+            "Soin Ball"
+        ],
+        "poke-ball": [
+            "Poké Ball"
+        ],
+        "premier-ball": [
+            "Honor Ball"
+        ]
+    },
+    "deu": {
+        "big-nugget": [
+            "Riesennugget"
+        ],
+        "ability-patch": [
+            "Fähigkeiten-Pflaster"
+        ],
+        "gold-bottle-cap": [
+            "Goldkronkorken"
+        ],
+        "masterpiece-teacup": [
+            "Edle Teeschale"
+        ],
+        "star-sweet": [
+            "Zucker-Stern"
+        ],
+        "ribbon-sweet": [
+            "Zucker-Schleife"
+        ],
+        "lucky-egg": [
+            "Glücks-Ei"
+        ],
+        "amulet-coin": [
+            "Münzamulett"
+        ],
+        "normal-tera-shard": [
+            "Tera-Stück (Normal)"
+        ],
+        "fire-tera-shard": [
+            "Tera-Stück (Feuer)"
+        ],
+        "water-tera-shard": [
+            "Tera-Stück (Wasser)"
+        ],
+        "electric-tera-shard": [
+            "Tera-Stück (Elektro)"
+        ],
+        "grass-tera-shard": [
+            "Tera-Stück (Pflanze)"
+        ],
+        "ice-tera-shard": [
+            "Tera-Stück (Eis)"
+        ],
+        "fighting-tera-shard": [
+            "Tera-Stück (Kampf)"
+        ],
+        "poison-tera-shard": [
+            "Tera-Stück (Gift)"
+        ],
+        "ground-tera-shard": [
+            "Tera-Stück (Boden)"
+        ],
+        "flying-tera-shard": [
+            "Tera-Stück (Flug)"
+        ],
+        "psychic-tera-shard": [
+            "Tera-Stück (Psycho)"
+        ],
+        "bug-tera-shard": [
+            "Tera-Stück (Käfer)"
+        ],
+        "rock-tera-shard": [
+            "Tera-Stück (Gestein)"
+        ],
+        "ghost-tera-shard": [
+            "Tera-Stück (Geist)"
+        ],
+        "dragon-tera-shard": [
+            "Tera-Stück (Drache)"
+        ],
+        "dark-tera-shard": [
+            "Tera-Stück (Unlicht)"
+        ],
+        "steel-tera-shard": [
+            "Tera-Stück (Stahl)"
+        ],
+        "fairy-tera-shard": [
+            "Tera-Stück (Fee)"
+        ],
+        "stellar-tera-shard": [
+            "Tera-Stück (Stellar)"
+        ],
+        "exp-candy-l": [
+            "EP-Bonbon L"
+        ],
+        "exp-candy-xl": [
+            "EP-Bonbon XL"
+        ],
+        "big-pearl": [
+            "Riesenperle"
+        ],
+        "nugget": [
+            "Nugget"
+        ],
+        "star-piece": [
+            "Sternenstück"
+        ],
+        "balm-mushroom": [
+            "Duftpilz"
+        ],
+        "pearl-string": [
+            "Triperle"
+        ],
+        "comet-shard": [
+            "Kometstück"
+        ],
+        "ability-capsule": [
+            "Fähigkeiten-Kapsel"
+        ],
+        "bottle-cap": [
+            "Silberkronkorken"
+        ],
+        "chipped-pot": [
+            "Löchrige Kanne"
+        ],
+        "clover-sweet": [
+            "Zucker-Kleeblatt"
+        ],
+        "flower-sweet": [
+            "Zucker-Blume"
+        ],
+        "electirizer": [
+            "Stromisierer"
+        ],
+        "magmarizer": [
+            "Magmaisierer"
+        ],
+        "protector": [
+            "Schützer"
+        ],
+        "dragon-scale": [
+            "Drachenschuppe"
+        ],
+        "metal-alloy": [
+            "Legierungsmetall"
+        ],
+        "upgrade": [
+            "Upgrade"
+        ],
+        "dubious-disc": [
+            "Dubiosdisc"
+        ],
+        "hp-up": [
+            "KP-Plus"
+        ],
+        "protein": [
+            "Protein"
+        ],
+        "iron": [
+            "Eisen"
+        ],
+        "carbos": [
+            "Carbon"
+        ],
+        "calcium": [
+            "Kalzium"
+        ],
+        "zinc": [
+            "Zink"
+        ],
+        "pp-up": [
+            "AP-Plus"
+        ],
+        "pp-max": [
+            "AP-Top"
+        ],
+        "exp-candy-s": [
+            "EP-Bonbon S"
+        ],
+        "exp-candy-m": [
+            "EP-Bonbon M"
+        ],
+        "pearl": [
+            "Perle"
+        ],
+        "stardust": [
+            "Sternenstaub"
+        ],
+        "big-bamboo-shoot": [
+            "Riesenbambusspross"
+        ],
+        "big-mushroom": [
+            "Riesenpilz"
+        ],
+        "rare-bone": [
+            "Steinknochen"
+        ],
+        "metal-coat": [
+            "Metallmantel"
+        ],
+        "kings-rock": [
+            "King-Stein"
+        ],
+        "razor-claw": [
+            "Scharfklaue"
+        ],
+        "cracked-pot": [
+            "Rissige Kanne"
+        ],
+        "unremarkable-teacup": [
+            "Simple Teeschale"
+        ],
+        "prism-scale": [
+            "Schönschuppe"
+        ],
+        "razor-fang": [
+            "Scharfzahn"
+        ],
+        "reaper-cloth": [
+            "Düsterumhang"
+        ],
+        "strawberry-sweet": [
+            "Zucker-Erdbeere"
+        ],
+        "love-sweet": [
+            "Zucker-Herz"
+        ],
+        "berry-sweet": [
+            "Zucker-Beere"
+        ],
+        "fairy-feather": [
+            "Feendaune"
+        ],
+        "black-sludge": [
+            "Giftschleim"
+        ],
+        "scope-lens": [
+            "Scope-Linse"
+        ],
+        "toxic-orb": [
+            "Toxik-Orb"
+        ],
+        "flame-orb": [
+            "Heiß-Orb"
+        ],
+        "metronome": [
+            "Metronom"
+        ],
+        "air-balloon": [
+            "Luftballon"
+        ],
+        "leftovers": [
+            "Überreste"
+        ],
+        "light-clay": [
+            "Lichtlehm"
+        ],
+        "safety-goggles": [
+            "Schutzbrille"
+        ],
+        "heavy-duty-boots": [
+            "Plateauschuhe"
+        ],
+        "covert-cloak": [
+            "Tarnumhang"
+        ],
+        "loaded-dice": [
+            "Gezinkter Würfel"
+        ],
+        "focus-band": [
+            "Fokusband"
+        ],
+        "full-restore": [
+            "Top-Genesung"
+        ],
+        "max-potion": [
+            "Top-Trank"
+        ],
+        "hyper-potion": [
+            "Hypertrank"
+        ],
+        "super-potion": [
+            "Supertrank"
+        ],
+        "full-heal": [
+            "Hyperheiler"
+        ],
+        "revive": [
+            "Beleber"
+        ],
+        "max-revive": [
+            "Top-Beleber"
+        ],
+        "ether": [
+            "Äther"
+        ],
+        "max-ether": [
+            "Top-Äther"
+        ],
+        "elixir": [
+            "Elixier"
+        ],
+        "max-elixir": [
+            "Top-Elixier"
+        ],
+        "exp-candy-xs": [
+            "EP-Bonbon XS"
+        ],
+        "honey": [
+            "Honig"
+        ],
+        "tiny-mushroom": [
+            "Minipilz"
+        ],
+        "tiny-bamboo-shoot": [
+            "Minibambusspross"
+        ],
+        "pretty-feather": [
+            "Prachtfeder"
+        ],
+        "sun-stone": [
+            "Sonnenstein"
+        ],
+        "moon-stone": [
+            "Mondstein"
+        ],
+        "fire-stone": [
+            "Feuerstein"
+        ],
+        "thunder-stone": [
+            "Donnerstein"
+        ],
+        "water-stone": [
+            "Wasserstein"
+        ],
+        "leaf-stone": [
+            "Blattstein"
+        ],
+        "shiny-stone": [
+            "Leuchtstein"
+        ],
+        "dusk-stone": [
+            "Finsterstein"
+        ],
+        "dawn-stone": [
+            "Funkelstein"
+        ],
+        "ice-stone": [
+            "Eisstein"
+        ],
+        "everstone": [
+            "Ewigstein"
+        ],
+        "oval-stone": [
+            "Ovaler Stein"
+        ],
+        "silver-powder": [
+            "Silberstaub"
+        ],
+        "soft-sand": [
+            "Pudersand"
+        ],
+        "hard-stone": [
+            "Granitstein"
+        ],
+        "miracle-seed": [
+            "Wundersaat"
+        ],
+        "black-glasses": [
+            "Schattenbrille"
+        ],
+        "black-belt": [
+            "Schwarzgurt"
+        ],
+        "magnet": [
+            "Magnet"
+        ],
+        "mystic-water": [
+            "Zauberwasser"
+        ],
+        "sharp-beak": [
+            "Spitzer Schnabel"
+        ],
+        "poison-barb": [
+            "Giftstich"
+        ],
+        "never-melt-ice": [
+            "Ewiges Eis"
+        ],
+        "spell-tag": [
+            "Bannsticker"
+        ],
+        "twisted-spoon": [
+            "Krummlöffel"
+        ],
+        "charcoal": [
+            "Holzkohle"
+        ],
+        "dragon-fang": [
+            "Drachenzahn"
+        ],
+        "silk-scarf": [
+            "Seidenschal"
+        ],
+        "master-ball": [
+            "Meisterball"
+        ],
+        "safari-ball": [
+            "Safariball"
+        ],
+        "fast-ball": [
+            "Turboball"
+        ],
+        "level-ball": [
+            "Levelball"
+        ],
+        "lure-ball": [
+            "Köderball"
+        ],
+        "heavy-ball": [
+            "Schwerball"
+        ],
+        "love-ball": [
+            "Sympaball"
+        ],
+        "friend-ball": [
+            "Freundesball"
+        ],
+        "moon-ball": [
+            "Mondball"
+        ],
+        "sport-ball": [
+            "Turnierball"
+        ],
+        "dream-ball": [
+            "Traumball"
+        ],
+        "beast-ball": [
+            "Ultraball"
+        ],
+        "luxury-ball": [
+            "Luxusball"
+        ],
+        "ultra-ball": [
+            "Hyperball"
+        ],
+        "net-ball": [
+            "Netzball"
+        ],
+        "dive-ball": [
+            "Tauchball"
+        ],
+        "nest-ball": [
+            "Nestball"
+        ],
+        "repeat-ball": [
+            "Wiederball"
+        ],
+        "timer-ball": [
+            "Timerball"
+        ],
+        "dusk-ball": [
+            "Finsterball"
+        ],
+        "quick-ball": [
+            "Flottball"
+        ],
+        "great-ball": [
+            "Superball"
+        ],
+        "heal-ball": [
+            "Heilball"
+        ],
+        "poke-ball": [
+            "Pokéball"
+        ],
+        "premier-ball": [
+            "Premierball"
+        ]
+    },
+    "jpn": {
+        "big-nugget": [
+            "でかいきんのたま"
+        ],
+        "ability-patch": [
+            "とくせいパッチ"
+        ],
+        "gold-bottle-cap": [
+            "きんのおうかん"
+        ],
+        "masterpiece-teacup": [
+            "ケッサクのちゃわん"
+        ],
+        "star-sweet": [
+            "スターアメざいく"
+        ],
+        "ribbon-sweet": [
+            "リボンアメざいく"
+        ],
+        "lucky-egg": [
+            "しあわせタマゴ"
+        ],
+        "amulet-coin": [
+            "おまもりこばん"
+        ],
+        "normal-tera-shard": [
+            "テラピースノーマル"
+        ],
+        "fire-tera-shard": [
+            "テラピースほのお"
+        ],
+        "water-tera-shard": [
+            "テラピースみず"
+        ],
+        "electric-tera-shard": [
+            "テラピースでんき"
+        ],
+        "grass-tera-shard": [
+            "テラピースくさ"
+        ],
+        "ice-tera-shard": [
+            "テラピースこおり"
+        ],
+        "fighting-tera-shard": [
+            "テラピースかくとう"
+        ],
+        "poison-tera-shard": [
+            "テラピースどく"
+        ],
+        "ground-tera-shard": [
+            "テラピースじめん"
+        ],
+        "flying-tera-shard": [
+            "テラピースひこう"
+        ],
+        "psychic-tera-shard": [
+            "テラピースエスパー"
+        ],
+        "bug-tera-shard": [
+            "テラピースむし"
+        ],
+        "rock-tera-shard": [
+            "テラピースいわ"
+        ],
+        "ghost-tera-shard": [
+            "テラピースゴースト"
+        ],
+        "dragon-tera-shard": [
+            "テラピースドラゴン"
+        ],
+        "dark-tera-shard": [
+            "テラピースあく"
+        ],
+        "steel-tera-shard": [
+            "テラピースはがね"
+        ],
+        "fairy-tera-shard": [
+            "テラピースフェアリー"
+        ],
+        "stellar-tera-shard": [
+            "テラピースステラ"
+        ],
+        "exp-candy-l": [
+            "けいけんアメＬ"
+        ],
+        "exp-candy-xl": [
+            "けいけんアメＸＬ"
+        ],
+        "big-pearl": [
+            "おおきなしんじゅ"
+        ],
+        "nugget": [
+            "きんのたま"
+        ],
+        "star-piece": [
+            "ほしのかけら"
+        ],
+        "balm-mushroom": [
+            "かおるキノコ"
+        ],
+        "pearl-string": [
+            "おだんごしんじゅ"
+        ],
+        "comet-shard": [
+            "すいせいのかけら"
+        ],
+        "ability-capsule": [
+            "とくせいカプセル"
+        ],
+        "bottle-cap": [
+            "ぎんのおうかん"
+        ],
+        "chipped-pot": [
+            "かけたポット"
+        ],
+        "clover-sweet": [
+            "よつばアメざいく"
+        ],
+        "flower-sweet": [
+            "おはなアメざいく"
+        ],
+        "electirizer": [
+            "エレキブースター"
+        ],
+        "magmarizer": [
+            "マグマブースター"
+        ],
+        "protector": [
+            "プロテクター"
+        ],
+        "dragon-scale": [
+            "りゅうのウロコ"
+        ],
+        "metal-alloy": [
+            "ふくごうきんぞく"
+        ],
+        "upgrade": [
+            "アップグレード"
+        ],
+        "dubious-disc": [
+            "あやしいパッチ"
+        ],
+        "hp-up": [
+            "マックスアップ"
+        ],
+        "protein": [
+            "タウリン"
+        ],
+        "iron": [
+            "ブロムヘキシン"
+        ],
+        "carbos": [
+            "インドメタシン"
+        ],
+        "calcium": [
+            "リゾチウム"
+        ],
+        "zinc": [
+            "キトサン"
+        ],
+        "pp-up": [
+            "ポイントアップ"
+        ],
+        "pp-max": [
+            "ポイントマックス"
+        ],
+        "exp-candy-s": [
+            "けいけんアメＳ"
+        ],
+        "exp-candy-m": [
+            "けいけんアメＭ"
+        ],
+        "pearl": [
+            "しんじゅ"
+        ],
+        "stardust": [
+            "ほしのすな"
+        ],
+        "big-bamboo-shoot": [
+            "おおきなタケノコ"
+        ],
+        "big-mushroom": [
+            "おおきなキノコ"
+        ],
+        "rare-bone": [
+            "きちょうなホネ"
+        ],
+        "metal-coat": [
+            "メタルコート"
+        ],
+        "kings-rock": [
+            "おうじゃのしるし"
+        ],
+        "razor-claw": [
+            "するどいツメ"
+        ],
+        "cracked-pot": [
+            "われたポット"
+        ],
+        "unremarkable-teacup": [
+            "ボンサクのちゃわん"
+        ],
+        "prism-scale": [
+            "きれいなウロコ"
+        ],
+        "razor-fang": [
+            "するどいキバ"
+        ],
+        "reaper-cloth": [
+            "れいかいのぬの"
+        ],
+        "strawberry-sweet": [
+            "いちごアメざいく"
+        ],
+        "love-sweet": [
+            "ハートアメざいく"
+        ],
+        "berry-sweet": [
+            "ベリーアメざいく"
+        ],
+        "fairy-feather": [
+            "ようせいのハネ"
+        ],
+        "black-sludge": [
+            "くろいヘドロ"
+        ],
+        "scope-lens": [
+            "ピントレンズ"
+        ],
+        "toxic-orb": [
+            "どくどくだま"
+        ],
+        "flame-orb": [
+            "かえんだま"
+        ],
+        "metronome": [
+            "メトロノーム"
+        ],
+        "air-balloon": [
+            "ふうせん"
+        ],
+        "leftovers": [
+            "たべのこし"
+        ],
+        "light-clay": [
+            "ひかりのねんど"
+        ],
+        "safety-goggles": [
+            "ぼうじんゴーグル"
+        ],
+        "heavy-duty-boots": [
+            "あつぞこブーツ"
+        ],
+        "covert-cloak": [
+            "おんみつマント"
+        ],
+        "loaded-dice": [
+            "いかさまダイス"
+        ],
+        "focus-band": [
+            "きあいのハチマキ"
+        ],
+        "full-restore": [
+            "かいふくのくすり"
+        ],
+        "max-potion": [
+            "まんたんのくすり"
+        ],
+        "hyper-potion": [
+            "すごいキズぐすり"
+        ],
+        "super-potion": [
+            "いいキズぐすり"
+        ],
+        "full-heal": [
+            "なんでもなおし"
+        ],
+        "revive": [
+            "げんきのかけら"
+        ],
+        "max-revive": [
+            "げんきのかたまり"
+        ],
+        "ether": [
+            "ピーピーエイド"
+        ],
+        "max-ether": [
+            "ピーピーリカバー"
+        ],
+        "elixir": [
+            "ピーピーエイダー"
+        ],
+        "max-elixir": [
+            "ピーピーマックス"
+        ],
+        "exp-candy-xs": [
+            "けいけんアメＸＳ"
+        ],
+        "honey": [
+            "あまいミツ"
+        ],
+        "tiny-mushroom": [
+            "ちいさなキノコ"
+        ],
+        "tiny-bamboo-shoot": [
+            "ちいさなタケノコ"
+        ],
+        "pretty-feather": [
+            "きれいなハネ"
+        ],
+        "sun-stone": [
+            "たいようのいし"
+        ],
+        "moon-stone": [
+            "つきのいし"
+        ],
+        "fire-stone": [
+            "ほのおのいし"
+        ],
+        "thunder-stone": [
+            "かみなりのいし"
+        ],
+        "water-stone": [
+            "みずのいし"
+        ],
+        "leaf-stone": [
+            "リーフのいし"
+        ],
+        "shiny-stone": [
+            "ひかりのいし"
+        ],
+        "dusk-stone": [
+            "やみのいし"
+        ],
+        "dawn-stone": [
+            "めざめいし"
+        ],
+        "ice-stone": [
+            "こおりのいし"
+        ],
+        "everstone": [
+            "かわらずのいし"
+        ],
+        "oval-stone": [
+            "まんまるいし"
+        ],
+        "silver-powder": [
+            "ぎんのこな"
+        ],
+        "soft-sand": [
+            "やわらかいすな"
+        ],
+        "hard-stone": [
+            "かたいいし"
+        ],
+        "miracle-seed": [
+            "きせきのタネ"
+        ],
+        "black-glasses": [
+            "くろいメガネ"
+        ],
+        "black-belt": [
+            "くろおび"
+        ],
+        "magnet": [
+            "じしゃく"
+        ],
+        "mystic-water": [
+            "しんぴのしずく"
+        ],
+        "sharp-beak": [
+            "するどいくちばし"
+        ],
+        "poison-barb": [
+            "どくバリ"
+        ],
+        "never-melt-ice": [
+            "とけないこおり"
+        ],
+        "spell-tag": [
+            "のろいのおふだ"
+        ],
+        "twisted-spoon": [
+            "まがったスプーン"
+        ],
+        "charcoal": [
+            "もくたん"
+        ],
+        "dragon-fang": [
+            "りゅうのキバ"
+        ],
+        "silk-scarf": [
+            "シルクのスカーフ"
+        ],
+        "master-ball": [
+            "マスターボール"
+        ],
+        "safari-ball": [
+            "サファリボール"
+        ],
+        "fast-ball": [
+            "スピードボール"
+        ],
+        "level-ball": [
+            "レベルボール"
+        ],
+        "lure-ball": [
+            "ルアーボール"
+        ],
+        "heavy-ball": [
+            "ヘビーボール"
+        ],
+        "love-ball": [
+            "ラブラブボール"
+        ],
+        "friend-ball": [
+            "フレンドボール"
+        ],
+        "moon-ball": [
+            "ムーンボール"
+        ],
+        "sport-ball": [
+            "コンペボール"
+        ],
+        "dream-ball": [
+            "ドリームボール"
+        ],
+        "beast-ball": [
+            "ウルトラボール"
+        ],
+        "luxury-ball": [
+            "ゴージャスボール"
+        ],
+        "ultra-ball": [
+            "ハイパーボール"
+        ],
+        "net-ball": [
+            "ネットボール"
+        ],
+        "dive-ball": [
+            "ダイブボール"
+        ],
+        "nest-ball": [
+            "ネストボール"
+        ],
+        "repeat-ball": [
+            "リピートボール"
+        ],
+        "timer-ball": [
+            "タイマーボール"
+        ],
+        "dusk-ball": [
+            "ダークボール"
+        ],
+        "quick-ball": [
+            "クイックボール"
+        ],
+        "great-ball": [
+            "スーパーボール"
+        ],
+        "heal-ball": [
+            "ヒールボール"
+        ],
+        "poke-ball": [
+            "モンスターボール"
+        ],
+        "premier-ball": [
+            "プレミアボール"
+        ]
+    },
+    "kor": {
+        "big-nugget": [
+            "큰금구슬"
+        ],
+        "ability-patch": [
+            "특성패치"
+        ],
+        "gold-bottle-cap": [
+            "금색병뚜껑"
+        ],
+        "masterpiece-teacup": [
+            "걸작찻잔"
+        ],
+        "star-sweet": [
+            "스타사탕공예"
+        ],
+        "ribbon-sweet": [
+            "리본사탕공예"
+        ],
+        "lucky-egg": [
+            "행복의알"
+        ],
+        "amulet-coin": [
+            "부적금화"
+        ],
+        "normal-tera-shard": [
+            "테라피스 노말"
+        ],
+        "fire-tera-shard": [
+            "테라피스 불꽃"
+        ],
+        "water-tera-shard": [
+            "테라피스 물"
+        ],
+        "electric-tera-shard": [
+            "테라피스 전기"
+        ],
+        "grass-tera-shard": [
+            "테라피스 풀"
+        ],
+        "ice-tera-shard": [
+            "테라피스 얼음"
+        ],
+        "fighting-tera-shard": [
+            "테라피스 격투"
+        ],
+        "poison-tera-shard": [
+            "테라피스 독"
+        ],
+        "ground-tera-shard": [
+            "테라피스 땅"
+        ],
+        "flying-tera-shard": [
+            "테라피스 비행"
+        ],
+        "psychic-tera-shard": [
+            "테라피스 에스퍼"
+        ],
+        "bug-tera-shard": [
+            "테라피스 벌레"
+        ],
+        "rock-tera-shard": [
+            "테라피스 바위"
+        ],
+        "ghost-tera-shard": [
+            "테라피스 고스트"
+        ],
+        "dragon-tera-shard": [
+            "테라피스 드래곤"
+        ],
+        "dark-tera-shard": [
+            "테라피스 악"
+        ],
+        "steel-tera-shard": [
+            "테라피스 강철"
+        ],
+        "fairy-tera-shard": [
+            "테라피스 페어리"
+        ],
+        "stellar-tera-shard": [
+            "테라피스 스텔라"
+        ],
+        "exp-candy-l": [
+            "경험사탕L"
+        ],
+        "exp-candy-xl": [
+            "경험사탕XL"
+        ],
+        "big-pearl": [
+            "큰진주"
+        ],
+        "nugget": [
+            "금구슬"
+        ],
+        "star-piece": [
+            "별의조각"
+        ],
+        "balm-mushroom": [
+            "향기버섯"
+        ],
+        "pearl-string": [
+            "경단진주"
+        ],
+        "comet-shard": [
+            "혜성조각"
+        ],
+        "ability-capsule": [
+            "특성캡슐"
+        ],
+        "bottle-cap": [
+            "은색병뚜껑"
+        ],
+        "chipped-pot": [
+            "이빠진포트"
+        ],
+        "clover-sweet": [
+            "네잎사탕공예"
+        ],
+        "flower-sweet": [
+            "꽃사탕공예"
+        ],
+        "electirizer": [
+            "에레키부스터"
+        ],
+        "magmarizer": [
+            "마그마부스터"
+        ],
+        "protector": [
+            "프로텍터"
+        ],
+        "dragon-scale": [
+            "용의비늘"
+        ],
+        "metal-alloy": [
+            "복합금속"
+        ],
+        "upgrade": [
+            "업그레이드"
+        ],
+        "dubious-disc": [
+            "괴상한패치"
+        ],
+        "hp-up": [
+            "맥스업"
+        ],
+        "protein": [
+            "타우린"
+        ],
+        "iron": [
+            "사포닌"
+        ],
+        "carbos": [
+            "알칼로이드"
+        ],
+        "calcium": [
+            "리보플라빈"
+        ],
+        "zinc": [
+            "키토산"
+        ],
+        "pp-up": [
+            "포인트업"
+        ],
+        "pp-max": [
+            "포인트맥스"
+        ],
+        "exp-candy-s": [
+            "경험사탕S"
+        ],
+        "exp-candy-m": [
+            "경험사탕M"
+        ],
+        "pearl": [
+            "진주"
+        ],
+        "stardust": [
+            "별의모래"
+        ],
+        "big-bamboo-shoot": [
+            "큰죽순"
+        ],
+        "big-mushroom": [
+            "큰버섯"
+        ],
+        "rare-bone": [
+            "귀중한뼈"
+        ],
+        "metal-coat": [
+            "금속코트"
+        ],
+        "kings-rock": [
+            "왕의징표석"
+        ],
+        "razor-claw": [
+            "예리한손톱"
+        ],
+        "cracked-pot": [
+            "깨진포트"
+        ],
+        "unremarkable-teacup": [
+            "범작찻잔"
+        ],
+        "prism-scale": [
+            "고운비늘"
+        ],
+        "razor-fang": [
+            "예리한이빨"
+        ],
+        "reaper-cloth": [
+            "영계의천"
+        ],
+        "strawberry-sweet": [
+            "딸기사탕공예"
+        ],
+        "love-sweet": [
+            "하트사탕공예"
+        ],
+        "berry-sweet": [
+            "베리사탕공예"
+        ],
+        "fairy-feather": [
+            "요정의깃털"
+        ],
+        "black-sludge": [
+            "검은오물"
+        ],
+        "scope-lens": [
+            "초점렌즈"
+        ],
+        "toxic-orb": [
+            "맹독구슬"
+        ],
+        "flame-orb": [
+            "화염구슬"
+        ],
+        "metronome": [
+            "메트로놈"
+        ],
+        "air-balloon": [
+            "풍선"
+        ],
+        "leftovers": [
+            "먹다남은음식"
+        ],
+        "light-clay": [
+            "빛의점토"
+        ],
+        "safety-goggles": [
+            "방진고글"
+        ],
+        "heavy-duty-boots": [
+            "통굽부츠"
+        ],
+        "covert-cloak": [
+            "은밀망토"
+        ],
+        "loaded-dice": [
+            "속임수주사위"
+        ],
+        "focus-band": [
+            "기합의머리띠"
+        ],
+        "full-restore": [
+            "회복약"
+        ],
+        "max-potion": [
+            "풀회복약"
+        ],
+        "hyper-potion": [
+            "고급상처약"
+        ],
+        "super-potion": [
+            "좋은상처약"
+        ],
+        "full-heal": [
+            "만병통치제"
+        ],
+        "revive": [
+            "기력의조각"
+        ],
+        "max-revive": [
+            "기력의덩어리"
+        ],
+        "ether": [
+            "PP에이드"
+        ],
+        "max-ether": [
+            "PP회복"
+        ],
+        "elixir": [
+            "PP에이더"
+        ],
+        "max-elixir": [
+            "PP맥스"
+        ],
+        "exp-candy-xs": [
+            "경험사탕XS"
+        ],
+        "honey": [
+            "달콤한꿀"
+        ],
+        "tiny-mushroom": [
+            "작은버섯"
+        ],
+        "tiny-bamboo-shoot": [
+            "작은죽순"
+        ],
+        "pretty-feather": [
+            "고운깃털"
+        ],
+        "sun-stone": [
+            "태양의돌"
+        ],
+        "moon-stone": [
+            "달의돌"
+        ],
+        "fire-stone": [
+            "불꽃의돌"
+        ],
+        "thunder-stone": [
+            "천둥의돌"
+        ],
+        "water-stone": [
+            "물의돌"
+        ],
+        "leaf-stone": [
+            "리프의돌"
+        ],
+        "shiny-stone": [
+            "빛의돌"
+        ],
+        "dusk-stone": [
+            "어둠의돌"
+        ],
+        "dawn-stone": [
+            "각성의돌"
+        ],
+        "ice-stone": [
+            "얼음의돌"
+        ],
+        "everstone": [
+            "변함없는돌"
+        ],
+        "oval-stone": [
+            "동글동글돌"
+        ],
+        "silver-powder": [
+            "은빛가루"
+        ],
+        "soft-sand": [
+            "부드러운모래"
+        ],
+        "hard-stone": [
+            "딱딱한돌"
+        ],
+        "miracle-seed": [
+            "기적의씨"
+        ],
+        "black-glasses": [
+            "검은안경"
+        ],
+        "black-belt": [
+            "검은띠"
+        ],
+        "magnet": [
+            "자석"
+        ],
+        "mystic-water": [
+            "신비의물방울"
+        ],
+        "sharp-beak": [
+            "예리한부리"
+        ],
+        "poison-barb": [
+            "독바늘"
+        ],
+        "never-melt-ice": [
+            "녹지않는얼음"
+        ],
+        "spell-tag": [
+            "저주의부적"
+        ],
+        "twisted-spoon": [
+            "휘어진스푼"
+        ],
+        "charcoal": [
+            "목탄"
+        ],
+        "dragon-fang": [
+            "용의이빨"
+        ],
+        "silk-scarf": [
+            "실크스카프"
+        ],
+        "master-ball": [
+            "마스터볼"
+        ],
+        "safari-ball": [
+            "사파리볼"
+        ],
+        "fast-ball": [
+            "스피드볼"
+        ],
+        "level-ball": [
+            "레벨볼"
+        ],
+        "lure-ball": [
+            "루어볼"
+        ],
+        "heavy-ball": [
+            "헤비볼"
+        ],
+        "love-ball": [
+            "러브러브볼"
+        ],
+        "friend-ball": [
+            "프렌드볼"
+        ],
+        "moon-ball": [
+            "문볼"
+        ],
+        "sport-ball": [
+            "컴퍼티션볼"
+        ],
+        "dream-ball": [
+            "드림볼"
+        ],
+        "beast-ball": [
+            "울트라볼"
+        ],
+        "luxury-ball": [
+            "럭셔리볼"
+        ],
+        "ultra-ball": [
+            "하이퍼볼"
+        ],
+        "net-ball": [
+            "네트볼"
+        ],
+        "dive-ball": [
+            "다이브볼"
+        ],
+        "nest-ball": [
+            "네스트볼"
+        ],
+        "repeat-ball": [
+            "리피트볼"
+        ],
+        "timer-ball": [
+            "타이머볼"
+        ],
+        "dusk-ball": [
+            "다크볼"
+        ],
+        "quick-ball": [
+            "퀵볼"
+        ],
+        "great-ball": [
+            "슈퍼볼"
+        ],
+        "heal-ball": [
+            "힐볼"
+        ],
+        "poke-ball": [
+            "몬스터볼"
+        ],
+        "premier-ball": [
+            "프리미어볼"
+        ]
+    },
+    "chi_tra": {
+        "big-nugget": [
+            "巨大金珠"
+        ],
+        "ability-patch": [
+            "特性膏藥"
+        ],
+        "gold-bottle-cap": [
+            "金色王冠"
+        ],
+        "masterpiece-teacup": [
+            "傑作茶碗"
+        ],
+        "star-sweet": [
+            "星星糖飾"
+        ],
+        "ribbon-sweet": [
+            "蝴蝶結糖飾"
+        ],
+        "lucky-egg": [
+            "幸運蛋"
+        ],
+        "amulet-coin": [
+            "護符金幣"
+        ],
+        "normal-tera-shard": [
+            "一般太晶碎塊"
+        ],
+        "fire-tera-shard": [
+            "火太晶碎塊"
+        ],
+        "water-tera-shard": [
+            "水太晶碎塊"
+        ],
+        "electric-tera-shard": [
+            "電太晶碎塊"
+        ],
+        "grass-tera-shard": [
+            "草太晶碎塊"
+        ],
+        "ice-tera-shard": [
+            "冰太晶碎塊"
+        ],
+        "fighting-tera-shard": [
+            "格鬥太晶碎塊"
+        ],
+        "poison-tera-shard": [
+            "毒太晶碎塊"
+        ],
+        "ground-tera-shard": [
+            "地面太晶碎塊"
+        ],
+        "flying-tera-shard": [
+            "飛行太晶碎塊"
+        ],
+        "psychic-tera-shard": [
+            "超能力太晶碎塊"
+        ],
+        "bug-tera-shard": [
+            "蟲太晶碎塊"
+        ],
+        "rock-tera-shard": [
+            "岩石太晶碎塊"
+        ],
+        "ghost-tera-shard": [
+            "幽靈太晶碎塊"
+        ],
+        "dragon-tera-shard": [
+            "龍太晶碎塊"
+        ],
+        "dark-tera-shard": [
+            "惡太晶碎塊"
+        ],
+        "steel-tera-shard": [
+            "鋼太晶碎塊"
+        ],
+        "fairy-tera-shard": [
+            "妖精太晶碎塊"
+        ],
+        "stellar-tera-shard": [
+            "星晶太晶碎塊"
+        ],
+        "exp-candy-l": [
+            "經驗糖果Ｌ"
+        ],
+        "exp-candy-xl": [
+            "經驗糖果ＸＬ"
+        ],
+        "big-pearl": [
+            "大珍珠"
+        ],
+        "nugget": [
+            "金珠"
+        ],
+        "star-piece": [
+            "星星碎片"
+        ],
+        "balm-mushroom": [
+            "芳香蘑菇"
+        ],
+        "pearl-string": [
+            "丸子珍珠"
+        ],
+        "comet-shard": [
+            "彗星碎片"
+        ],
+        "ability-capsule": [
+            "特性膠囊"
+        ],
+        "bottle-cap": [
+            "銀色王冠"
+        ],
+        "chipped-pot": [
+            "缺損的茶壺"
+        ],
+        "clover-sweet": [
+            "幸運草糖飾"
+        ],
+        "flower-sweet": [
+            "花朵糖飾"
+        ],
+        "electirizer": [
+            "電力增幅器"
+        ],
+        "magmarizer": [
+            "熔岩增幅器"
+        ],
+        "protector": [
+            "護具"
+        ],
+        "dragon-scale": [
+            "龍之鱗片"
+        ],
+        "metal-alloy": [
+            "複合金屬"
+        ],
+        "upgrade": [
+            "升級資料"
+        ],
+        "dubious-disc": [
+            "可疑修正檔"
+        ],
+        "hp-up": [
+            "ＨＰ增強劑"
+        ],
+        "protein": [
+            "攻擊增強劑"
+        ],
+        "iron": [
+            "防禦增強劑"
+        ],
+        "carbos": [
+            "速度增強劑"
+        ],
+        "calcium": [
+            "特攻增強劑"
+        ],
+        "zinc": [
+            "特防增強劑"
+        ],
+        "pp-up": [
+            "ＰＰ提升劑"
+        ],
+        "pp-max": [
+            "ＰＰ極限提升劑"
+        ],
+        "exp-candy-s": [
+            "經驗糖果Ｓ"
+        ],
+        "exp-candy-m": [
+            "經驗糖果Ｍ"
+        ],
+        "pearl": [
+            "珍珠"
+        ],
+        "stardust": [
+            "星星沙子"
+        ],
+        "big-bamboo-shoot": [
+            "大竹筍"
+        ],
+        "big-mushroom": [
+            "大蘑菇"
+        ],
+        "rare-bone": [
+            "貴重骨頭"
+        ],
+        "metal-coat": [
+            "金屬膜"
+        ],
+        "kings-rock": [
+            "王者之證"
+        ],
+        "razor-claw": [
+            "銳利之爪"
+        ],
+        "cracked-pot": [
+            "破裂的茶壺"
+        ],
+        "unremarkable-teacup": [
+            "凡作茶碗"
+        ],
+        "prism-scale": [
+            "美麗鱗片"
+        ],
+        "razor-fang": [
+            "銳利之牙"
+        ],
+        "reaper-cloth": [
+            "靈界之布"
+        ],
+        "strawberry-sweet": [
+            "草莓糖飾"
+        ],
+        "love-sweet": [
+            "愛心糖飾"
+        ],
+        "berry-sweet": [
+            "野莓糖飾"
+        ],
+        "fairy-feather": [
+            "妖精之羽"
+        ],
+        "black-sludge": [
+            "黑色污泥"
+        ],
+        "scope-lens": [
+            "焦點鏡"
+        ],
+        "toxic-orb": [
+            "劇毒寶珠"
+        ],
+        "flame-orb": [
+            "火焰寶珠"
+        ],
+        "metronome": [
+            "節拍器"
+        ],
+        "air-balloon": [
+            "氣球"
+        ],
+        "leftovers": [
+            "吃剩的東西"
+        ],
+        "light-clay": [
+            "光之黏土"
+        ],
+        "safety-goggles": [
+            "防塵護目鏡"
+        ],
+        "heavy-duty-boots": [
+            "厚底靴"
+        ],
+        "covert-cloak": [
+            "密探斗篷"
+        ],
+        "loaded-dice": [
+            "老千骰子"
+        ],
+        "focus-band": [
+            "氣勢頭帶"
+        ],
+        "full-restore": [
+            "全復藥"
+        ],
+        "max-potion": [
+            "全滿藥"
+        ],
+        "hyper-potion": [
+            "厲害傷藥"
+        ],
+        "super-potion": [
+            "好傷藥"
+        ],
+        "full-heal": [
+            "萬靈藥"
+        ],
+        "revive": [
+            "活力碎片"
+        ],
+        "max-revive": [
+            "活力塊"
+        ],
+        "ether": [
+            "ＰＰ單項小補劑"
+        ],
+        "max-ether": [
+            "ＰＰ單項全補劑"
+        ],
+        "elixir": [
+            "ＰＰ多項小補劑"
+        ],
+        "max-elixir": [
+            "ＰＰ多項全補劑"
+        ],
+        "exp-candy-xs": [
+            "經驗糖果ＸＳ"
+        ],
+        "honey": [
+            "甜甜蜜"
+        ],
+        "tiny-mushroom": [
+            "小蘑菇"
+        ],
+        "tiny-bamboo-shoot": [
+            "小竹筍"
+        ],
+        "pretty-feather": [
+            "美麗之羽"
+        ],
+        "sun-stone": [
+            "日之石"
+        ],
+        "moon-stone": [
+            "月之石"
+        ],
+        "fire-stone": [
+            "火之石"
+        ],
+        "thunder-stone": [
+            "雷之石"
+        ],
+        "water-stone": [
+            "水之石"
+        ],
+        "leaf-stone": [
+            "葉之石"
+        ],
+        "shiny-stone": [
+            "光之石"
+        ],
+        "dusk-stone": [
+            "暗之石"
+        ],
+        "dawn-stone": [
+            "覺醒之石"
+        ],
+        "ice-stone": [
+            "冰之石"
+        ],
+        "everstone": [
+            "不變之石"
+        ],
+        "oval-stone": [
+            "渾圓之石"
+        ],
+        "silver-powder": [
+            "銀粉"
+        ],
+        "soft-sand": [
+            "柔軟沙子"
+        ],
+        "hard-stone": [
+            "硬石頭"
+        ],
+        "miracle-seed": [
+            "奇跡種子"
+        ],
+        "black-glasses": [
+            "黑色眼鏡"
+        ],
+        "black-belt": [
+            "黑帶"
+        ],
+        "magnet": [
+            "磁鐵"
+        ],
+        "mystic-water": [
+            "神秘水滴"
+        ],
+        "sharp-beak": [
+            "銳利鳥嘴"
+        ],
+        "poison-barb": [
+            "毒針"
+        ],
+        "never-melt-ice": [
+            "不融冰"
+        ],
+        "spell-tag": [
+            "詛咒之符"
+        ],
+        "twisted-spoon": [
+            "彎曲的湯匙"
+        ],
+        "charcoal": [
+            "木炭"
+        ],
+        "dragon-fang": [
+            "龍之牙"
+        ],
+        "silk-scarf": [
+            "絲綢圍巾"
+        ],
+        "master-ball": [
+            "大師球"
+        ],
+        "safari-ball": [
+            "狩獵球"
+        ],
+        "fast-ball": [
+            "速度球"
+        ],
+        "level-ball": [
+            "等級球"
+        ],
+        "lure-ball": [
+            "誘餌球"
+        ],
+        "heavy-ball": [
+            "沉重球"
+        ],
+        "love-ball": [
+            "甜蜜球"
+        ],
+        "friend-ball": [
+            "友友球"
+        ],
+        "moon-ball": [
+            "月亮球"
+        ],
+        "sport-ball": [
+            "競賽球"
+        ],
+        "dream-ball": [
+            "夢境球"
+        ],
+        "beast-ball": [
+            "究極球"
+        ],
+        "luxury-ball": [
+            "豪華球"
+        ],
+        "ultra-ball": [
+            "高級球"
+        ],
+        "net-ball": [
+            "捕網球"
+        ],
+        "dive-ball": [
+            "潛水球"
+        ],
+        "nest-ball": [
+            "巢穴球"
+        ],
+        "repeat-ball": [
+            "重複球"
+        ],
+        "timer-ball": [
+            "計時球"
+        ],
+        "dusk-ball": [
+            "黑暗球"
+        ],
+        "quick-ball": [
+            "先機球"
+        ],
+        "great-ball": [
+            "超級球"
+        ],
+        "heal-ball": [
+            "治癒球"
+        ],
+        "poke-ball": [
+            "精靈球"
+        ],
+        "premier-ball": [
+            "紀念球"
+        ]
+    },
+    "chi_sim": {
+        "big-nugget": [
+            "巨大金珠"
+        ],
+        "ability-patch": [
+            "特性膏药"
+        ],
+        "gold-bottle-cap": [
+            "金色王冠"
+        ],
+        "masterpiece-teacup": [
+            "杰作茶碗"
+        ],
+        "star-sweet": [
+            "星星糖饰"
+        ],
+        "ribbon-sweet": [
+            "蝴蝶结糖饰"
+        ],
+        "lucky-egg": [
+            "幸运蛋"
+        ],
+        "amulet-coin": [
+            "护符金币"
+        ],
+        "normal-tera-shard": [
+            "一般太晶碎块"
+        ],
+        "fire-tera-shard": [
+            "火太晶碎块"
+        ],
+        "water-tera-shard": [
+            "水太晶碎块"
+        ],
+        "electric-tera-shard": [
+            "电太晶碎块"
+        ],
+        "grass-tera-shard": [
+            "草太晶碎块"
+        ],
+        "ice-tera-shard": [
+            "冰太晶碎块"
+        ],
+        "fighting-tera-shard": [
+            "格斗太晶碎块"
+        ],
+        "poison-tera-shard": [
+            "毒太晶碎块"
+        ],
+        "ground-tera-shard": [
+            "地面太晶碎块"
+        ],
+        "flying-tera-shard": [
+            "飞行太晶碎块"
+        ],
+        "psychic-tera-shard": [
+            "超能力太晶碎块"
+        ],
+        "bug-tera-shard": [
+            "虫太晶碎块"
+        ],
+        "rock-tera-shard": [
+            "岩石太晶碎块"
+        ],
+        "ghost-tera-shard": [
+            "幽灵太晶碎块"
+        ],
+        "dragon-tera-shard": [
+            "龙太晶碎块"
+        ],
+        "dark-tera-shard": [
+            "恶太晶碎块"
+        ],
+        "steel-tera-shard": [
+            "钢太晶碎块"
+        ],
+        "fairy-tera-shard": [
+            "妖精太晶碎块"
+        ],
+        "stellar-tera-shard": [
+            "星晶太晶碎块"
+        ],
+        "exp-candy-l": [
+            "经验糖果Ｌ"
+        ],
+        "exp-candy-xl": [
+            "经验糖果ＸＬ"
+        ],
+        "big-pearl": [
+            "大珍珠"
+        ],
+        "nugget": [
+            "金珠"
+        ],
+        "star-piece": [
+            "星星碎片"
+        ],
+        "balm-mushroom": [
+            "芳香蘑菇"
+        ],
+        "pearl-string": [
+            "丸子珍珠"
+        ],
+        "comet-shard": [
+            "彗星碎片"
+        ],
+        "ability-capsule": [
+            "特性胶囊"
+        ],
+        "bottle-cap": [
+            "银色王冠"
+        ],
+        "chipped-pot": [
+            "缺损的茶壶"
+        ],
+        "clover-sweet": [
+            "幸运草糖饰"
+        ],
+        "flower-sweet": [
+            "花朵糖饰"
+        ],
+        "electirizer": [
+            "电力增幅器"
+        ],
+        "magmarizer": [
+            "熔岩增幅器"
+        ],
+        "protector": [
+            "护具"
+        ],
+        "dragon-scale": [
+            "龙之鳞片"
+        ],
+        "metal-alloy": [
+            "复合金属"
+        ],
+        "upgrade": [
+            "升级数据"
+        ],
+        "dubious-disc": [
+            "可疑补丁"
+        ],
+        "hp-up": [
+            "ＨＰ增强剂"
+        ],
+        "protein": [
+            "攻击增强剂"
+        ],
+        "iron": [
+            "防御增强剂"
+        ],
+        "carbos": [
+            "速度增强剂"
+        ],
+        "calcium": [
+            "特攻增强剂"
+        ],
+        "zinc": [
+            "特防增强剂"
+        ],
+        "pp-up": [
+            "ＰＰ提升剂"
+        ],
+        "pp-max": [
+            "ＰＰ极限提升剂"
+        ],
+        "exp-candy-s": [
+            "经验糖果Ｓ"
+        ],
+        "exp-candy-m": [
+            "经验糖果Ｍ"
+        ],
+        "pearl": [
+            "珍珠"
+        ],
+        "stardust": [
+            "星星沙子"
+        ],
+        "big-bamboo-shoot": [
+            "大竹笋"
+        ],
+        "big-mushroom": [
+            "大蘑菇"
+        ],
+        "rare-bone": [
+            "贵重骨头"
+        ],
+        "metal-coat": [
+            "金属膜"
+        ],
+        "kings-rock": [
+            "王者之证"
+        ],
+        "razor-claw": [
+            "锐利之爪"
+        ],
+        "cracked-pot": [
+            "破裂的茶壶"
+        ],
+        "unremarkable-teacup": [
+            "凡作茶碗"
+        ],
+        "prism-scale": [
+            "美丽鳞片"
+        ],
+        "razor-fang": [
+            "锐利之牙"
+        ],
+        "reaper-cloth": [
+            "灵界之布"
+        ],
+        "strawberry-sweet": [
+            "草莓糖饰"
+        ],
+        "love-sweet": [
+            "爱心糖饰"
+        ],
+        "berry-sweet": [
+            "野莓糖饰"
+        ],
+        "fairy-feather": [
+            "妖精之羽"
+        ],
+        "black-sludge": [
+            "黑色污泥"
+        ],
+        "scope-lens": [
+            "焦点镜"
+        ],
+        "toxic-orb": [
+            "剧毒宝珠"
+        ],
+        "flame-orb": [
+            "火焰宝珠"
+        ],
+        "metronome": [
+            "节拍器"
+        ],
+        "air-balloon": [
+            "气球"
+        ],
+        "leftovers": [
+            "吃剩的东西"
+        ],
+        "light-clay": [
+            "光之黏土"
+        ],
+        "safety-goggles": [
+            "防尘护目镜"
+        ],
+        "heavy-duty-boots": [
+            "厚底靴"
+        ],
+        "covert-cloak": [
+            "密探斗篷"
+        ],
+        "loaded-dice": [
+            "机变骰子"
+        ],
+        "focus-band": [
+            "气势头带"
+        ],
+        "full-restore": [
+            "全复药"
+        ],
+        "max-potion": [
+            "全满药"
+        ],
+        "hyper-potion": [
+            "厉害伤药"
+        ],
+        "super-potion": [
+            "好伤药"
+        ],
+        "full-heal": [
+            "万灵药"
+        ],
+        "revive": [
+            "活力碎片"
+        ],
+        "max-revive": [
+            "活力块"
+        ],
+        "ether": [
+            "ＰＰ单项小补剂"
+        ],
+        "max-ether": [
+            "ＰＰ单项全补剂"
+        ],
+        "elixir": [
+            "ＰＰ多项小补剂"
+        ],
+        "max-elixir": [
+            "ＰＰ多项全补剂"
+        ],
+        "exp-candy-xs": [
+            "经验糖果ＸＳ"
+        ],
+        "honey": [
+            "甜甜蜜"
+        ],
+        "tiny-mushroom": [
+            "小蘑菇"
+        ],
+        "tiny-bamboo-shoot": [
+            "小竹笋"
+        ],
+        "pretty-feather": [
+            "美丽之羽"
+        ],
+        "sun-stone": [
+            "日之石"
+        ],
+        "moon-stone": [
+            "月之石"
+        ],
+        "fire-stone": [
+            "火之石"
+        ],
+        "thunder-stone": [
+            "雷之石"
+        ],
+        "water-stone": [
+            "水之石"
+        ],
+        "leaf-stone": [
+            "叶之石"
+        ],
+        "shiny-stone": [
+            "光之石"
+        ],
+        "dusk-stone": [
+            "暗之石"
+        ],
+        "dawn-stone": [
+            "觉醒之石"
+        ],
+        "ice-stone": [
+            "冰之石"
+        ],
+        "everstone": [
+            "不变之石"
+        ],
+        "oval-stone": [
+            "浑圆之石"
+        ],
+        "silver-powder": [
+            "银粉"
+        ],
+        "soft-sand": [
+            "柔软沙子"
+        ],
+        "hard-stone": [
+            "硬石头"
+        ],
+        "miracle-seed": [
+            "奇迹种子"
+        ],
+        "black-glasses": [
+            "黑色眼镜"
+        ],
+        "black-belt": [
+            "黑带"
+        ],
+        "magnet": [
+            "磁铁"
+        ],
+        "mystic-water": [
+            "神秘水滴"
+        ],
+        "sharp-beak": [
+            "锐利鸟嘴"
+        ],
+        "poison-barb": [
+            "毒针"
+        ],
+        "never-melt-ice": [
+            "不融冰"
+        ],
+        "spell-tag": [
+            "咒术之符"
+        ],
+        "twisted-spoon": [
+            "弯曲的汤匙"
+        ],
+        "charcoal": [
+            "木炭"
+        ],
+        "dragon-fang": [
+            "龙之牙"
+        ],
+        "silk-scarf": [
+            "丝绸围巾"
+        ],
+        "master-ball": [
+            "大师球"
+        ],
+        "safari-ball": [
+            "狩猎球"
+        ],
+        "fast-ball": [
+            "速度球"
+        ],
+        "level-ball": [
+            "等级球"
+        ],
+        "lure-ball": [
+            "诱饵球"
+        ],
+        "heavy-ball": [
+            "沉重球"
+        ],
+        "love-ball": [
+            "甜蜜球"
+        ],
+        "friend-ball": [
+            "友友球"
+        ],
+        "moon-ball": [
+            "月亮球"
+        ],
+        "sport-ball": [
+            "竞赛球"
+        ],
+        "dream-ball": [
+            "梦境球"
+        ],
+        "beast-ball": [
+            "究极球"
+        ],
+        "luxury-ball": [
+            "豪华球"
+        ],
+        "ultra-ball": [
+            "高级球"
+        ],
+        "net-ball": [
+            "捕网球"
+        ],
+        "dive-ball": [
+            "潜水球"
+        ],
+        "nest-ball": [
+            "巢穴球"
+        ],
+        "repeat-ball": [
+            "重复球"
+        ],
+        "timer-ball": [
+            "计时球"
+        ],
+        "dusk-ball": [
+            "黑暗球"
+        ],
+        "quick-ball": [
+            "先机球"
+        ],
+        "great-ball": [
+            "超级球"
+        ],
+        "heal-ball": [
+            "治愈球"
+        ],
+        "poke-ball": [
+            "精灵球"
+        ],
+        "premier-ball": [
+            "纪念球"
+        ]
+    }
+}
