@@ -1,0 +1,64 @@
+﻿{
+    "chi_sim": {
+        "ditto-goo": [ "百变怪的黏糊" ],
+        "happiny-dust": [ "小福蛋的掉落物" ],
+        "magby-hair": [ "鸭嘴宝宝的毛" ],
+        "beldum-claw": [ "铁哑铃的爪子" ]
+    },
+
+    "chi_tra": {
+        "ditto-goo": [ "百變怪的黏糊" ],
+        "happiny-dust": [ "小福蛋的掉落物" ],
+        "magby-hair": [ "鴨嘴寶寶的毛" ],
+        "beldum-claw": [ "鐵啞鈴的爪子" ]
+    },
+
+    "deu": {
+        "ditto-goo": [ "Ditto-Glibber" ],
+        "happiny-dust": [ "Säckchen Wonneira-Material" ],
+        "magby-hair": [ "Magby-Haar" ],
+        "beldum-claw": [ "Tanhel-Kralle" ]
+    },
+
+    "eng": {
+        "ditto-goo": [ "Ditto Goo" ],
+        "happiny-dust": [ "Happiny Dust" ],
+        "magby-hair": [ "Magby Hair" ],
+        "beldum-claw": [ "Beldum Claw" ]
+    },
+
+    "fra": {
+        "ditto-goo": [ "Substance de Métamorph" ],
+        "happiny-dust": [ "Babiole de Ptiravi" ],
+        "magby-hair": [ "Poils de Magby" ],
+        "beldum-claw": [ "Griffe de Terhal" ]
+    },
+
+    "ita": {
+        "ditto-goo": [ "Appiccicume di Ditto" ],
+        "happiny-dust": [ "Oggetto di Happiny" ],
+        "magby-hair": [ "Pelo di Magby" ],
+        "beldum-claw": [ "Artiglio di Beldum" ]
+    },
+
+    "jpn": {
+        "ditto-goo": [ "メタモンのべたべた" ],
+        "happiny-dust": [ "ピンプクのおとしもの" ],
+        "magby-hair": [ "ブビィのけ" ],
+        "beldum-claw": [ "ダンバルのツメ" ]
+    },
+
+    "kor": {
+        "ditto-goo": [ "메타몽의끈끈이" ],
+        "happiny-dust": [ "핑복의유실물" ],
+        "magby-hair": [ "마그비의털" ],
+        "beldum-claw": [ "메탕의발톱" ]
+    },
+
+    "spa": {
+        "ditto-goo": [ "Pegote de Ditto" ],
+        "happiny-dust": [ "Pertenencia de Happiny" ],
+        "magby-hair": [ "Pelo de Magby" ],
+        "beldum-claw": [ "Garra de Beldum" ]
+    }
+}
