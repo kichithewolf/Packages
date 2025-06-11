@@ -1,0 +1,6 @@
+torchic-male, torchic-female
+sinistea-phony, sinistea-antique
+polteageist-phony, polteageist-antique
+poltchageist-counterfeit, poltchageist-artisan
+sinistcha-unremarkable, sinistcha-masterpiece
+appletun-gmax, flapple-gmax
