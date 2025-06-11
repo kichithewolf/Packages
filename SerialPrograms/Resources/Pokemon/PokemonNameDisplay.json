@@ -11185,5 +11185,29 @@
         "kor": "오거폰",
         "chi_sim": "厄诡椪",
         "chi_tra": "厄鬼椪"
+    },
+    "archaludon": {
+        "eng": "Archaludon"
+    },
+    "hydrapple": {
+        "eng": "Hydrapple"
+    },
+    "gouging-fire": {
+        "eng": "Gouging Fire"
+    },
+    "raging-bolt": {
+        "eng": "Raging Bolt"
+    },
+    "iron-boulder": {
+        "eng": "Iron Boulder"
+    },
+    "iron-crown": {
+        "eng": "Iron Crown"
+    },
+    "terapagos": {
+        "eng": "Terapagos"
+    },
+    "pecharunt": {
+        "eng": "Pecharunt"
     }
 }
