@@ -11187,27 +11187,91 @@
         "chi_tra": "厄鬼椪"
     },
     "archaludon": {
-        "eng": "Archaludon"
+        "eng": "Archaludon",
+        "jpn": "ブリジュラス",
+        "spa": "Archaludon",
+        "fra": "Pondralugon",
+        "deu": "Briduradon",
+        "ita": "Archaludon",
+        "kor": "브리두라스",
+        "chi_sim": "铝钢桥龙",
+        "chi_tra": "鋁鋼橋龍"
     },
     "hydrapple": {
-        "eng": "Hydrapple"
+        "eng": "Hydrapple",
+        "jpn": "カミツオロチ",
+        "spa": "Hydrapple",
+        "fra": "Pomdorochi",
+        "deu": "Hydrapfel",
+        "ita": "Hydrapple",
+        "kor": "과미드라",
+        "chi_sim": "蜜集大蛇",
+        "chi_tra": "蜜集大蛇"
     },
     "gouging-fire": {
-        "eng": "Gouging Fire"
+        "eng": "Gouging Fire",
+        "jpn": "ウガツホムラ",
+        "spa": "Flamariete",
+        "fra": "Feu-Perçant",
+        "deu": "Keilflamme",
+        "ita": "Vampeaguzze",
+        "kor": "꿰뚫는화염",
+        "chi_sim": "破空焰",
+        "chi_tra": "破空焰"
     },
     "raging-bolt": {
-        "eng": "Raging Bolt"
+        "eng": "Raging Bolt",
+        "jpn": "タケルライコ",
+        "spa": "Electrofuria",
+        "fra": "Ire-Foudre",
+        "deu": "Furienblitz",
+        "ita": "Furiatonante",
+        "kor": "날뛰는우레",
+        "chi_sim": "猛雷鼓",
+        "chi_tra": "猛雷鼓"
     },
     "iron-boulder": {
-        "eng": "Iron Boulder"
+        "eng": "Iron Boulder",
+        "jpn": "テツノイワオ",
+        "spa": "Ferromole",
+        "fra": "Roc-de-Fer",
+        "deu": "Eisenfels",
+        "ita": "Massoferreo",
+        "kor": "무쇠암석",
+        "chi_sim": "铁磐岩",
+        "chi_tra": "鐵磐岩"
     },
     "iron-crown": {
-        "eng": "Iron Crown"
+        "eng": "Iron Crown",
+        "jpn": "テツノカシラ",
+        "spa": "Ferrotesta",
+        "fra": "Chef-de-Fer",
+        "deu": "Eisenhaupt",
+        "ita": "Capoferreo",
+        "kor": "무쇠감투",
+        "chi_sim": "铁头壳",
+        "chi_tra": "鐵頭殼"
     },
     "terapagos": {
-        "eng": "Terapagos"
+        "eng": "Terapagos",
+        "jpn": "テラパゴス",
+        "spa": "Terapagos",
+        "fra": "Terapagos",
+        "deu": "Terapagos",
+        "ita": "Terapagos",
+        "kor": "테라파고스",
+        "chi_sim": "太乐巴戈斯",
+        "chi_tra": "太樂巴戈斯"
     },
     "pecharunt": {
-        "eng": "Pecharunt"
+        "eng": "Pecharunt",
+        "jpn": "モモワロウ",
+        "spa": "Pecharunt",
+        "fra": "Pêchaminus",
+        "deu": "Infamomo",
+        "ita": "Pecharunt",
+        "kor": "복숭악동",
+        "chi_sim": "桃歹郎",
+        "chi_tra": "桃歹郎"
     }
 }
