@@ -115,8 +115,8 @@ def replace_form_with_new_forms(base_form: str, new_forms: str | List[str]):
 
 
 current_path: Path = Path(os.getcwd())
-git_root_dir: str = get_package_root_dir(current_path)
-pokemon_dir: str = os.path.join(git_root_dir, "SerialPrograms/Resources/Pokemon")
+package_root_dir: str = get_package_root_dir(current_path)
+pokemon_dir: str = os.path.join(package_root_dir, "SerialPrograms/Resources/Pokemon")
 
 # Load pokemon national dex
 pokedex_json_path: str = os.path.join(pokemon_dir, "Pokedex/Pokedex-National.json")

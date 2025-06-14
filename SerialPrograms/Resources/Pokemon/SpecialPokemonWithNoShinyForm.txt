@@ -1,0 +1,9 @@
+pikachu-alola-cap
+pikachu-hoenn-cap
+pikachu-kalos-cap
+pikachu-original-cap
+pikachu-partner-cap
+pikachu-sinnoh-cap
+pikachu-unova-cap
+pikachu-world-cap
+floette-eternal-flower
