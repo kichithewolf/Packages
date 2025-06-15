@@ -80,10 +80,13 @@ print(len(all_image_names))
 # Load pokemon national dex
 pokemon_folder_path: Path = git_root_dir / "Packages/SerialPrograms/Resources/Pokemon" 
 pokedex_json_path: Path = pokemon_folder_path / "Pokedex/Pokedex-National.json"
+special_pokemon_with_no_shiny_path: Path = pokemon_folder_path / "SpecialPokemonWithNoShinyForm.txt"
 
 with open(str(pokedex_json_path), "r", encoding="utf-8") as f:
     pokedex = json.load(f)
 print(f"Pokedex size: {len(pokedex)}")
+
+no_shiny_special_forms: List[str] = load_slugs_from_txt(special_pokemon_with_no_shiny_path)
 
 pokemon_species_display_json_path = pokemon_folder_path / "PokemonNameDisplay.json"
 with open(str(pokemon_species_display_json_path), "rb") as f:
@@ -183,7 +186,8 @@ def set_path(normal_image_names: List[str], shiny_image_names: List[str], form: 
         normal_image_filename = normal_image_names[0]
         shiny_image_filename = shiny_image_names[0]
         all_form_image_map[form] = normal_image_filename
-        all_shiny_form_image_map[form + "-shiny"] = shiny_image_filename
+        if form not in no_shiny_special_forms:
+            all_shiny_form_image_map[form + "-shiny"] = shiny_image_filename
     else:
         err_msg = f"For {form}, non-one filename for supposedly a single form"
         print(err_msg)
@@ -232,8 +236,6 @@ for dex_id, species in enumerate(pokedex):
     cur_shiny_names = copy.copy(shiny_image_names)
 
     if species == "charizard":
-        # for p in cur_shiny_names:
-        #     print(p)
         update_path(cur_normal_names, cur_shiny_names, cur_forms, "_001_mf_n_00000000_f", "charizard-mega-x")
         update_path(cur_normal_names, cur_shiny_names, cur_forms, "_002_mf_n_00000000_f", "charizard-mega-y")
     elif species == "pikachu":
@@ -622,9 +624,7 @@ missing_normal_form_images = [
 missing_shiny_form_images = [
     f + "-shiny" for f in missing_normal_form_images
 ]
-for dex_id, species in enumerate(pokedex):
-    image_names = copy.deepcopy(dex_to_image_names[dex_id])
-    
+for dex_id, species in enumerate(pokedex):    
     if species in all_form_map:
         forms = [t[0] for t in all_form_map[species]]
     else:
@@ -632,7 +632,7 @@ for dex_id, species in enumerate(pokedex):
 
     shiny_forms = [form for form in forms if form.endswith("-shiny")]
     if not shiny_forms:
-        shiny_forms = [form + "-shiny" for form in forms]
+        shiny_forms = [form + "-shiny" for form in forms if form not in no_shiny_special_forms]
     forms = [form for form in forms if not form.endswith("-shiny")]
     for form in forms:
         if form not in missing_normal_form_images:
@@ -648,8 +648,9 @@ for shiny_form in all_shiny_form_image_map:
 
 # build final image map:
 total_image_map = all_form_image_map | all_shiny_form_image_map
-print(len(total_image_map))
+print(f"total unique sprites found with unique forms: {len(total_image_map)}")
 
 
 with open(f'AllFormHomeSpriteMap.json', 'w', encoding='utf-8') as f:
     json.dump(total_image_map, f, ensure_ascii=False, indent=4)
+print("Saved JSON to AllFormHomeSpriteMap.json")
