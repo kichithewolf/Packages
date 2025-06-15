@@ -1,2 +1,5 @@
 # macOS hidden file
 .DS_Store
+
+ignore Jupyter Notebooks
+*.ipynb
