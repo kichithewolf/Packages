@@ -1,0 +1,252 @@
+{
+    "bottle-cap-1": {
+        "display_name": "Bottle Cap (1x)",
+        "min": 0,
+        "max": 49
+    },
+    "bottle-cap-3": {
+        "display_name": "Bottle Cap (3x)",
+        "min": 50,
+        "max": 59
+    },
+    "gold-bottle-cap-1": {
+        "display_name": "Gold Bottle Cap (1x)",
+        "min": 60,
+        "max": 62
+    },
+    "red-apricorn-5": {
+        "display_name": "Red Apricorn (5x)",
+        "min": 63,
+        "max": 79
+    },
+    "blue-apricorn-5": {
+        "display_name": "Blue Apricorn (5x)",
+        "min": 80,
+        "max": 96
+    },
+    "yellow-apricorn-5": {
+        "display_name": "Yellow Apricorn (5x)",
+        "min": 97,
+        "max": 113
+    },
+    "green-apricorn-5": {
+        "display_name": "Green Apricorn (5x)",
+        "min": 114,
+        "max": 130
+    },
+    "white-apricorn-5": {
+        "display_name": "White Apricorn (5x)",
+        "min": 131,
+        "max": 147
+    },
+    "black-apricorn-5": {
+        "display_name": "Black Apricorn (5x)",
+        "min": 148,
+        "max": 164
+    },
+    "pink-apricorn-5": {
+        "display_name": "Pink Apricorn (5x)",
+        "min": 165,
+        "max": 181
+    },
+    "red-apricorn-10": {
+        "display_name": "Red Apricorn (10x)",
+        "min": 182,
+        "max": 191
+    },
+    "blue-apricorn-10": {
+        "display_name": "Blue Apricorn (10x)",
+        "min": 192,
+        "max": 201
+    },
+    "yellow-apricorn-10": {
+        "display_name": "Yellow Apricorn (10x)",
+        "min": 202,
+        "max": 211
+    },
+    "green-apricorn-10": {
+        "display_name": "Green Apricorn (10x)",
+        "min": 212,
+        "max": 221
+    },
+    "white-apricorn-10": {
+        "display_name": "White Apricorn (10x)",
+        "min": 222,
+        "max": 231
+    },
+    "black-apricorn-10": {
+        "display_name": "Black Apricorn (10x)",
+        "min": 232,
+        "max": 241
+    },
+    "pink-apricorn-10": {
+        "display_name": "Pink Apricorn (10x)",
+        "min": 242,
+        "max": 251
+    },
+    "pp-up-1": {
+        "display_name": "PP Up (1x)",
+        "min": 252,
+        "max": 301
+    },
+    "pp-up-2": {
+        "display_name": "PP Up (2x)",
+        "min": 302,
+        "max": 326
+    },
+    "pp-max": {
+        "display_name": "PP Max",
+        "min": 327,
+        "max": 331
+    },
+    "rare-candy-1": {
+        "display_name": "Rare Candy (1x)",
+        "min": 328,
+        "max": 381
+    },
+    "rare-candy-5": {
+        "display_name": "Rare Candy (5x)",
+        "min": 382,
+        "max": 421
+    },
+    "gigantamix": {
+        "display_name": "Gigantamix",
+        "min": 422,
+        "max": 471
+    },
+    "armorite-ore-1": {
+        "display_name": "Armorite Ore (1x)",
+        "min": 472,
+        "max": 531
+    },
+    "armorite-ore-3": {
+        "display_name": "Armorite Ore (3x)",
+        "min": 532,
+        "max": 551
+    },
+    "armorite-ore-8": {
+        "display_name": "Armorite Ore (8x)",
+        "min": 552,
+        "max": 556
+    },
+    "dynite-ore-1": {
+        "display_name": "Dynite Ore (1x)",
+        "min": 557,
+        "max": 576
+    },
+    "dynite-ore-5": {
+        "display_name": "Dynite Ore (5x)",
+        "min": 577,
+        "max": 581
+    },
+    "max-mushrooms": {
+        "display_name": "Max Mushrooms",
+        "min": 582,
+        "max": 601
+    },
+    "max-elixir": {
+        "display_name": "Max Elixir",
+        "min": 602,
+        "max": 641
+    },
+    "galarica-twig-3": {
+        "display_name": "Galarica Twig (3x)",
+        "min": 642,
+        "max": 681
+    },
+    "galarica-twig-5": {
+        "display_name": "Galarica Twig (5x)",
+        "min": 682,
+        "max": 691
+    },
+    "strawberry-sweet": {
+        "display_name": "Strawberry Sweet",
+        "min": 692,
+        "max": 706
+    },
+    "love-sweet": {
+        "display_name": "Love Sweet",
+        "min": 707,
+        "max": 721
+    },
+    "berry-sweet": {
+        "display_name": "Berry Sweet",
+        "min": 722,
+        "max": 736
+    },
+    "clover-sweet": {
+        "display_name": "Clover Sweet",
+        "min": 737,
+        "max": 751
+    },
+    "flower-sweet": {
+        "display_name": "Flower Sweet",
+        "min": 752,
+        "max": 766
+    },
+    "star-sweet": {
+        "display_name": "Star Sweet",
+        "min": 767,
+        "max": 781
+    },
+    "ribbon-sweet": {
+        "display_name": "Ribbon Sweet",
+        "min": 782,
+        "max": 796
+    },
+    "big-nugget": {
+        "display_name": "Big Nugget",
+        "min": 797,
+        "max": 826
+    },
+    "beast-ball": {
+        "display_name": "Beast Ball",
+        "min": 827,
+        "max": 827
+    },
+    "dream-ball": {
+        "display_name": "Dream Ball",
+        "min": 828,
+        "max": 828
+    },
+    "lansat-berry": {
+        "display_name": "Lansat Berry",
+        "min": 829,
+        "max": 858
+    },
+    "starf-berry": {
+        "display_name": "Starf Berry",
+        "min": 859,
+        "max": 868
+    },
+    "lucky-egg": {
+        "display_name": "Lucky Egg",
+        "min": 869,
+        "max": 878
+    },
+    "electirizer": {
+        "display_name": "Electirizer",
+        "min": 879,
+        "max": 908
+    },
+    "magmarizer": {
+        "display_name": "Magmarizer",
+        "min": 909,
+        "max": 938
+    },
+    "cracked-pot": {
+        "display_name": "Cracked Pot",
+        "min": 939,
+        "max": 968
+    },
+    "chipped-pot": {
+        "display_name": "Chipped Pot",
+        "min": 969,
+        "max": 979
+    },
+    "kings-rock": {
+        "display_name": "King's Rock",
+        "min": 980,
+        "max": 999
+    }
+}
