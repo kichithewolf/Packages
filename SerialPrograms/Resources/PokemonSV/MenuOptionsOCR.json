@@ -52,7 +52,7 @@
 		"normal": [ "Normal" ],
 		"fast": [ "Fast" ],
 		"on": [ "On" ],
-		"off": [ "Off" ],
+		"off": [ "Off", "Oft", "Otf", "Off" ],
 		"manual": [ "Manual" ],
 		"automatic": [ "Automatic" ],
 		"regular": [ "Regular" ],
