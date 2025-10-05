@@ -1,0 +1,82 @@
+{
+    "spriteHeight": 160,
+    "spriteWidth": 160,
+    "spriteLocations": {
+        "gold-pick": {
+            "top": 1120,
+            "left": 480
+        },
+        "silver-pick": {
+            "top": 1120,
+            "left": 640
+        },
+        "red-flag-pick": {
+            "top": 1120,
+            "left": 800
+        },
+        "blue-flag-pick": {
+            "top": 1120,
+            "left": 960
+        },
+        "pika-pika-pick": {
+            "top": 1120,
+            "left": 1120
+        },
+        "winking-pika-pick": {
+            "top": 1280,
+            "left": 0
+        },
+        "vee-vee-pick": {
+            "top": 1280,
+            "left": 160
+        },
+        "smiling-vee-pick": {
+            "top": 1280,
+            "left": 320
+        },
+        "blue-poke-ball-pick": {
+            "top": 1280,
+            "left": 480
+        },
+        "green-poke-ball-pick": {
+            "top": 1280,
+            "left": 640
+        },
+        "red-poke-ball-pick": {
+            "top": 1280,
+            "left": 800
+        },
+        "party-sparkler-pick": {
+            "top": 1280,
+            "left": 960
+        },
+        "heroic-sword-pick": {
+            "top": 1280,
+            "left": 1120
+        },
+        "magical-star-pick": {
+            "top": 1440,
+            "left": 0
+        },
+        "magical-heart-pick": {
+            "top": 1440,
+            "left": 160
+        },
+        "parasol-pick": {
+            "top": 1440,
+            "left": 320
+        },
+        "blue-sky-flower-pick": {
+            "top": 1440,
+            "left": 480
+        },
+        "sunset-flower-pick": {
+            "top": 1440,
+            "left": 640
+        },
+        "sunrise-flower-pick": {
+            "top": 1440,
+            "left": 800
+        }
+    }
+}

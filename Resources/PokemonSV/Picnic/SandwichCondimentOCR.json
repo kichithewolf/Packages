@@ -1,0 +1,664 @@
+{
+    "eng": {
+        "mayonnaise": [
+            "Mayonnaise"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Mustard"
+        ],
+        "butter": [
+            "Butter"
+        ],
+        "peanut-butter": [
+            "Peanut Butter"
+        ],
+        "chili-sauce": [
+            "Chili Sauce"
+        ],
+        "salt": [
+            "Salt"
+        ],
+        "pepper": [
+            "Pepper"
+        ],
+        "yogurt": [
+            "Yogurt"
+        ],
+        "whipped-cream": [
+            "Whipped Cream"
+        ],
+        "cream-cheese": [
+            "Cream Cheese"
+        ],
+        "jam": [
+            "Jam"
+        ],
+        "marmalade": [
+            "Marmalade"
+        ],
+        "olive-oil": [
+            "Olive Oil"
+        ],
+        "vinegar": [
+            "Vinegar"
+        ],
+        "sweet-herba-mystica": [
+            "Sweet Herba Mystica"
+        ],
+        "salty-herba-mystica": [
+            "Salty Herba Mystica"
+        ],
+        "sour-herba-mystica": [
+            "Sour Herba Mystica"
+        ],
+        "bitter-herba-mystica": [
+            "Bitter Herba Mystica"
+        ],
+        "spicy-herba-mystica": [
+            "Spicy Herba Mystica"
+        ],
+        "horseradish": [
+            "Horseradish"
+        ],
+        "curry-powder": [
+            "Curry Powder"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ]
+    },
+    "chi_sim": {
+        "mayonnaise": [
+            "蛋黄酱"
+        ],
+        "ketchup": [
+            "番茄酱"
+        ],
+        "mustard": [
+            "黄芥末酱"
+        ],
+        "butter": [
+            "黄油"
+        ],
+        "peanut-butter": [
+            "花生酱"
+        ],
+        "chili-sauce": [
+            "辣酱"
+        ],
+        "salt": [
+            "盐"
+        ],
+        "pepper": [
+            "胡椒"
+        ],
+        "yogurt": [
+            "酸奶"
+        ],
+        "whipped-cream": [
+            "鲜奶油"
+        ],
+        "cream-cheese": [
+            "奶油芝士"
+        ],
+        "jam": [
+            "莓果酱"
+        ],
+        "marmalade": [
+            "橘子酱"
+        ],
+        "olive-oil": [
+            "橄榄油"
+        ],
+        "vinegar": [
+            "醋"
+        ],
+        "sweet-herba-mystica": [
+            "秘传：甜味料"
+        ],
+        "salty-herba-mystica": [
+            "秘传：咸味料"
+        ],
+        "sour-herba-mystica": [
+            "秘传：酸味料"
+        ],
+        "bitter-herba-mystica": [
+            "秘传：苦味料"
+        ],
+        "spicy-herba-mystica": [
+            "秘传：辣味料"
+        ],
+        "horseradish": [
+            "辣根"
+        ],
+        "curry-powder": [
+            "咖喱粉"
+        ],
+        "wasabi": [
+            "芥末酱"
+        ]
+    },
+    "chi_tra": {
+        "mayonnaise": [
+            "美乃滋"
+        ],
+        "ketchup": [
+            "番茄醬"
+        ],
+        "mustard": [
+            "黃芥末醬"
+        ],
+        "butter": [
+            "奶油"
+        ],
+        "peanut-butter": [
+            "花生醬"
+        ],
+        "chili-sauce": [
+            "辣醬"
+        ],
+        "salt": [
+            "鹽"
+        ],
+        "pepper": [
+            "胡椒"
+        ],
+        "yogurt": [
+            "優格"
+        ],
+        "whipped-cream": [
+            "鮮奶油"
+        ],
+        "cream-cheese": [
+            "奶油起司"
+        ],
+        "jam": [
+            "莓果醬"
+        ],
+        "marmalade": [
+            "橘子醬"
+        ],
+        "olive-oil": [
+            "橄欖油"
+        ],
+        "vinegar": [
+            "醋"
+        ],
+        "sweet-herba-mystica": [
+            "秘傳：甜味料"
+        ],
+        "salty-herba-mystica": [
+            "秘傳：鹹味料"
+        ],
+        "sour-herba-mystica": [
+            "秘傳：酸味料"
+        ],
+        "bitter-herba-mystica": [
+            "秘傳：苦味料"
+        ],
+        "spicy-herba-mystica": [
+            "秘傳：辣味料"
+        ],
+        "horseradish": [
+            "辣根"
+        ],
+        "curry-powder": [
+            "咖哩粉"
+        ],
+        "wasabi": [
+            "芥末醬"
+        ]
+    },
+    "spa": {
+        "mayonnaise": [
+            "Mayonesa"
+        ],
+        "ketchup": [
+            "Kétchup"
+        ],
+        "mustard": [
+            "Mostaza"
+        ],
+        "butter": [
+            "Mantequilla"
+        ],
+        "peanut-butter": [
+            "Crema de Cacahuete"
+        ],
+        "chili-sauce": [
+            "Salsa Picante"
+        ],
+        "salt": [
+            "Sal"
+        ],
+        "pepper": [
+            "Pimienta"
+        ],
+        "yogurt": [
+            "Yogur"
+        ],
+        "whipped-cream": [
+            "Nata Montada"
+        ],
+        "cream-cheese": [
+            "Queso Crema"
+        ],
+        "jam": [
+            "Confitura de Bayas"
+        ],
+        "marmalade": [
+            "Mermelada"
+        ],
+        "olive-oil": [
+            "Aceite de Oliva"
+        ],
+        "vinegar": [
+            "Vinagre"
+        ],
+        "sweet-herba-mystica": [
+            "Especia Oculta Dulce"
+        ],
+        "salty-herba-mystica": [
+            "Especia Oculta Salada"
+        ],
+        "sour-herba-mystica": [
+            "Especia Oculta Ácida"
+        ],
+        "bitter-herba-mystica": [
+            "Especia Oculta Amarga"
+        ],
+        "spicy-herba-mystica": [
+            "Especia Oculta Picante"
+        ],
+        "horseradish": [
+            "Rábano Picante"
+        ],
+        "curry-powder": [
+            "Curri en Polvo"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ]
+    },
+    "fra": {
+        "mayonnaise": [
+            "Mayonnaise"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Moutarde"
+        ],
+        "butter": [
+            "Beurre"
+        ],
+        "peanut-butter": [
+            "Beurre de Cacahuètes"
+        ],
+        "chili-sauce": [
+            "Sauce Piquante"
+        ],
+        "salt": [
+            "Sel"
+        ],
+        "pepper": [
+            "Poivre"
+        ],
+        "yogurt": [
+            "Yaourt"
+        ],
+        "whipped-cream": [
+            "Crème Fouettée"
+        ],
+        "cream-cheese": [
+            "Fromage Frais"
+        ],
+        "jam": [
+            "Confiture de Baies"
+        ],
+        "marmalade": [
+            "Marmelade"
+        ],
+        "olive-oil": [
+            "Huile d’Olive"
+        ],
+        "vinegar": [
+            "Vinaigre"
+        ],
+        "sweet-herba-mystica": [
+            "Épice Secrète Sucrée"
+        ],
+        "salty-herba-mystica": [
+            "Épice Secrète Salée"
+        ],
+        "sour-herba-mystica": [
+            "Épice Secrète Acide"
+        ],
+        "bitter-herba-mystica": [
+            "Épice Secrète Amère"
+        ],
+        "spicy-herba-mystica": [
+            "Épice Secrète Corsée"
+        ],
+        "horseradish": [
+            "Raifort"
+        ],
+        "curry-powder": [
+            "Curry en Poudre"
+        ],
+        "wasabi": [
+            "Sauce au Wasabi"
+        ]
+    },
+    "deu": {
+        "mayonnaise": [
+            "Mayonnaise"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Senf"
+        ],
+        "butter": [
+            "Butter"
+        ],
+        "peanut-butter": [
+            "Erdnussbutter"
+        ],
+        "chili-sauce": [
+            "Chilisoße"
+        ],
+        "salt": [
+            "Salz"
+        ],
+        "pepper": [
+            "Pfeffer"
+        ],
+        "yogurt": [
+            "Joghurt"
+        ],
+        "whipped-cream": [
+            "Schlagsahne"
+        ],
+        "cream-cheese": [
+            "Frischkäse"
+        ],
+        "jam": [
+            "Beerenkonfitüre"
+        ],
+        "marmalade": [
+            "Marmelade"
+        ],
+        "olive-oil": [
+            "Olivenöl"
+        ],
+        "vinegar": [
+            "Essig"
+        ],
+        "sweet-herba-mystica": [
+            "Süßes Geheimgewürz"
+        ],
+        "salty-herba-mystica": [
+            "Salziges Geheimgewürz"
+        ],
+        "sour-herba-mystica": [
+            "Saures Geheimgewürz"
+        ],
+        "bitter-herba-mystica": [
+            "Bitteres Geheimgewürz"
+        ],
+        "spicy-herba-mystica": [
+            "Scharfes Geheimgewürz"
+        ],
+        "horseradish": [
+            "Meerrettich"
+        ],
+        "curry-powder": [
+            "Currypulver"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ]
+    },
+    "ita": {
+        "mayonnaise": [
+            "Maionese"
+        ],
+        "ketchup": [
+            "Ketchup"
+        ],
+        "mustard": [
+            "Senape"
+        ],
+        "butter": [
+            "Burro"
+        ],
+        "peanut-butter": [
+            "Burro di arachidi"
+        ],
+        "chili-sauce": [
+            "Salsa piccante"
+        ],
+        "salt": [
+            "Sale"
+        ],
+        "pepper": [
+            "Pepe"
+        ],
+        "yogurt": [
+            "Yogurt"
+        ],
+        "whipped-cream": [
+            "Panna montata"
+        ],
+        "cream-cheese": [
+            "Formaggio cremoso"
+        ],
+        "jam": [
+            "Confettura di bosco"
+        ],
+        "marmalade": [
+            "Marmellata"
+        ],
+        "olive-oil": [
+            "Olio d’oliva"
+        ],
+        "vinegar": [
+            "Aceto"
+        ],
+        "sweet-herba-mystica": [
+            "Spezia nascosta dolce"
+        ],
+        "salty-herba-mystica": [
+            "Spezia nascosta salata"
+        ],
+        "sour-herba-mystica": [
+            "Spezia nascosta aspra"
+        ],
+        "bitter-herba-mystica": [
+            "Spezia nascosta amara"
+        ],
+        "spicy-herba-mystica": [
+            "Spezia nascosta pepata"
+        ],
+        "horseradish": [
+            "Rafano"
+        ],
+        "curry-powder": [
+            "Curry in polvere"
+        ],
+        "wasabi": [
+            "Wasabi"
+        ]
+    },
+    "jpn": {
+        "mayonnaise": [
+            "マヨネーズ",
+            "マヨネーズ"
+        ],
+        "ketchup": [
+            "ケチャップ",
+            "ケチャップ"
+        ],
+        "mustard": [
+            "マスタード",
+            "マスタード"
+        ],
+        "butter": [
+            "バター",
+            "バター"
+        ],
+        "peanut-butter": [
+            "ピーナッツバター",
+            "ピーナッツバター"
+        ],
+        "chili-sauce": [
+            "チリソース",
+            "チリソース"
+        ],
+        "salt": [
+            "ソルト",
+            "ソルト"
+        ],
+        "pepper": [
+            "ペッパー",
+            "ペッパー"
+        ],
+        "yogurt": [
+            "ヨーグルト",
+            "ヨーグルト"
+        ],
+        "whipped-cream": [
+            "ホイップクリーム",
+            "ホイップクリーム"
+        ],
+        "cream-cheese": [
+            "クリームチーズ",
+            "クリームチーズ"
+        ],
+        "jam": [
+            "ベリージャム",
+            "ベリージャム"
+        ],
+        "marmalade": [
+            "マーマレード",
+            "マーマレード"
+        ],
+        "olive-oil": [
+            "オリーブオイル",
+            "オリーブオイル"
+        ],
+        "vinegar": [
+            "ビネガー",
+            "ビネガー"
+        ],
+        "sweet-herba-mystica": [
+            "ひでん：あまスパイス",
+            "ひでん：あまスパイス"
+        ],
+        "salty-herba-mystica": [
+            "ひでん：しおスパイス",
+            "ひでん：しおスパイス"
+        ],
+        "sour-herba-mystica": [
+            "ひでん：すぱスパイス",
+            "ひでん：すぱスパイス"
+        ],
+        "bitter-herba-mystica": [
+            "ひでん：にがスパイス",
+            "ひでん：にがスパイス"
+        ],
+        "spicy-herba-mystica": [
+            "ひでん：からスパイス",
+            "ひでん：からスパイス"
+        ],
+        "horseradish": [
+            "ホースラディッシュ",
+            "ホースラディッシュ"
+        ],
+        "curry-powder": [
+            "カレーパウダー",
+            "カレーパウダー"
+        ],
+        "wasabi": [
+            "ワサビソース",
+            "ワサビソース"
+        ]
+    },
+    "kor": {
+        "mayonnaise": [
+            "마요네즈"
+        ],
+        "ketchup": [
+            "케첩"
+        ],
+        "mustard": [
+            "머스터드"
+        ],
+        "butter": [
+            "버터"
+        ],
+        "peanut-butter": [
+            "땅콩버터"
+        ],
+        "chili-sauce": [
+            "칠리소스"
+        ],
+        "salt": [
+            "소금"
+        ],
+        "pepper": [
+            "후추"
+        ],
+        "yogurt": [
+            "요구르트"
+        ],
+        "whipped-cream": [
+            "휘핑크림"
+        ],
+        "cream-cheese": [
+            "크림치즈"
+        ],
+        "jam": [
+            "베리잼"
+        ],
+        "marmalade": [
+            "마멀레이드"
+        ],
+        "olive-oil": [
+            "올리브오일"
+        ],
+        "vinegar": [
+            "비니거"
+        ],
+        "sweet-herba-mystica": [
+            "비전 달콤스파이스"
+        ],
+        "salty-herba-mystica": [
+            "비전 짭짤스파이스"
+        ],
+        "sour-herba-mystica": [
+            "비전 새콤스파이스"
+        ],
+        "bitter-herba-mystica": [
+            "비전 쌉쌀스파이스"
+        ],
+        "spicy-herba-mystica": [
+            "비전 매콤스파이스"
+        ],
+        "horseradish": [
+            "호스래디시"
+        ],
+        "curry-powder": [
+            "카레파우더"
+        ],
+        "wasabi": [
+            "와사비소스"
+        ]
+    }
+}

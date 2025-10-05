@@ -1,0 +1,150 @@
+{
+    "spriteHeight": 160,
+    "spriteWidth": 160,
+    "spriteLocations": {
+        "baguette": {
+            "top": 0,
+            "left": 0
+        },
+        "lettuce": {
+            "top": 320,
+            "left": 800
+        },
+        "tomato": {
+            "top": 320,
+            "left": 960
+        },
+        "cherry-tomatoes": {
+            "top": 320,
+            "left": 1120
+        },
+        "cucumber": {
+            "top": 480,
+            "left": 0
+        },
+        "pickle": {
+            "top": 480,
+            "left": 160
+        },
+        "onion": {
+            "top": 480,
+            "left": 320
+        },
+        "red-onion": {
+            "top": 480,
+            "left": 480
+        },
+        "green-bell-pepper": {
+            "top": 480,
+            "left": 640
+        },
+        "red-bell-pepper": {
+            "top": 480,
+            "left": 800
+        },
+        "yellow-bell-pepper": {
+            "top": 480,
+            "left": 960
+        },
+        "avocado": {
+            "top": 480,
+            "left": 1120
+        },
+        "bacon": {
+            "top": 640,
+            "left": 0
+        },
+        "ham": {
+            "top": 640,
+            "left": 160
+        },
+        "prosciutto": {
+            "top": 640,
+            "left": 320
+        },
+        "chorizo": {
+            "top": 640,
+            "left": 480
+        },
+        "herbed-sausage": {
+            "top": 640,
+            "left": 640
+        },
+        "hamburger": {
+            "top": 640,
+            "left": 800
+        },
+        "klawf-stick": {
+            "top": 640,
+            "left": 960
+        },
+        "smoked-fillet": {
+            "top": 640,
+            "left": 1120
+        },
+        "fried-fillet": {
+            "top": 800,
+            "left": 0
+        },
+        "egg": {
+            "top": 800,
+            "left": 160
+        },
+        "potato-tortilla": {
+            "top": 800,
+            "left": 320
+        },
+        "tofu": {
+            "top": 800,
+            "left": 480
+        },
+        "rice": {
+            "top": 800,
+            "left": 640
+        },
+        "noodles": {
+            "top": 800,
+            "left": 800
+        },
+        "potato-salad": {
+            "top": 800,
+            "left": 960
+        },
+        "cheese": {
+            "top": 800,
+            "left": 1120
+        },
+        "banana": {
+            "top": 960,
+            "left": 0
+        },
+        "strawberry": {
+            "top": 960,
+            "left": 160
+        },
+        "apple": {
+            "top": 960,
+            "left": 320
+        },
+        "kiwi": {
+            "top": 960,
+            "left": 480
+        },
+        "pineapple": {
+            "top": 960,
+            "left": 640
+        },
+        "jalapeño": {
+            "top": 960,
+            "left": 800
+        },
+        "watercress": {
+            "top": 1120,
+            "left": 160
+        },
+        "basil": {
+            "top": 1120,
+            "left": 320
+        }
+    }
+}

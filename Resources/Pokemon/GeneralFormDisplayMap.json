@@ -1,0 +1,1706 @@
+{
+    "pikachu": [
+        [
+            "pikachu",
+            "Pikachu"
+        ],
+        [
+            "pikachu-cosplay",
+            "Cosplay Pikachu"
+        ],
+        [
+            "pikachu-rock-star",
+            "Pikachu Rock Star"
+        ],
+        [
+            "pikachu-belle",
+            "Pikachu Belle"
+        ],
+        [
+            "pikachu-pop-star",
+            "Pikachu Pop Star"
+        ],
+        [
+            "pikachu-phd",
+            "Pikachu, Ph.D."
+        ],
+        [
+            "pikachu-libre",
+            "Pikachu Libre"
+        ],
+        [
+            "pikachu-original-cap",
+            "Original Cap Pikachu"
+        ],
+        [
+            "pikachu-hoenn-cap",
+            "Hoenn Cap Pikachu"
+        ],
+        [
+            "pikachu-sinnoh-cap",
+            "Sinnoh Cap Pikachu"
+        ],
+        [
+            "pikachu-unova-cap",
+            "Unova Cap Pikachu"
+        ],
+        [
+            "pikachu-kalos-cap",
+            "Kalos Cap Pikachu"
+        ],
+        [
+            "pikachu-alola-cap",
+            "Alola Cap Pikachu"
+        ],
+        [
+            "pikachu-partner-cap",
+            "Partner Cap Pikachu"
+        ],
+        [
+            "pikachu-world-cap",
+            "World Cap Pikachu"
+        ]
+    ],
+    "tauros-paldea": [
+        [
+            "tauros-paldea-aqua-breed",
+            "Paldean Tauros Combat Breed"
+        ],
+        [
+            "tauros-paldea-blaze-breed",
+            "Paldean Tauros Blaze Breed"
+        ],
+        [
+            "tauros-paldea-combat-breed",
+            "Paldean Tauros Aqua Breed"
+        ]
+    ],
+    "pichu": [
+        [
+            "pichu",
+            "Pichu"
+        ],
+        [
+            "pichu-spiky-eared",
+            "Spiky-eared Pichu"
+        ]
+    ],
+    "unown": [
+        [
+            "unown-a",
+            "Unown A"
+        ],
+        [
+            "unown-b",
+            "Unown B"
+        ],
+        [
+            "unown-c",
+            "Unown C"
+        ],
+        [
+            "unown-d",
+            "Unown D"
+        ],
+        [
+            "unown-e",
+            "Unown E"
+        ],
+        [
+            "unown-f",
+            "Unown F"
+        ],
+        [
+            "unown-g",
+            "Unown G"
+        ],
+        [
+            "unown-h",
+            "Unown H"
+        ],
+        [
+            "unown-i",
+            "Unown I"
+        ],
+        [
+            "unown-j",
+            "Unown J"
+        ],
+        [
+            "unown-k",
+            "Unown K"
+        ],
+        [
+            "unown-l",
+            "Unown L"
+        ],
+        [
+            "unown-m",
+            "Unown M"
+        ],
+        [
+            "unown-n",
+            "Unown N"
+        ],
+        [
+            "unown-o",
+            "Unown O"
+        ],
+        [
+            "unown-p",
+            "Unown P"
+        ],
+        [
+            "unown-q",
+            "Unown Q"
+        ],
+        [
+            "unown-r",
+            "Unown R"
+        ],
+        [
+            "unown-s",
+            "Unown S"
+        ],
+        [
+            "unown-t",
+            "Unown T"
+        ],
+        [
+            "unown-u",
+            "Unown U"
+        ],
+        [
+            "unown-v",
+            "Unown V"
+        ],
+        [
+            "unown-w",
+            "Unown W"
+        ],
+        [
+            "unown-x",
+            "Unown X"
+        ],
+        [
+            "unown-y",
+            "Unown Y"
+        ],
+        [
+            "unown-z",
+            "Unown Z"
+        ],
+        [
+            "unown-exclamation",
+            "Unown !"
+        ],
+        [
+            "unown-question",
+            "Unown ?"
+        ]
+    ],
+    "castform": [
+        [
+            "castform-normal",
+            "Castform Normal"
+        ],
+        [
+            "castform-rainy",
+            "Castform Rainy Form"
+        ],
+        [
+            "castform-snowy",
+            "Castform Snowy Form"
+        ],
+        [
+            "castform-sunny",
+            "Castform Sunny Form"
+        ]
+    ],
+    "kyogre": [
+        [
+            "kyogre",
+            "Kyogre"
+        ],
+        [
+            "kyogre-primal",
+            "Primal Kyogre"
+        ]
+    ],
+    "groudon": [
+        [
+            "groudon",
+            "Groudon"
+        ],
+        [
+            "groudon-primal",
+            "Primal Groudon"
+        ]
+    ],
+    "deoxys": [
+        [
+            "deoxys-normal",
+            "Deoxys Normal Forme"
+        ],
+        [
+            "deoxys-attack",
+            "Deoxys Attack Forme"
+        ],
+        [
+            "deoxys-defense",
+            "Deoxys Defense Forme"
+        ],
+        [
+            "deoxys-speed",
+            "Deoxys Speed Forme"
+        ]
+    ],
+    "burmy": [
+        [
+            "burmy-plant-cloak",
+            "Burmy Plant Cloak"
+        ],
+        [
+            "burmy-sandy-cloak",
+            "Burmy Sandy Cloak"
+        ],
+        [
+            "burmy-trash-cloak",
+            "Burmy Trash Cloak"
+        ]
+    ],
+    "wormadam": [
+        [
+            "wormadam-plant-cloak",
+            "Wormadam Plant Cloak"
+        ],
+        [
+            "wormadam-sandy-cloak",
+            "Wormadam Sandy Cloak"
+        ],
+        [
+            "wormadam-trash-cloak",
+            "Wormadam Trash Cloak"
+        ]
+    ],
+    "cherrim": [
+        [
+            "cherrim-overcast",
+            "Cherrim Overcast Form"
+        ],
+        [
+            "cherrim-sunshine",
+            "Cherrim Sunshine Form"
+        ]
+    ],
+    "shellos": [
+        [
+            "shellos-west-sea",
+            "Shellos West Sea"
+        ],
+        [
+            "shellos-east-sea",
+            "Shellos East Sea"
+        ]
+    ],
+    "gastrodon": [
+        [
+            "gastrodon-west-sea",
+            "Gastrodon West Sea"
+        ],
+        [
+            "gastrodon-east-sea",
+            "Gastrodon East Sea"
+        ]
+    ],
+    "rotom": [
+        [
+            "rotom",
+            "Rotom"
+        ],
+        [
+            "rotom-fan",
+            "Fan Rotom"
+        ],
+        [
+            "rotom-frost",
+            "Frost Rotom"
+        ],
+        [
+            "rotom-heat",
+            "Heat Rotom"
+        ],
+        [
+            "rotom-mow",
+            "Mow Rotom"
+        ],
+        [
+            "rotom-wash",
+            "Wash Rotom"
+        ]
+    ],
+    "dialga": [
+        [
+            "dialga",
+            "Dialga"
+        ],
+        [
+            "dialga-origin",
+            "Dialga Origin Forme"
+        ]
+    ],
+    "palkia": [
+        [
+            "palkia",
+            "Palkia"
+        ],
+        [
+            "palkia-origin",
+            "Palkia Origin Forme"
+        ]
+    ],
+    "giratina": [
+        [
+            "giratina-altered",
+            "Giratina Altered Forme"
+        ],
+        [
+            "giratina-origin",
+            "Giratina Origin Forme"
+        ]
+    ],
+    "shaymin": [
+        [
+            "shaymin-land",
+            "Shaymin Land Forme"
+        ],
+        [
+            "shaymin-sky",
+            "Shaymin Sky Forme"
+        ]
+    ],
+    "arceus": [
+        [
+            "arceus-normal",
+            "Arceus Normal"
+        ],
+        [
+            "arceus-fire",
+            "Arceus Fire"
+        ],
+        [
+            "arceus-bug",
+            "Arceus Bug"
+        ],
+        [
+            "arceus-dark",
+            "Arceus Dark"
+        ],
+        [
+            "arceus-dragon",
+            "Arceus Dragon"
+        ],
+        [
+            "arceus-electric",
+            "Arceus Electric"
+        ],
+        [
+            "arceus-fairy",
+            "Arceus Fairy"
+        ],
+        [
+            "arceus-fighting",
+            "Arceus Fight"
+        ],
+        [
+            "arceus-flying",
+            "Arceus Flying"
+        ],
+        [
+            "arceus-ghost",
+            "Arceus Ghost"
+        ],
+        [
+            "arceus-grass",
+            "Arceus Grass"
+        ],
+        [
+            "arceus-ground",
+            "Arceus Ground"
+        ],
+        [
+            "arceus-ice",
+            "Arceus Ice"
+        ],
+        [
+            "arceus-poison",
+            "Arceus Poison"
+        ],
+        [
+            "arceus-psychic",
+            "Arceus Psychic"
+        ],
+        [
+            "arceus-rock",
+            "Arceus Rock"
+        ],
+        [
+            "arceus-steel",
+            "Arceus Steel"
+        ],
+        [
+            "arceus-water",
+            "Arceus Water"
+        ]
+    ],
+    "basculin": [
+        [
+            "basculin-blue-striped",
+            "Basculin Blue-Striped Form"
+        ],
+        [
+            "basculin-red-striped",
+            "Basculin Red-Striped Form"
+        ],
+        [
+            "basculin-white-striped",
+            "Basculin White-Striped Form"
+        ]
+    ],
+    "darmanitan": [
+        [
+            "darmanitan-standard-mode",
+            "Darmanitan Standard Mode"
+        ],
+        [
+            "darmanitan-zen-mode",
+            "Darmanitan Zen Mode"
+        ]
+    ],
+    "darmanitan-galar": [
+        [
+            "darmanitan-galar-standard-mode",
+            "Galarian Darmanitan Standard Mode"
+        ],
+        [
+            "darmanitan-galar-zen-mode",
+            "Galarian Darmanitan Zen Mode"
+        ]
+    ],
+    "deerling": [
+        [
+            "deerling-spring",
+            "Deerling Spring Form"
+        ],
+        [
+            "deerling-summer",
+            "Deerling Summer Form"
+        ],
+        [
+            "deerling-autumn",
+            "Deerling Autumn Form"
+        ],
+        [
+            "deerling-winter",
+            "Deerling Winter Form"
+        ]
+    ],
+    "sawsbuck": [
+        [
+            "sawsbuck-spring",
+            "Sawsbuck Spring Form"
+        ],
+        [
+            "sawsbuck-summer",
+            "Sawsbuck Summer Form"
+        ],
+        [
+            "sawsbuck-autumn",
+            "Sawsbuck Autumn Form"
+        ],
+        [
+            "sawsbuck-winter",
+            "Sawsbuck Winter Form"
+        ]
+    ],
+    "tornadus": [
+        [
+            "tornadus-incarnate",
+            "Tornadus Incarnate Forme"
+        ],
+        [
+            "tornadus-therian",
+            "Tornadus Therian Forme"
+        ]
+    ],
+    "thundurus": [
+        [
+            "thundurus-incarnate",
+            "Thundurus Incarnate Forme"
+        ],
+        [
+            "thundurus-therian",
+            "Thundurus Therian Forme"
+        ]
+    ],
+    "landorus": [
+        [
+            "landorus-incarnate",
+            "Landorus Incarnate Forme"
+        ],
+        [
+            "landorus-therian",
+            "Landorus Therian Forme"
+        ]
+    ],
+    "kyurem": [
+        [
+            "kyurem",
+            "Kyurem"
+        ],
+        [
+            "kyurem-black",
+            "Black Kyurem"
+        ],
+        [
+            "kyurem-white",
+            "White Kyurem"
+        ]
+    ],
+    "keldeo": [
+        [
+            "keldeo-ordinary",
+            "Keldeo Ordinary Form"
+        ],
+        [
+            "keldeo-resolute",
+            "Keldeo Resolute Form"
+        ]
+    ],
+    "meloetta": [
+        [
+            "meloetta-aria",
+            "Meloetta Aria Forme"
+        ],
+        [
+            "meloetta-pirouette",
+            "Meloetta Pirouette Forme"
+        ]
+    ],
+    "genesect": [
+        [
+            "genesect",
+            "Genesect"
+        ],
+        [
+            "genesect-chill-drive",
+            "Shock Drive Genesect"
+        ],
+        [
+            "genesect-douse-drive",
+            "Burn Drive Genesect"
+        ],
+        [
+            "genesect-shock-drive",
+            "Chill Drive Genesect"
+        ],
+        [
+            "genesect-burn-drive",
+            "Douse Drive Genesect"
+        ]
+    ],
+    "greninja": [
+        [
+            "greninja",
+            "Greninja"
+        ],
+        [
+            "greninja-ash",
+            "Ash-Greninja"
+        ]
+    ],
+    "vivillon": [
+        [
+            "vivillon-archipelago",
+            "Vivillon Archipelago Pattern"
+        ],
+        [
+            "vivillon-continental",
+            "Vivillon Continental Pattern"
+        ],
+        [
+            "vivillon-elegant",
+            "Vivillon Elegant Pattern"
+        ],
+        [
+            "vivillon-fancy",
+            "Vivillon Fancy Pattern"
+        ],
+        [
+            "vivillon-garden",
+            "Vivillon Garden Pattern"
+        ],
+        [
+            "vivillon-high-plains",
+            "Vivillon High Plains Pattern"
+        ],
+        [
+            "vivillon-icy-snow",
+            "Vivillon Icy Snow Pattern"
+        ],
+        [
+            "vivillon-jungle",
+            "Vivillon Jungle Pattern"
+        ],
+        [
+            "vivillon-marine",
+            "Vivillon Marine Pattern"
+        ],
+        [
+            "vivillon-meadow",
+            "Vivillon Meadow Pattern"
+        ],
+        [
+            "vivillon-modern",
+            "Vivillon Modern Pattern"
+        ],
+        [
+            "vivillon-monsoon",
+            "Vivillon Monsoon Pattern"
+        ],
+        [
+            "vivillon-ocean",
+            "Vivillon Ocean Pattern"
+        ],
+        [
+            "vivillon-poke-ball",
+            "Vivillon Poké Ball Pattern"
+        ],
+        [
+            "vivillon-polar",
+            "Vivillon Polar Pattern"
+        ],
+        [
+            "vivillon-river",
+            "Vivillon River Pattern"
+        ],
+        [
+            "vivillon-sandstorm",
+            "Vivillon Sandstorm Pattern"
+        ],
+        [
+            "vivillon-savanna",
+            "Vivillon Savanna Pattern"
+        ],
+        [
+            "vivillon-sun",
+            "Vivillon Sun Pattern"
+        ],
+        [
+            "vivillon-tundra",
+            "Vivillon Tundra Pattern"
+        ]
+    ],
+    "flabebe": [
+        [
+            "flabebe-blue-flower",
+            "Flabébé Blue Flower"
+        ],
+        [
+            "flabebe-orange-flower",
+            "Flabébé Orange Flower"
+        ],
+        [
+            "flabebe-red-flower",
+            "Flabébé Red Flower"
+        ],
+        [
+            "flabebe-white-flower",
+            "Flabébé White Flower"
+        ],
+        [
+            "flabebe-yellow-flower",
+            "Flabébé Yellow Flower"
+        ]
+    ],
+    "floette": [
+        [
+            "floette-blue-flower",
+            "Floette Blue Flower"
+        ],
+        [
+            "floette-orange-flower",
+            "Floette Orange Flower"
+        ],
+        [
+            "floette-red-flower",
+            "Floette Red Flower"
+        ],
+        [
+            "floette-white-flower",
+            "Floette White Flower"
+        ],
+        [
+            "floette-yellow-flower",
+            "Floette Yellow Flower"
+        ],
+        [
+            "floette-eternal-flower",
+            "Floette Eternal Flower"
+        ]
+    ],
+    "florges": [
+        [
+            "florges-blue-flower",
+            "Florges Blue Flower"
+        ],
+        [
+            "florges-orange-flower",
+            "Florges Orange Flower"
+        ],
+        [
+            "florges-red-flower",
+            "Florges Red Flower"
+        ],
+        [
+            "florges-white-flower",
+            "Florges White Flower"
+        ],
+        [
+            "florges-yellow-flower",
+            "Florges Yellow Flower"
+        ]
+    ],
+    "furfrou": [
+        [
+            "furfrou-natural",
+            "Furfrou Natural Form"
+        ],
+        [
+            "furfrou-heart-trim",
+            "Furfrou Heart Trim"
+        ],
+        [
+            "furfrou-star-trim",
+            "Furfrou Star Trim"
+        ],
+        [
+            "furfrou-diamond-trim",
+            "Furfrou Diamond Trim"
+        ],
+        [
+            "furfrou-debutante-trim",
+            "Furfrou Debutante Trim"
+        ],
+        [
+            "furfrou-matron-trim",
+            "Furfrou Matron Trim"
+        ],
+        [
+            "furfrou-dandy-trim",
+            "Furfrou Dandy Trim"
+        ],
+        [
+            "furfrou-la-reine-trim",
+            "Furfrou La Reine Trim"
+        ],
+        [
+            "furfrou-kabuki-trim",
+            "Furfrou Kabuki Trim"
+        ],
+        [
+            "furfrou-pharaoh-trim",
+            "Furfrou Pharaoh Trim"
+        ]
+    ],
+    "aegislash": [
+        [
+            "aegislash-blade",
+            "Aegislash Blade Forme"
+        ],
+        [
+            "aegislash-shield",
+            "Aegislash Shield Forme"
+        ]
+    ],
+    "pumpkaboo": [
+        [
+            "pumpkaboo-average-size",
+            "Average Size Pumpkaboo"
+        ],
+        [
+            "pumpkaboo-large-size",
+            "Large Size Pumpkaboo"
+        ],
+        [
+            "pumpkaboo-small-size",
+            "Small Size Pumpkaboo"
+        ],
+        [
+            "pumpkaboo-super-size",
+            "Super Size Pumpkaboo"
+        ]
+    ],
+    "gourgeist": [
+        [
+            "gourgeist-average-size",
+            "Average Size Gourgeist"
+        ],
+        [
+            "gourgeist-large-size",
+            "Large Size Gourgeist"
+        ],
+        [
+            "gourgeist-small-size",
+            "Small Size Gourgeist"
+        ],
+        [
+            "gourgeist-super-size",
+            "Super Size Gourgeist"
+        ]
+    ],
+    "xerneas": [
+        [
+            "xerneas-neutral-mode",
+            "Xerneas Neutral Mode"
+        ],
+        [
+            "xerneas-active-mode",
+            "Xerneas Active Mode"
+        ]
+    ],
+    "zygarde": [
+        [
+            "zygarde-ten-percent",
+            "Zygarde 10% Forme"
+        ],
+        [
+            "zygarde-fifty-percent",
+            "Zygarde 50% Forme"
+        ],
+        [
+            "zygarde-complete",
+            "Zygarde Complete Forme"
+        ]
+    ],
+    "hoopa": [
+        [
+            "hoopa-confined",
+            "Hoopa Confined"
+        ],
+        [
+            "hoopa-unbound",
+            "Hoopa Unbound"
+        ]
+    ],
+    "oricorio": [
+        [
+            "oricorio-baile-style",
+            "Oricorio Baile Style"
+        ],
+        [
+            "oricorio-pau-style",
+            "Oricorio Pa'u Style"
+        ],
+        [
+            "oricorio-pom-pom-style",
+            "Oricorio Pom-Pom Style"
+        ],
+        [
+            "oricorio-sensu-style",
+            "Oricorio Sensu Style"
+        ]
+    ],
+    "lycanroc": [
+        [
+            "lycanroc-midday",
+            "Lycanroc Midday Form"
+        ],
+        [
+            "lycanroc-midnight",
+            "Lycanroc Midnight Form"
+        ],
+        [
+            "lycanroc-dusk",
+            "Lycanroc Dusk Form"
+        ]
+    ],
+    "wishiwashi": [
+        [
+            "wishiwashi-solo",
+            "Wishiwashi Solo Form"
+        ],
+        [
+            "wishiwashi-school",
+            "Wishiwashi School Form"
+        ]
+    ],
+    "silvally": [
+        [
+            "silvally-bug",
+            "Silvally Type: Bug"
+        ],
+        [
+            "silvally-dark",
+            "Silvally Type: Dark"
+        ],
+        [
+            "silvally-dragon",
+            "Silvally Type: Dragon"
+        ],
+        [
+            "silvally-electric",
+            "Silvally Type: Electric"
+        ],
+        [
+            "silvally-fairy",
+            "Silvally Type: Fairy"
+        ],
+        [
+            "silvally-fighting",
+            "Silvally Type: Fighting"
+        ],
+        [
+            "silvally-fire",
+            "Silvally Type: Fire"
+        ],
+        [
+            "silvally-flying",
+            "Silvally Type: Flying"
+        ],
+        [
+            "silvally-ghost",
+            "Silvally Type: Ghost"
+        ],
+        [
+            "silvally-grass",
+            "Silvally Type: Grass"
+        ],
+        [
+            "silvally-ground",
+            "Silvally Type: Ground"
+        ],
+        [
+            "silvally-ice",
+            "Silvally Type: Ice"
+        ],
+        [
+            "silvally-normal",
+            "Silvally Type: Normal"
+        ],
+        [
+            "silvally-poison",
+            "Silvally Type: Poison"
+        ],
+        [
+            "silvally-psychic",
+            "Silvally Type: Psychic"
+        ],
+        [
+            "silvally-rock",
+            "Silvally Type: Rock"
+        ],
+        [
+            "silvally-steel",
+            "Silvally Type: Steel"
+        ],
+        [
+            "silvally-water",
+            "Silvally Type: Water"
+        ]
+    ],
+    "minior": [
+        [
+            "minior-meteor",
+            "Minior Meteor Form"
+        ],
+        [
+            "minior-red-core",
+            "Minior Red Core"
+        ],
+        [
+            "minior-orange-core",
+            "Minior Orange Core"
+        ],
+        [
+            "minior-yellow-core",
+            "Minior Yellow Core"
+        ],
+        [
+            "minior-green-core",
+            "Minior Green Core"
+        ],
+        [
+            "minior-blue-core",
+            "Minior Blue Core"
+        ],
+        [
+            "minior-indigo-core",
+            "Minior Indigo Core"
+        ],
+        [
+            "minior-violet-core",
+            "Minior Violet Core"
+        ],
+        [
+            "minior-core-shiny",
+            "Shiny Minior Core"
+        ]
+    ],
+    "mimikyu": [
+        [
+            "mimikyu-busted",
+            "Mimikyu Busted Form"
+        ],
+        [
+            "mimikyu-disguised",
+            "Mimikyu Disguised Form"
+        ]
+    ],
+    "necrozma": [
+        [
+            "necrozma",
+            "Necrozma"
+        ],
+        [
+            "necrozma-dawn-wings",
+            "Dawn Wings Necrozma"
+        ],
+        [
+            "necrozma-dusk-mane",
+            "Dusk Mane Necrozma"
+        ],
+        [
+            "necrozma-ultra",
+            "Ultra Necrozma"
+        ]
+    ],
+    "magearna": [
+        [
+            "magearna",
+            "Magearna"
+        ],
+        [
+            "magearna-original-color",
+            "Original Color Magearna"
+        ]
+    ],
+    "cramorant": [
+        [
+            "cramorant",
+            "Cramorant"
+        ],
+        [
+            "cramorant-gorging",
+            "Cramorant Gorging Form"
+        ],
+        [
+            "cramorant-gulping",
+            "Cramorant Gulping Form"
+        ]
+    ],
+    "toxtricity": [
+        [
+            "toxtricity-amped",
+            "Toxtricity Amped Form"
+        ],
+        [
+            "toxtricity-low-key",
+            "Toxtricity Low Key Form"
+        ]
+    ],
+    "sinistea": [
+        [
+            "sinistea-phony",
+            "Sinistea Phony Form"
+        ],
+        [
+            "sinistea-antique",
+            "Sinistea Antique Form"
+        ]
+    ],
+    "polteageist": [
+        [
+            "polteageist-phony",
+            "Polteageist Phony Form"
+        ],
+        [
+            "polteageist-antique",
+            "Polteageist Antique Form"
+        ]
+    ],
+    "alcremie": [
+        [
+            "alcremie-caramel-swirl-berry",
+            "Berry Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-caramel-swirl-clover",
+            "Clover Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-caramel-swirl-flower",
+            "Flower Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-caramel-swirl-love",
+            "Love Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-caramel-swirl-ribbon",
+            "Ribbon Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-caramel-swirl-star",
+            "Star Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-caramel-swirl-strawberry",
+            "Strawberry Sweet Caramel Swirl Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-berry",
+            "Berry Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-clover",
+            "Clover Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-flower",
+            "Flower Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-love",
+            "Love Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-ribbon",
+            "Ribbon Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-star",
+            "Star Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-lemon-cream-strawberry",
+            "Strawberry Sweet Lemon Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-berry",
+            "Berry Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-clover",
+            "Clover Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-flower",
+            "Flower Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-love",
+            "Love Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-ribbon",
+            "Ribbon Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-star",
+            "Star Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-matcha-cream-strawberry",
+            "Strawberry Sweet Matcha Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-berry",
+            "Berry Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-clover",
+            "Clover Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-flower",
+            "Flower Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-love",
+            "Love Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-ribbon",
+            "Ribbon Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-star",
+            "Star Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-mint-cream-strawberry",
+            "Strawberry Sweet Mint Cream Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-berry",
+            "Berry Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-clover",
+            "Clover Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-flower",
+            "Flower Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-love",
+            "Love Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-ribbon",
+            "Ribbon Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-star",
+            "Star Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-rainbow-swirl-strawberry",
+            "Strawberry Sweet Rainbow Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-berry",
+            "Berry Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-clover",
+            "Clover Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-flower",
+            "Flower Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-love",
+            "Love Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-ribbon",
+            "Ribbon Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-star",
+            "Star Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-cream-strawberry",
+            "Strawberry Sweet Ruby Cream Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-berry",
+            "Berry Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-clover",
+            "Clover Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-flower",
+            "Flower Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-love",
+            "Love Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-ribbon",
+            "Ribbon Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-star",
+            "Star Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-ruby-swirl-strawberry",
+            "Strawberry Sweet Ruby Swirl Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-berry",
+            "Berry Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-clover",
+            "Clover Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-flower",
+            "Flower Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-love",
+            "Love Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-ribbon",
+            "Ribbon Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-star",
+            "Star Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-salted-cream-strawberry",
+            "Strawberry Sweet Salted Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-berry",
+            "Berry Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-clover",
+            "Clover Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-flower",
+            "Flower Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-love",
+            "Love Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-ribbon",
+            "Ribbon Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-star",
+            "Star Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-vanilla-cream-strawberry",
+            "Strawberry Sweet Vanilla Cream Alcremie"
+        ],
+        [
+            "alcremie-berry-shiny",
+            "Shiny Berry Sweet Alcremie"
+        ],
+        [
+            "alcremie-clover-shiny",
+            "Shiny Clover Sweet Alcremie"
+        ],
+        [
+            "alcremie-flower-shiny",
+            "Shiny Flower Sweet Alcremie"
+        ],
+        [
+            "alcremie-love-shiny",
+            "Shiny Love Sweet Alcremie"
+        ],
+        [
+            "alcremie-ribbon-shiny",
+            "Shiny Ribbon Sweet Alcremie"
+        ],
+        [
+            "alcremie-star-shiny",
+            "Shiny Star Sweet Alcremie"
+        ],
+        [
+            "alcremie-strawberry-shiny",
+            "Shiny Strawberry Sweet Alcremie"
+        ],
+        [
+            "alcremie-gmax-shiny",
+            "shiny Gigantamax Alcremie"
+        ]
+    ],
+    "eiscue": [
+        [
+            "eiscue-ice-face",
+            "Ice Face Eiscue"
+        ],
+        [
+            "eiscue-noice-face",
+            "Noice Face Eiscue"
+        ]
+    ],
+    "morpeko": [
+        [
+            "morpeko-full-belly-mode",
+            "Morpeko Full Belly Mode"
+        ],
+        [
+            "morpeko-hangry-mode",
+            "Morpeko Hangry Mode"
+        ]
+    ],
+    "zacian": [
+        [
+            "zacian-hero-of-many-battles",
+            "Zacian Hero of Many Battles"
+        ],
+        [
+            "zacian-crowned-sword",
+            "Zacian Crowned Sword"
+        ]
+    ],
+    "zamazenta": [
+        [
+            "zamazenta-hero-of-many-battles",
+            "Zamazenta Hero of Many Battles"
+        ],
+        [
+            "zamazenta-crowned-shield",
+            "Zamazenta Crowned Shield"
+        ]
+    ],
+    "eternatus": [
+        [
+            "eternatus",
+            "Eternatus"
+        ],
+        [
+            "eternatus-eternamax",
+            "Eternamax Eternatus"
+        ]
+    ],
+    "urshifu": [
+        [
+            "urshifu-rapid-strike-style",
+            "Urshifu Rapid Strike Style"
+        ],
+        [
+            "urshifu-single-strike-style",
+            "Urshifu Single Strike Style"
+        ]
+    ],
+    "zarude": [
+        [
+            "zarude",
+            "Zarude"
+        ],
+        [
+            "zarude-dada",
+            "Dada Zarude"
+        ]
+    ],
+    "calyrex": [
+        [
+            "calyrex",
+            "Calyrex"
+        ],
+        [
+            "calyrex-ice-rider",
+            "Calyrex Ice Rider"
+        ],
+        [
+            "calyrex-shadow-rider",
+            "Calyrex Shadow Rider"
+        ]
+    ],
+    "ursaluna": [
+        [
+            "ursaluna",
+            "Ursaluna"
+        ],
+        [
+            "ursaluna-bloodmoon",
+            "Bloodmoon Ursaluna"
+        ]
+    ],
+    "enamorus": [
+        [
+            "enamorus-incarnate",
+            "Enamorus Incarnate Forme"
+        ],
+        [
+            "enamorus-therian",
+            "Enamorus Therian Forme"
+        ]
+    ],
+    "maushold": [
+        [
+            "maushold-family-of-four",
+            "Maushold Family of Four"
+        ],
+        [
+            "maushold-family-of-three",
+            "Maushold Family of Three"
+        ]
+    ],
+    "squawkabilly": [
+        [
+            "squawkabilly-blue-plumage",
+            "Squawkabilly Blue Plumage"
+        ],
+        [
+            "squawkabilly-green-plumage",
+            "Squawkabilly Green Plumage"
+        ],
+        [
+            "squawkabilly-white-plumage",
+            "Squawkabilly Yellow Plumage"
+        ],
+        [
+            "squawkabilly-yellow-plumage",
+            "Squawkabilly White Plumage"
+        ]
+    ],
+    "palafin": [
+        [
+            "palafin-zero",
+            "Palafin Zero Form"
+        ],
+        [
+            "palafin-hero",
+            "Palafin Hero Form"
+        ]
+    ],
+    "tatsugiri": [
+        [
+            "tatsugiri-curly",
+            "Tatsugiri Curly Form"
+        ],
+        [
+            "tatsugiri-droopy",
+            "Tatsugiri Droopy Form"
+        ],
+        [
+            "tatsugiri-stretchy",
+            "Tatsugiri Stretchy Form"
+        ]
+    ],
+    "dudunsparce": [
+        [
+            "dudunsparce-two-segment",
+            "Dudunsparce Two-Segment Form"
+        ],
+        [
+            "dudunsparce-three-segment",
+            "Dudunsparce Three-Segment Form"
+        ]
+    ],
+    "gimmighoul": [
+        [
+            "gimmighoul-chest",
+            "Gimmighoul Chest Form"
+        ],
+        [
+            "gimmighoul-roaming",
+            "Gimmighoul Roaming Form"
+        ]
+    ],
+    "koraidon": [
+        [
+            "koraidon-apex-build",
+            "Koraidon Apex Build"
+        ],
+        [
+            "koraidon-limited-build",
+            "Koraidon Limited Build"
+        ],
+        [
+            "koraidon-sprinting-build",
+            "Koraidon Sprinting Build"
+        ],
+        [
+            "koraidon-swimming-build",
+            "Koraidon Swimming Build"
+        ],
+        [
+            "koraidon-gliding-build",
+            "Koraidon Gliding Build"
+        ]
+    ],
+    "miraidon": [
+        [
+            "miraidon-ultimate-mode",
+            "Miraidon Ultimate Mode"
+        ],
+        [
+            "miraidon-low-power-mode",
+            "Miraidon Low-Power Mode"
+        ],
+        [
+            "miraidon-drive-mode",
+            "Miraidon Drive Mode"
+        ],
+        [
+            "miraidon-aquatic-mode",
+            "Miraidon Aquatic Mode"
+        ],
+        [
+            "miraidon-glide-mode",
+            "Miraidon Glide Mode"
+        ]
+    ],
+    "poltchageist": [
+        [
+            "poltchageist-counterfeit",
+            "Poltchageist Counterfeit Form"
+        ],
+        [
+            "poltchageist-artisan",
+            "Poltchageist Artisan Form"
+        ]
+    ],
+    "sinistcha": [
+        [
+            "sinistcha-unremarkable",
+            "Sinistcha Unremarkable Form"
+        ],
+        [
+            "sinistcha-masterpiece",
+            "Sinistcha Masterpiece Form"
+        ]
+    ],
+    "ogerpon": [
+        [
+            "ogerpon-teal-mask",
+            "Teal Mask Ogerpon"
+        ],
+        [
+            "ogerpon-cornerstone-mask",
+            "Cornerstone Mask Ogerpon"
+        ],
+        [
+            "ogerpon-hearthflame-mask",
+            "Hearthflame Mask Ogerpon"
+        ],
+        [
+            "ogerpon-wellspring-mask",
+            "Wellspring Mask Ogerpon"
+        ],
+        [
+            "ogerpon-teal-mask-terastallized",
+            "Terastallized Teal Mask Ogerpon"
+        ],
+        [
+            "ogerpon-cornerstone-mask-terastallized",
+            "Terastallized Cornerstone Mask Ogerpon"
+        ],
+        [
+            "ogerpon-hearthflame-mask-terastallized",
+            "Terastallized Hearthflame Mask Ogerpon"
+        ],
+        [
+            "ogerpon-wellspring-mask-terastallized",
+            "Terastallized Wellspring Mask Ogerpon"
+        ]
+    ],
+    "terapagos": [
+        [
+            "terapagos-normal",
+            "Terapagos Normal Form"
+        ],
+        [
+            "terapagos-terastal",
+            "Terapagos Terastal Form"
+        ],
+        [
+            "terapagos-stellar",
+            "Terapagos Stellar Form"
+        ]
+    ]
+}
