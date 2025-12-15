@@ -527,7 +527,7 @@
         "kor": "숙달의씨",
         "spa": "Semilla Dominio"
     },
-    "cheri-berry": {
+    "hyper-cheri-berry": {
         "chi_sim": "樱子果",
         "chi_tra": "櫻子果",
         "deu": "Amrenabeere",
@@ -538,7 +538,7 @@
         "kor": "버치열매",
         "spa": "Baya Zreza"
     },
-    "chesto-berry": {
+    "hyper-chesto-berry": {
         "chi_sim": "零余果",
         "chi_tra": "零餘果",
         "deu": "Maronbeere",
@@ -549,7 +549,7 @@
         "kor": "유루열매",
         "spa": "Baya Atania"
     },
-    "pecha-berry": {
+    "hyper-pecha-berry": {
         "chi_sim": "桃桃果",
         "chi_tra": "桃桃果",
         "deu": "Pirsifbeere",
@@ -560,7 +560,7 @@
         "kor": "복슝열매",
         "spa": "Baya Meloc"
     },
-    "rawst-berry": {
+    "hyper-rawst-berry": {
         "chi_sim": "莓莓果",
         "chi_tra": "莓莓果",
         "deu": "Fragiabeere",
@@ -571,7 +571,7 @@
         "kor": "복분열매",
         "spa": "Baya Safre"
     },
-    "aspear-berry": {
+    "hyper-aspear-berry": {
         "chi_sim": "利木果",
         "chi_tra": "利木果",
         "deu": "Wilbirbeere",
@@ -582,7 +582,7 @@
         "kor": "배리열매",
         "spa": "Baya Perasi"
     },
-    "oran-berry": {
+    "hyper-oran-berry": {
         "chi_sim": "橙橙果",
         "chi_tra": "橙橙果",
         "deu": "Sinelbeere",
@@ -593,7 +593,7 @@
         "kor": "오랭열매",
         "spa": "Baya Aranja"
     },
-    "persim-berry": {
+    "hyper-persim-berry": {
         "chi_sim": "柿仔果",
         "chi_tra": "柿仔果",
         "deu": "Persimbeere",
@@ -604,7 +604,7 @@
         "kor": "시몬열매",
         "spa": "Baya Caquic"
     },
-    "lum-berry": {
+    "hyper-lum-berry": {
         "chi_sim": "木子果",
         "chi_tra": "木子果",
         "deu": "Prunusbeere",
@@ -615,7 +615,7 @@
         "kor": "리샘열매",
         "spa": "Baya Ziuela"
     },
-    "sitrus-berry": {
+    "hyper-sitrus-berry": {
         "chi_sim": "文柚果",
         "chi_tra": "文柚果",
         "deu": "Tsitrubeere",
@@ -626,7 +626,7 @@
         "kor": "자뭉열매",
         "spa": "Baya Zidra"
     },
-    "pomeg-berry": {
+    "hyper-pomeg-berry": {
         "chi_sim": "榴石果",
         "chi_tra": "榴石果",
         "deu": "Granabeere",
@@ -637,7 +637,7 @@
         "kor": "유석열매",
         "spa": "Baya Grana"
     },
-    "kelpsy-berry": {
+    "hyper-kelpsy-berry": {
         "chi_sim": "藻根果",
         "chi_tra": "藻根果",
         "deu": "Setangbeere",
@@ -648,7 +648,7 @@
         "kor": "시마열매",
         "spa": "Baya Algama"
     },
-    "qualot-berry": {
+    "hyper-qualot-berry": {
         "chi_sim": "比巴果",
         "chi_tra": "比巴果",
         "deu": "Qualotbeere",
@@ -659,7 +659,7 @@
         "kor": "파비열매",
         "spa": "Baya Ispero"
     },
-    "hondew-berry": {
+    "hyper-hondew-berry": {
         "chi_sim": "哈密果",
         "chi_tra": "哈密果",
         "deu": "Honmelbeere",
@@ -670,7 +670,7 @@
         "kor": "로매열매",
         "spa": "Baya Meluce"
     },
-    "grepa-berry": {
+    "hyper-grepa-berry": {
         "chi_sim": "萄葡果",
         "chi_tra": "萄葡果",
         "deu": "Labrusbeere",
@@ -681,7 +681,7 @@
         "kor": "또뽀열매",
         "spa": "Baya Uvav"
     },
-    "tamato-berry": {
+    "hyper-tamato-berry": {
         "chi_sim": "茄番果",
         "chi_tra": "茄番果",
         "deu": "Tamotbeere",
@@ -692,7 +692,7 @@
         "kor": "토망열매",
         "spa": "Baya Tamate"
     },
-    "occa-berry": {
+    "hyper-occa-berry": {
         "chi_sim": "巧可果",
         "chi_tra": "巧可果",
         "deu": "Koakobeere",
@@ -703,7 +703,7 @@
         "kor": "오카열매",
         "spa": "Baya Caoca"
     },
-    "passho-berry": {
+    "hyper-passho-berry": {
         "chi_sim": "千香果",
         "chi_tra": "千香果",
         "deu": "Foepasbeere",
@@ -714,7 +714,7 @@
         "kor": "꼬시개열매",
         "spa": "Baya Pasio"
     },
-    "wacan-berry": {
+    "hyper-wacan-berry": {
         "chi_sim": "烛木果",
         "chi_tra": "燭木果",
         "deu": "Kerzalbeere",
@@ -725,7 +725,7 @@
         "kor": "초나열매",
         "spa": "Baya Gualot"
     },
-    "rindo-berry": {
+    "hyper-rindo-berry": {
         "chi_sim": "罗子果",
         "chi_tra": "羅子果",
         "deu": "Grindobeere",
@@ -736,7 +736,7 @@
         "kor": "린드열매",
         "spa": "Baya Tamar"
     },
-    "yache-berry": {
+    "hyper-yache-berry": {
         "chi_sim": "番荔果",
         "chi_tra": "番荔果",
         "deu": "Kiroyabeere",
@@ -747,7 +747,7 @@
         "kor": "플카열매",
         "spa": "Baya Rimoya"
     },
-    "chople-berry": {
+    "hyper-chople-berry": {
         "chi_sim": "莲蒲果",
         "chi_tra": "蓮蒲果",
         "deu": "Rospelbeere",
@@ -758,7 +758,7 @@
         "kor": "로플열매",
         "spa": "Baya Pomaro"
     },
-    "kebia-berry": {
+    "hyper-kebia-berry": {
         "chi_sim": "通通果",
         "chi_tra": "通通果",
         "deu": "Grarzbeere",
@@ -769,7 +769,7 @@
         "kor": "으름열매",
         "spa": "Baya Kebia"
     },
-    "shuca-berry": {
+    "hyper-shuca-berry": {
         "chi_sim": "腰木果",
         "chi_tra": "腰木果",
         "deu": "Schukebeere",
@@ -780,7 +780,7 @@
         "kor": "슈캐열매",
         "spa": "Baya Acardo"
     },
-    "coba-berry": {
+    "hyper-coba-berry": {
         "chi_sim": "棱瓜果",
         "chi_tra": "棱瓜果",
         "deu": "Kobabeere",
@@ -791,7 +791,7 @@
         "kor": "바코열매",
         "spa": "Baya Kouba"
     },
-    "payapa-berry": {
+    "hyper-payapa-berry": {
         "chi_sim": "福禄果",
         "chi_tra": "福祿果",
         "deu": "Pyapabeere",
@@ -802,7 +802,7 @@
         "kor": "야파열매",
         "spa": "Baya Payapa"
     },
-    "tanga-berry": {
+    "hyper-tanga-berry": {
         "chi_sim": "扁樱果",
         "chi_tra": "扁櫻果",
         "deu": "Tanigabeere",
@@ -813,7 +813,7 @@
         "kor": "리체열매",
         "spa": "Baya Yecana"
     },
-    "charti-berry": {
+    "hyper-charti-berry": {
         "chi_sim": "草蚕果",
         "chi_tra": "草蠶果",
         "deu": "Chiaribeere",
@@ -824,7 +824,7 @@
         "kor": "루미열매",
         "spa": "Baya Alcho"
     },
-    "kasib-berry": {
+    "hyper-kasib-berry": {
         "chi_sim": "佛柑果",
         "chi_tra": "佛柑果",
         "deu": "Zitarzbeere",
@@ -835,7 +835,7 @@
         "kor": "수불열매",
         "spa": "Baya Drasi"
     },
-    "haban-berry": {
+    "hyper-haban-berry": {
         "chi_sim": "莓榴果",
         "chi_tra": "莓榴果",
         "deu": "Terirobeere",
@@ -846,7 +846,7 @@
         "kor": "하반열매",
         "spa": "Baya Anjiro"
     },
-    "colbur-berry": {
+    "hyper-colbur-berry": {
         "chi_sim": "刺耳果",
         "chi_tra": "刺耳果",
         "deu": "Burleobeere",
@@ -857,7 +857,7 @@
         "kor": "마코열매",
         "spa": "Baya Dillo"
     },
-    "babiri-berry": {
+    "hyper-babiri-berry": {
         "chi_sim": "霹霹果",
         "chi_tra": "霹霹果",
         "deu": "Babiribeere",
@@ -868,7 +868,7 @@
         "kor": "바리비열매",
         "spa": "Baya Baribá"
     },
-    "chilan-berry": {
+    "hyper-chilan-berry": {
         "chi_sim": "灯浆果",
         "chi_tra": "姑娘果",
         "deu": "Latchibeere",
@@ -879,7 +879,7 @@
         "kor": "카리열매",
         "spa": "Baya Chilan"
     },
-    "roseli-berry": {
+    "hyper-roseli-berry": {
         "chi_sim": "洛玫果",
         "chi_tra": "洛玫果",
         "deu": "Hibisbeere",
