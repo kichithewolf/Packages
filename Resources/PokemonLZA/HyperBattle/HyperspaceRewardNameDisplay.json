@@ -98,6 +98,28 @@
         "kor": "문볼",
         "spa": "Luna Ball"
     },
+    "safari-ball": {
+        "chi_sim": "狩猎球",
+        "chi_tra": "狩獵球",
+        "deu": "Safariball",
+        "eng": "Safari Ball",
+        "fra": "Safari Ball",
+        "ita": "Safari Ball",
+        "jpn": "サファリボール",
+        "kor": "사파리볼",
+        "spa": "Safaribola"
+    },
+    "sport-ball": {
+        "chi_sim": "竞赛球",
+        "chi_tra": "競賽球",
+        "deu": "Turnierball",
+        "eng": "Sport Ball",
+        "fra": "Compét’Ball",
+        "ita": "Gara Ball",
+        "jpn": "コンペボール",
+        "kor": "컴퍼티션볼",
+        "spa": "Competibola"
+    },
     "bottle-cap": {
         "chi_sim": "银色王冠",
         "chi_tra": "銀色王冠",
