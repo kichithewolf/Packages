@@ -184,7 +184,7 @@
         "ita": "Baccapesca dimensionale",
         "jpn": "いじげんモモンのみ",
         "kor": "이차원 복슝열매",
-        "spa": "Baya Meloc D"
+        "spa": ["Baya Meloc D", "Baya Duraz D"]
     },
     "hyper-rawst-berry": {
         "chi_sim": "异次元莓莓果",
@@ -250,7 +250,7 @@
         "ita": "Baccacedro dimensionale",
         "jpn": "いじげんオボンのみ",
         "kor": "이차원 자뭉열매",
-        "spa": "Baya Zidra D"
+        "spa": ["Baya Zidra D", "Baya Citrón D"]
     },
     "hyper-pomeg-berry": {
         "chi_sim": "异次元榴石果",
