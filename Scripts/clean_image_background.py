@@ -1,11 +1,13 @@
 """
 Image icon processor that filters out background pixels by color range.
 Sets background pixels within specified color bounds to black with alpha = 0.
+Supports both RGB and HSV color spaces.
 """
 
 import argparse
 from PIL import Image
 import sys
+import colorsys
 
 
 def parse_color(color_str: str) -> tuple[int, int , int]:
@@ -36,15 +38,49 @@ def parse_point(point_str: str) -> tuple[int, int]:
         raise ValueError(f"Invalid point format '{point_str}': {e}")
 
 
-def is_within_bounds(pixel, lower_bound, upper_bound):
-    """Check if pixel color is within the specified bounds."""
-    r, g, b = pixel[:3]  # Only check RGB, ignore alpha if present
-    lr, lg, lb = lower_bound
-    ur, ug, ub = upper_bound
+def rgb_to_hsv_opencv(r, g, b):
+    """
+    Convert RGB (0-255) to HSV using OpenCV convention.
 
-    return (lr <= r <= ur and
-            lg <= g <= ug and
-            lb <= b <= ub)
+    Returns:
+        tuple: (H, S, V) matching OpenCV's cv2.COLOR_BGR2HSV format
+               H: 0-179 (maps 0-360° to 0-179, half-range for 8-bit storage)
+               S: 0-255 (maps 0-100% saturation)
+               V: 0-255 (maps 0-100% value/brightness)
+    """
+    h, s, v = colorsys.rgb_to_hsv(r / 255.0, g / 255.0, b / 255.0)
+    return (int(h * 179), int(s * 255), int(v * 255))
+
+
+def is_within_bounds(pixel, lower_bound, upper_bound, use_hsv=False):
+    """
+    Check if pixel color is within the specified bounds.
+
+    Args:
+        pixel: Pixel color tuple (R, G, B, A) or (R, G, B)
+        lower_bound: Lower bound color tuple (3 values)
+        upper_bound: Upper bound color tuple (3 values)
+        use_hsv: If True, convert to HSV before comparison
+    """
+    r, g, b = pixel[:3]  # Only check RGB, ignore alpha if present
+
+    if use_hsv:
+        # Convert pixel to HSV (OpenCV convention: H=0-179, S=0-255, V=0-255)
+        h, s, v = rgb_to_hsv_opencv(r, g, b)
+        lh, ls, lv = lower_bound
+        uh, us, uv = upper_bound
+
+        return (lh <= h <= uh and
+                ls <= s <= us and
+                lv <= v <= uv)
+    else:
+        # RGB comparison
+        lr, lg, lb = lower_bound
+        ur, ug, ub = upper_bound
+
+        return (lr <= r <= ur and
+                lg <= g <= ug and
+                lb <= b <= ub)
 
 
 def process_image(
@@ -54,18 +90,23 @@ def process_image(
     inverse: bool,
     flood_fill: bool,
     manual_points: list[tuple[int, int]],
-    output_path: str
+    output_path: str,
+    use_hsv: bool = False
 ):
     """
     Process image by setting background pixels within color bounds to black with alpha = 0.
 
     Args:
         input_path: Path to input image
-        lower_color: Lower bound color tuple (R, G, B)
-        upper_color: Upper bound color tuple (R, G, B)
+        lower_color: Lower bound color tuple (R,G,B) or (H,S,V)
+                     HSV uses OpenCV ranges: H=0-179, S=0-255, V=0-255
+        upper_color: Upper bound color tuple (R,G,B) or (H,S,V)
+                     HSV uses OpenCV ranges: H=0-179, S=0-255, V=0-255
+        inverse: If True, remove pixels outside the color bounds
         flood_fill: If True, use flood fill from image boundary to remove background
         manual_points: List of (x, y) tuples to manually set as background/seeds
         output_path: Path to save processed image
+        use_hsv: If True, use HSV color space for comparison (OpenCV convention)
     """
     # Load image
     img = Image.open(input_path)
@@ -82,7 +123,7 @@ def process_image(
     count = 0
 
     def is_background(p):
-        within_bounds = is_within_bounds(p, lower_color, upper_color)
+        within_bounds = is_within_bounds(p, lower_color, upper_color, use_hsv)
         return within_bounds != inverse # (not inverse and within_bounds) or (inverse and not within_bounds)
 
     if flood_fill:
@@ -147,15 +188,22 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='''
 Examples:
+  # RGB mode (default)
   %(prog)s input.png "255,0,0" "255,100,100" -o output.png
   %(prog)s icon.png "0,0,0" "50,50,50"
+
+  # HSV mode (OpenCV ranges: H=0-179, S=0-255, V=0-255)
+  %(prog)s input.png "0,100,100" "10,255,255" --hsv -f -o output.png
+  %(prog)s icon.png "100,50,50" "130,255,255" --hsv  # Blue hue range
         '''
     )
 
     parser.add_argument('input', help='Path to input image')
-    parser.add_argument('lower_color', help='Lower bound background color in format "R,G,B"')
-    parser.add_argument('upper_color', help='Upper bound background color in format "R,G,B"')
+    parser.add_argument('lower_color', help='Lower bound background color in format "R,G,B" or "H,S,V" (with --hsv)')
+    parser.add_argument('upper_color', help='Upper bound background color in format "R,G,B" or "H,S,V" (with --hsv)')
     parser.add_argument('-i', '--inverse', action='store_true', help='inverse color range, defining the color outside of the bounds as background')
+    parser.add_argument('--hsv', action='store_true',
+                        help='Use HSV color space (OpenCV convention: H=0-179 for 0-360°, S=0-255, V=0-255)')
     parser.add_argument('-f', '--flood-fill', action='store_true', help='Use flood fill from image boundary to remove background')
     parser.add_argument('-p', '--points', nargs='+', help='Manually add a point "x,y" to be set as background (and used as seed for flood fill)')
     parser.add_argument('-o', '--output', default='output.png',
@@ -181,7 +229,7 @@ Examples:
             sys.exit(1)
 
     # Process the image
-    process_image(args.input, lower, upper, args.inverse, args.flood_fill, manual_points, args.output)
+    process_image(args.input, lower, upper, args.inverse, args.flood_fill, manual_points, args.output, args.hsv)
 
 
 if __name__ == '__main__':
