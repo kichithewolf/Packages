@@ -6183,24 +6183,6 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "kyurem",
-    "form_slug": "white",
-    "natID": 646,
-    "primaryType": "dragon",
-    "secondaryType": "ice",
-    "slug": "kyurem-white",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "kyurem",
-    "form_slug": "black",
-    "natID": 646,
-    "primaryType": "dragon",
-    "secondaryType": "ice",
-    "slug": "kyurem-black",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "keldeo",
     "form_slug": "ordinary",
     "natID": 647,
@@ -6219,57 +6201,12 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "meloetta",
-    "form_slug": "pirouette",
-    "natID": 648,
-    "primaryType": "normal",
-    "secondaryType": "fighting",
-    "slug": "meloetta-pirouette",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "genesect",
     "form_slug": "none",
     "natID": 649,
     "primaryType": "bug",
     "secondaryType": "steel",
     "slug": "genesect",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "genesect",
-    "form_slug": "douse-drive",
-    "natID": 649,
-    "primaryType": "bug",
-    "secondaryType": "steel",
-    "slug": "genesect-douse-drive",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "genesect",
-    "form_slug": "shock-drive",
-    "natID": 649,
-    "primaryType": "bug",
-    "secondaryType": "steel",
-    "slug": "genesect-shock-drive",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "genesect",
-    "form_slug": "burn-drive",
-    "natID": 649,
-    "primaryType": "bug",
-    "secondaryType": "steel",
-    "slug": "genesect-burn-drive",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "genesect",
-    "form_slug": "chill-drive",
-    "natID": 649,
-    "primaryType": "bug",
-    "secondaryType": "steel",
-    "slug": "genesect-chill-drive",
     "has_gender_difference": false
   },
   {
@@ -9852,24 +9789,6 @@
     "primaryType": "normal",
     "secondaryType": null,
     "slug": "terapagos",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "terapagos",
-    "form_slug": "terastal",
-    "natID": 1024,
-    "primaryType": "normal",
-    "secondaryType": null,
-    "slug": "terapagos-terastal",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "terapagos",
-    "form_slug": "stellar",
-    "natID": 1024,
-    "primaryType": "normal",
-    "secondaryType": null,
-    "slug": "terapagos-stellar",
     "has_gender_difference": false
   },
   {
