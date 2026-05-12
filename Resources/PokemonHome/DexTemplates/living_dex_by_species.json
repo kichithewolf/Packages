@@ -3510,30 +3510,12 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "kyogre",
-    "form_slug": "primal",
-    "natID": 382,
-    "primaryType": "water",
-    "secondaryType": null,
-    "slug": "kyogre-primal",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "groudon",
     "form_slug": "none",
     "natID": 383,
     "primaryType": "ground",
     "secondaryType": null,
     "slug": "groudon",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "groudon",
-    "form_slug": "primal",
-    "natID": 383,
-    "primaryType": "ground",
-    "secondaryType": "fire",
-    "slug": "groudon-primal",
     "has_gender_difference": false
   },
   {
