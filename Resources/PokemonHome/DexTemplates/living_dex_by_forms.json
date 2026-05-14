@@ -237,8 +237,8 @@
     "species_slug": "rattata",
     "form_slug": "alolan",
     "natID": 19,
-    "primaryType": "normal",
-    "secondaryType": "dark",
+    "primaryType": "dark",
+    "secondaryType": "normal",
     "slug": "rattata-alolan",
     "has_gender_difference": false
   },
@@ -264,8 +264,8 @@
     "species_slug": "raticate",
     "form_slug": "alolan",
     "natID": 20,
-    "primaryType": "normal",
-    "secondaryType": "dark",
+    "primaryType": "dark",
+    "secondaryType": "normal",
     "slug": "raticate-alolan",
     "has_gender_difference": false
   },
@@ -13155,6 +13155,15 @@
     "primaryType": "poison",
     "secondaryType": "fairy",
     "slug": "fezandipiti",
+    "has_gender_difference": false
+  },
+  {
+    "species_slug": "ogerpon",
+    "form_slug": "teal-mask",
+    "natID": 1017,
+    "primaryType": "grass",
+    "secondaryType": null,
+    "slug": "ogerpon-teal-mask",
     "has_gender_difference": false
   },
   {
