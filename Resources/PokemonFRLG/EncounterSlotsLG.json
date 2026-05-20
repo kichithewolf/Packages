@@ -2502,7 +2502,7 @@
                 "maxLevel": 7
             },
             {
-                "species": "nidoran♀",
+                "species": "nidoran-f",
                 "minLevel": 6,
                 "maxLevel": 6
             },
@@ -2522,7 +2522,7 @@
                 "maxLevel": 3
             },
             {
-                "species": "nidoran♀",
+                "species": "nidoran-f",
                 "minLevel": 7,
                 "maxLevel": 7
             },
@@ -2532,7 +2532,7 @@
                 "maxLevel": 5
             },
             {
-                "species": "nidoran♂",
+                "species": "nidoran-m",
                 "minLevel": 6,
                 "maxLevel": 6
             },
@@ -3851,7 +3851,7 @@
                 "maxLevel": 25
             },
             {
-                "species": "nidoran♀",
+                "species": "nidoran-f",
                 "minLevel": 22,
                 "maxLevel": 22
             },
@@ -3908,7 +3908,7 @@
         ],
         "safari_zone_area_1_east": [
             {
-                "species": "nidoran♀",
+                "species": "nidoran-f",
                 "minLevel": 24,
                 "maxLevel": 24
             },
@@ -3938,7 +3938,7 @@
                 "maxLevel": 33
             },
             {
-                "species": "nidoran♂",
+                "species": "nidoran-m",
                 "minLevel": 24,
                 "maxLevel": 24
             },
@@ -3975,7 +3975,7 @@
                 "maxLevel": 26
             },
             {
-                "species": "nidoran♀",
+                "species": "nidoran-f",
                 "minLevel": 30,
                 "maxLevel": 30
             },
@@ -4037,7 +4037,7 @@
                 "maxLevel": 26
             },
             {
-                "species": "nidoran♀",
+                "species": "nidoran-f",
                 "minLevel": 22,
                 "maxLevel": 22
             },
@@ -4062,7 +4062,7 @@
                 "maxLevel": 30
             },
             {
-                "species": "nidoran♂",
+                "species": "nidoran-m",
                 "minLevel": 30,
                 "maxLevel": 30
             },
