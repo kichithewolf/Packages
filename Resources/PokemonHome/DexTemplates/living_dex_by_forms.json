@@ -4536,33 +4536,6 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "castform",
-    "form_slug": "sunny",
-    "natID": 351,
-    "primaryType": "fire",
-    "secondaryType": null,
-    "slug": "castform-sunny",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "castform",
-    "form_slug": "rainy",
-    "natID": 351,
-    "primaryType": "water",
-    "secondaryType": null,
-    "slug": "castform-rainy",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "castform",
-    "form_slug": "snowy",
-    "natID": 351,
-    "primaryType": "ice",
-    "secondaryType": null,
-    "slug": "castform-snowy",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "kecleon",
     "form_slug": "none",
     "natID": 352,
@@ -5400,15 +5373,6 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "cherrim",
-    "form_slug": "sunshine",
-    "natID": 421,
-    "primaryType": "grass",
-    "secondaryType": null,
-    "slug": "cherrim-sunshine",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "shellos",
     "form_slug": "west-sea",
     "natID": 422,
@@ -6165,30 +6129,12 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "dialga",
-    "form_slug": "origin",
-    "natID": 483,
-    "primaryType": "steel",
-    "secondaryType": "dragon",
-    "slug": "dialga-origin",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "palkia",
     "form_slug": "none",
     "natID": 484,
     "primaryType": "water",
     "secondaryType": "dragon",
     "slug": "palkia",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "palkia",
-    "form_slug": "origin",
-    "natID": 484,
-    "primaryType": "water",
-    "secondaryType": "dragon",
-    "slug": "palkia-origin",
     "has_gender_difference": false
   },
   {
@@ -6216,15 +6162,6 @@
     "primaryType": "ghost",
     "secondaryType": "dragon",
     "slug": "giratina-altered",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "giratina",
-    "form_slug": "origin",
-    "natID": 487,
-    "primaryType": "ghost",
-    "secondaryType": "dragon",
-    "slug": "giratina-origin",
     "has_gender_difference": false
   },
   {
@@ -6288,168 +6225,6 @@
     "primaryType": "normal",
     "secondaryType": null,
     "slug": "arceus-normal",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "fighting",
-    "natID": 493,
-    "primaryType": "fighting",
-    "secondaryType": null,
-    "slug": "arceus-fighting",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "flying",
-    "natID": 493,
-    "primaryType": "flying",
-    "secondaryType": null,
-    "slug": "arceus-flying",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "poison",
-    "natID": 493,
-    "primaryType": "poison",
-    "secondaryType": null,
-    "slug": "arceus-poison",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "ground",
-    "natID": 493,
-    "primaryType": "ground",
-    "secondaryType": null,
-    "slug": "arceus-ground",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "rock",
-    "natID": 493,
-    "primaryType": "rock",
-    "secondaryType": null,
-    "slug": "arceus-rock",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "bug",
-    "natID": 493,
-    "primaryType": "bug",
-    "secondaryType": null,
-    "slug": "arceus-bug",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "ghost",
-    "natID": 493,
-    "primaryType": "ghost",
-    "secondaryType": null,
-    "slug": "arceus-ghost",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "steel",
-    "natID": 493,
-    "primaryType": "steel",
-    "secondaryType": null,
-    "slug": "arceus-steel",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "fire",
-    "natID": 493,
-    "primaryType": "fire",
-    "secondaryType": null,
-    "slug": "arceus-fire",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "water",
-    "natID": 493,
-    "primaryType": "water",
-    "secondaryType": null,
-    "slug": "arceus-water",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "grass",
-    "natID": 493,
-    "primaryType": "grass",
-    "secondaryType": null,
-    "slug": "arceus-grass",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "electric",
-    "natID": 493,
-    "primaryType": "electric",
-    "secondaryType": null,
-    "slug": "arceus-electric",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "psychic",
-    "natID": 493,
-    "primaryType": "psychic",
-    "secondaryType": null,
-    "slug": "arceus-psychic",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "ice",
-    "natID": 493,
-    "primaryType": "ice",
-    "secondaryType": null,
-    "slug": "arceus-ice",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "dragon",
-    "natID": 493,
-    "primaryType": "dragon",
-    "secondaryType": null,
-    "slug": "arceus-dragon",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "dark",
-    "natID": 493,
-    "primaryType": "dark",
-    "secondaryType": null,
-    "slug": "arceus-dark",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "fairy",
-    "natID": 493,
-    "primaryType": "fairy",
-    "secondaryType": null,
-    "slug": "arceus-fairy",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "arceus",
-    "form_slug": "legend",
-    "natID": 493,
-    "primaryType": "normal",
-    "secondaryType": null,
-    "slug": "arceus-legend",
     "has_gender_difference": false
   },
   {
@@ -8784,15 +8559,6 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "aegislash",
-    "form_slug": "blade",
-    "natID": 681,
-    "primaryType": "steel",
-    "secondaryType": "ghost",
-    "slug": "aegislash-blade",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "spritzee",
     "form_slug": "none",
     "natID": 682,
@@ -9549,15 +9315,6 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "wishiwashi",
-    "form_slug": "school",
-    "natID": 746,
-    "primaryType": "water",
-    "secondaryType": null,
-    "slug": "wishiwashi-school",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "mareanie",
     "form_slug": "none",
     "natID": 747,
@@ -9793,164 +9550,11 @@
   },
   {
     "species_slug": "silvally",
-    "form_slug": "poison",
-    "natID": 773,
-    "primaryType": "poison",
-    "secondaryType": null,
-    "slug": "silvally-poison",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "fighting",
-    "natID": 773,
-    "primaryType": "fighting",
-    "secondaryType": null,
-    "slug": "silvally-fighting",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "ghost",
-    "natID": 773,
-    "primaryType": "ghost",
-    "secondaryType": null,
-    "slug": "silvally-ghost",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "bug",
-    "natID": 773,
-    "primaryType": "bug",
-    "secondaryType": null,
-    "slug": "silvally-bug",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "rock",
-    "natID": 773,
-    "primaryType": "rock",
-    "secondaryType": null,
-    "slug": "silvally-rock",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "fire",
-    "natID": 773,
-    "primaryType": "fire",
-    "secondaryType": null,
-    "slug": "silvally-fire",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "fairy",
-    "natID": 773,
-    "primaryType": "fairy",
-    "secondaryType": null,
-    "slug": "silvally-fairy",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "steel",
-    "natID": 773,
-    "primaryType": "steel",
-    "secondaryType": null,
-    "slug": "silvally-steel",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "ground",
-    "natID": 773,
-    "primaryType": "ground",
-    "secondaryType": null,
-    "slug": "silvally-ground",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
     "form_slug": "normal",
     "natID": 773,
     "primaryType": "normal",
     "secondaryType": null,
     "slug": "silvally-normal",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "dark",
-    "natID": 773,
-    "primaryType": "dark",
-    "secondaryType": null,
-    "slug": "silvally-dark",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "flying",
-    "natID": 773,
-    "primaryType": "flying",
-    "secondaryType": null,
-    "slug": "silvally-flying",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "dragon",
-    "natID": 773,
-    "primaryType": "dragon",
-    "secondaryType": null,
-    "slug": "silvally-dragon",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "grass",
-    "natID": 773,
-    "primaryType": "grass",
-    "secondaryType": null,
-    "slug": "silvally-grass",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "psychic",
-    "natID": 773,
-    "primaryType": "psychic",
-    "secondaryType": null,
-    "slug": "silvally-psychic",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "electric",
-    "natID": 773,
-    "primaryType": "electric",
-    "secondaryType": null,
-    "slug": "silvally-electric",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "ice",
-    "natID": 773,
-    "primaryType": "ice",
-    "secondaryType": null,
-    "slug": "silvally-ice",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "silvally",
-    "form_slug": "water",
-    "natID": 773,
-    "primaryType": "water",
-    "secondaryType": null,
-    "slug": "silvally-water",
     "has_gender_difference": false
   },
   {
