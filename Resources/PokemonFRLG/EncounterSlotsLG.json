@@ -4526,64 +4526,436 @@
                 "maxLevel": 52
             }
         ],
-        "tanoby_ruins_chambers": [
+        "tanoby_ruins_monean_chamber": [
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-a",
                 "minLevel": 25,
                 "maxLevel": 25
             },
             {
-                "species": "unown",
+                "species": "unown-?",
+                "minLevel": 25,
+                "maxLevel": 25
+            }
+        ],
+        "tanoby_ruins_liptoo_chamber": [
+            {
+                "species": "unown-c",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-c",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-c",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-d",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-d",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-d",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-h",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-h",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-h",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-u",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-u",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-o",
+                "minLevel": 25,
+                "maxLevel": 25
+            }
+        ],
+        "tanoby_ruins_weepth_chamber": [
+            {
+                "species": "unown-n",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-n",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-n",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-n",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-s",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-s",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-s",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-s",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-i",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-i",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-e",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-e",
+                "minLevel": 25,
+                "maxLevel": 25
+            }
+        ],
+        "tanoby_ruins_dilford_chamber": [
+            {
+                "species": "unown-p",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-p",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-l",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-l",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-j",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-j",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-r",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-r",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-r",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-q",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-q",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-q",
+                "minLevel": 25,
+                "maxLevel": 25
+            }
+        ],
+        "tanoby_ruins_scufib_chamber": [
+            {
+                "species": "unown-y",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-y",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-t",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-t",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-g",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-g",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-g",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-f",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-f",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-f",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-k",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-k",
+                "minLevel": 25,
+                "maxLevel": 25
+            }
+        ],
+        "tanoby_ruins_rixy_chamber": [
+            {
+                "species": "unown-v",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-v",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-v",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-w",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-w",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-w",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-x",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-x",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-m",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-m",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-b",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-b",
+                "minLevel": 25,
+                "maxLevel": 25
+            }
+        ],
+        "tanoby_ruins_viapois_chamber": [
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-z",
+                "minLevel": 25,
+                "maxLevel": 25
+            },
+            {
+                "species": "unown-!",
                 "minLevel": 25,
                 "maxLevel": 25
             }
